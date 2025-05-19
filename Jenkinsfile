@@ -18,7 +18,7 @@ pipeline {
         stage('Docker') {
             steps {
                 withFolderProperties {
-                    sh "docker build --build-arg NPM_CONFIG_REGISTRY=${env.NPM_CONFIG_REGISTRY} --build-arg JFROG_API_KEY=${env.JFROG_API_KEY} --no-cache -t ghcr.io/${env.GIT_ORG}/${env.REPO}:${env.BRANCH_NAME}-${env.GIT_COMMIT} ."
+                    sh "docker build --no-cache -t ghcr.io/${env.GIT_ORG}/${env.REPO}:${env.BRANCH_NAME}-${env.GIT_COMMIT} ."
                     withCredentials([usernamePassword(credentialsId: 'github_registry', usernameVariable: 'DOCKER_USERNAME', passwordVariable: 'DOCKER_PASSWORD')]) {
                         sh "docker login ghcr.io -u ${DOCKER_USERNAME} -p ${DOCKER_PASSWORD}"
                         sh "docker push ghcr.io/${env.GIT_ORG}/${env.REPO}:${env.BRANCH_NAME}-${env.GIT_COMMIT}"
