@@ -18,10 +18,10 @@ pipeline {
         stage('Docker') {
             steps {
                 withFolderProperties {
-                    sh "docker build --no-cache -t ghcr.io/werunplugged/${env.REPO}:${env.BRANCH_NAME}-${env.GIT_COMMIT} ."
+                    sh "docker build --no-cache -t ghcr.io/werunplugged/${env.REPO}:${env.GIT_COMMIT} ."
                     withCredentials([usernamePassword(credentialsId: 'github_registry', usernameVariable: 'DOCKER_USERNAME', passwordVariable: 'DOCKER_PASSWORD')]) {
                         sh "docker login ghcr.io -u ${DOCKER_USERNAME} -p ${DOCKER_PASSWORD}"
-                        sh "docker push ghcr.io/werunplugged/${env.REPO}:${env.BRANCH_NAME}-${env.GIT_COMMIT}"
+                        sh "docker push ghcr.io/werunplugged/${env.REPO}:${env.GIT_COMMIT}"
                     }
                 }
             }
@@ -32,7 +32,7 @@ pipeline {
                 script{
                     withCredentials([[$class: 'AmazonWebServicesCredentialsBinding', accessKeyVariable: 'AWS_ACCESS_KEY_ID', credentialsId: "aws_credentials", secretKeyVariable: 'AWS_SECRET_ACCESS_KEY']]) {
                         sh """
-                            perl -i pe 's@IMAGE@ghcr.io/werunplugged/${env.REPO}:${env.BRANCH_NAME}-${env.GIT_COMMIT}@g' k8s/deployment.yaml
+                            perl -i -pe 's@IMAGE@ghcr.io/werunplugged/${env.REPO}:${env.GIT_COMMIT}@g' k8s/deployment.yaml
                             aws eks update-kubeconfig --kubeconfig ./kubeconfig --region eu-west-2 --name prod
                             kubectl apply --kubeconfig ./kubeconfig -f k8s/deployment.yaml
                             kubectl apply --kubeconfig ./kubeconfig -f k8s/service.yaml
@@ -45,7 +45,7 @@ pipeline {
     }
      post {
         always {
-            sh "docker rmi ghcr.io/werunplugged/${env.REPO}:${env.BRANCH_NAME}-${env.GIT_COMMIT} || true"
+            sh "docker rmi ghcr.io/werunplugged/${env.REPO}:${env.GIT_COMMIT} || true"
             cleanWs()
         }
     }
