@@ -17,6 +17,6 @@ spec:
     spec:
       containers:
         - name: nginx
-          image: store-mock-server:latest
+          image: IMAGE
           ports:
             - containerPort: 80
