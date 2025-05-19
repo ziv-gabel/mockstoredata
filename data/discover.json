@@ -1,0 +1,65 @@
+{
+  "top": [
+    {
+      "applicationId": "com.twitter.android",
+      "applicationName": "X",
+      "applicationType": "News & Magazines",
+      "description": "The X app is the trusted global digital town square for everyone",
+      "versionName": "10.96.0-release 0",
+      "versionCode": 310960000,
+      "privacyRating": 3.5,
+      "iconUrl": "https://fsn1.your-objectstorage.com/app-store-prod/com.twitter.android/icon/icon.png",
+      "rating": 2,
+      "appSize": 112
+    },
+    {
+      "applicationId": "org.thoughtcrime.securesms",
+      "applicationName": "Signal Private Messenger",
+      "applicationType": "Communication",
+      "description": "Signal is a messaging app with privacy at its core. It is free and easy to use, with strong end-to-end encryption that keeps your communication completely private.",
+      "versionName": "7.41.3",
+      "versionCode": 154200,
+      "privacyRating": 3.5,
+      "iconUrl": "https://fsn1.your-objectstorage.com/app-store-prod/org.thoughtcrime.securesms/icon/icon.png",
+      "rating": 2,
+      "appSize": 85
+    },
+    {
+      "applicationId": "com.spotify.music",
+      "applicationName": "Spotify: Music and Podcasts",
+      "applicationType": "Music & Audio",
+      "description": "With the Spotify music and podcast app, you can play millions of songs, albums and original podcasts for free. We have even added audiobooks, so you can enjoy thousands of stories wherever you are!",
+      "versionName": "9.0.42.529",
+      "versionCode": 127667831,
+      "privacyRating": 3.5,
+      "iconUrl": "https://fsn1.your-objectstorage.com/app-store-prod/com.spotify.music/icon/icon.png",
+      "rating": 2,
+      "appSize": 62
+    },
+    {
+      "applicationId": "com.facebook.katana",
+      "applicationName": "Facebook",
+      "applicationType": "Social",
+      "description": "Where real people propel your curiosity.",
+      "versionName": "512.0.0.64.75",
+      "versionCode": 461420410,
+      "privacyRating": 2.5,
+      "iconUrl": "https://fsn1.your-objectstorage.com/app-store-prod/com.facebook.katana/icon/icon.png",
+      "rating": 2,
+      "appSize": 143,
+      "fileAppUrl": "https://fsn1.your-objectstorage.com/app-store-prod/com.facebook.katana/apk/v512.0.0.64.75/com_facebook_katana_v512.0.0.64.75.apk"
+    },
+    {
+      "applicationId": "org.telegram.messenger",
+      "applicationName": "Telegram",
+      "applicationType": "Communication",
+      "description": "Pure instant messaging — simple, fast, secure, and synced across all your devices.",
+      "versionName": "11.11.1",
+      "versionCode": 59302,
+      "privacyRating": 3.5,
+      "iconUrl": "https://fsn1.your-objectstorage.com/app-store-prod/org.telegram.messenger/icon/icon.png",
+      "rating": 2,
+      "appSize": 24
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  name: store-mock-server
+  namespace: up-service
+  labels:
+    app: store-mock
+spec:
+  replicas: 1
+  selector:
+    matchLabels:
+      app: store-mock
+  template:
+    metadata:
+      labels:
+        app: store-mock
+    spec:
+      containers:
+        - name: nginx
+          image: store-mock-server:latest
+          ports:
+            - containerPort: 80

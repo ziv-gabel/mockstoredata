@@ -1,0 +1,100 @@
+{
+  "categories": [
+    {
+      "title": "Navigate everywhere you like",
+      "CategoryName": "Navigation",
+      "apps": [
+        {
+          "applicationId": "com.here.app.maps",
+          "applicationName": "HERE WeGo: Maps & Navigation",
+          "applicationType": "Maps & Navigation",
+          "description": "Welcome to the new HERE WeGo!",
+          "versionName": "4.16.000",
+          "versionCode": 8022030,
+          "privacyRating": 4.0,
+          "iconUrl": "https://fsn1.your-objectstorage.com/app-store-prod/com.here.app.maps/icon/icon.png",
+          "rating": 2,
+          "appSize": 67.0
+        },
+        {
+          "applicationId": "app.organicmaps",
+          "applicationName": "Organic Maps: Hike Bike Drive",
+          "applicationType": "Maps & Navigation",
+          "description": "Our free app does not track you, does not have ads, and it needs your support.",
+          "versionName": "2025.04.21-5-Google",
+          "versionCode": 25042105,
+          "privacyRating": 3.5,
+          "iconUrl": "https://fsn1.your-objectstorage.com/app-store-prod/app.organicmaps/icon/icon.png",
+          "rating": 2,
+          "appSize": 94.0
+        },
+        {
+          "applicationId": "com.waze",
+          "applicationName": "Waze Navigation & Live Traffic",
+          "applicationType": "Maps & Navigation",
+          "description": "Waze is a live map that harnesses the knowledge of tens of millions of drivers.",
+          "versionName": "5.6.5.2",
+          "versionCode": 1030577,
+          "privacyRating": 2.0,
+          "iconUrl": "https://fsn1.your-objectstorage.com/app-store-prod/com.waze/icon/icon.png",
+          "rating": 2,
+          "appSize": 86.0
+        }
+      ]
+    },
+    {
+      "title": "Communicate with your loved ones",
+      "CategoryName": "Communication",
+      "apps": [
+        {
+          "applicationId": "org.thoughtcrime.securesms",
+          "applicationName": "Signal Private Messenger",
+          "applicationType": "Communication",
+          "description": "Signal is a messaging app with privacy at its core.",
+          "versionName": "7.41.3",
+          "versionCode": 154200,
+          "privacyRating": 3.5,
+          "iconUrl": "https://fsn1.your-objectstorage.com/app-store-prod/org.thoughtcrime.securesms/icon/icon.png",
+          "rating": 2,
+          "appSize": 85.0
+        },
+        {
+          "applicationId": "org.telegram.messenger",
+          "applicationName": "Telegram",
+          "applicationType": "Communication",
+          "description": "Fast, secure, and cloud-based messaging.",
+          "versionName": "11.11.1",
+          "versionCode": 59302,
+          "privacyRating": 3.5,
+          "iconUrl": "https://fsn1.your-objectstorage.com/app-store-prod/org.telegram.messenger/icon/icon.png",
+          "rating": 2,
+          "appSize": 24.0
+        },
+        {
+          "applicationId": "ch.protonmail.android",
+          "applicationName": "Proton Mail: Encrypted Email",
+          "applicationType": "Communication",
+          "description": "Encrypted email from Switzerland with zero-access architecture.",
+          "versionName": "4.9.1",
+          "versionCode": 11362,
+          "privacyRating": 3.0,
+          "iconUrl": "https://fsn1.your-objectstorage.com/app-store-prod/ch.protonmail.android/icon/icon.png",
+          "rating": 2,
+          "appSize": 83.0
+        },
+        {
+          "applicationId": "com.discord",
+          "applicationName": "Discord - Talk, Play, Hang Out",
+          "applicationType": "Communication",
+          "description": "Voice, video, and text chat for communities and gaming.",
+          "versionName": "278.11 - Stable",
+          "versionCode": 278011,
+          "privacyRating": 3.0,
+          "iconUrl": "https://fsn1.your-objectstorage.com/app-store-prod/com.discord/icon/icon.png",
+          "rating": 2,
+          "appSize": 105.0
+        }
+      ]
+    }
+  ]
+}
