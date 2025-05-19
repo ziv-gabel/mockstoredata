@@ -44,7 +44,7 @@ pipeline {
     }
      post {
         always {
-            sh "docker rmi ghcr.io/${env.GIT_ORG}/${env.REPO}:${env.BRANCH_NAME}-${env.GIT_COMMIT} || true"
+            sh "docker rmi ghcr.io/werunplugged/${env.REPO}:${env.BRANCH_NAME}-${env.GIT_COMMIT} || true"
             cleanWs()
         }
     }
