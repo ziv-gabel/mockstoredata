@@ -21,7 +21,7 @@ pipeline {
                     sh "docker build --no-cache -t ghcr.io/werunplugged/${env.REPO}:${env.BRANCH_NAME}-${env.GIT_COMMIT} ."
                     withCredentials([usernamePassword(credentialsId: 'github_registry', usernameVariable: 'DOCKER_USERNAME', passwordVariable: 'DOCKER_PASSWORD')]) {
                         sh "docker login ghcr.io -u ${DOCKER_USERNAME} -p ${DOCKER_PASSWORD}"
-                        sh "docker push ghcr.io/${env.GIT_ORG}/${env.REPO}:${env.BRANCH_NAME}-${env.GIT_COMMIT}"
+                        sh "docker push ghcr.io/werunplugged/${env.REPO}:${env.BRANCH_NAME}-${env.GIT_COMMIT}"
                     }
                 }
             }
