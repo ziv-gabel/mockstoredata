@@ -34,7 +34,7 @@ pipeline {
                     withCredentials([[$class: 'AmazonWebServicesCredentialsBinding', accessKeyVariable: 'AWS_ACCESS_KEY_ID', credentialsId: "aws_credentials", secretKeyVariable: 'AWS_SECRET_ACCESS_KEY']]) {
                         sh """
                             perl -i -pe 's@IMAGE@${IMAGE_URL}@g' k8s/deployment.yaml
-                            aws eks update-kubeconfig --kubeconfig ./kubeconfig --region eu-west-2 --name prod
+                            aws eks update-kubeconfig --kubeconfig ./kubeconfig --region eu-central-1 --name Lab
                             kubectl apply --kubeconfig ./kubeconfig -f k8s/deployment.yaml
                             kubectl apply --kubeconfig ./kubeconfig -f k8s/service.yaml
                          """
