@@ -1,6 +1,5 @@
+[
 {
-  "top": [
-    {
       "applicationId": "com.twitter.android",
       "applicationName": "X",
       "applicationType": "News & Magazines",
@@ -60,6 +59,4 @@
       "iconUrl": "https://fsn1.your-objectstorage.com/app-store-prod/org.telegram.messenger/icon/icon.png",
       "rating": 2,
       "appSize": 24
-    }
-  ]
-}
+    }]
