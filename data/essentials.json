@@ -95,6 +95,65 @@
           "appSize": 105
         }
       ]
+    },
+    {
+      "title": "Make your day more efficient.",
+      "CategoryName": "Productivity",
+      "apps": [
+        {
+          "applicationId": "com.dropbox.android",
+          "applicationName": "Dropbox: Secure Cloud Storage",
+          "applicationType": "Productivity",
+          "description": "Dropbox allows you to backup your most essential files to the cloud, where you may access them at any time and from any location! Over 700 million registered users and 600,000 teams rely on it. Simple to use, trustworthy, private, and secure!",
+          "versionName": "422.2.2",
+          "versionCode": 42220200,
+          "privacyRating": 3.5,
+          "iconUrl": "https://fsn1.your-objectstorage.com/app-store-prod/com.dropbox.android/icon/icon.png",
+          "rating": 2,
+          "appSize": 77.0
+        },
+        {
+
+          "applicationId": "com.touchtype.swiftkey",
+          "applicationName": "Microsoft SwiftKey AI Keyboard",
+          "applicationType": "Personalization",
+          "description": "Microsoft SwiftKey is the intelligent keyboard that learns your writing style, so you can type faster.",
+          "versionName": "9.10.58.18",
+          "versionCode": 1232732448,
+          "privacyRating": 3.5,
+          "iconUrl": "https://fsn1.your-objectstorage.com/app-store-prod/com.touchtype.swiftkey/icon/icon.png",
+          "rating": 2,
+          "appSize": 22.0
+
+        },
+        {
+
+          "applicationId": "com.evernote",
+          "applicationName": "Evernote - Note Organizer",
+          "applicationType": "Productivity",
+          "description": "Capture ideas when inspiration strikes. Bring your notes, to-dos, and schedule together to tame life’s distractions and accomplish more—at work, at home, and everywhere in between.",
+          "versionName": "10.136.3",
+          "versionCode": 1239655,
+          "privacyRating": 4.0,
+          "iconUrl": "https://fsn1.your-objectstorage.com/app-store-prod/com.evernote/icon/icon.png",
+          "rating": 2,
+          "appSize": 96.0
+
+        },
+        {
+
+          "applicationId": "com.adobe.reader",
+          "applicationName": "Adobe Acrobat Reader: Edit PDF",
+          "applicationType": "Productivity",
+          "description": "Major new updateSave time with the updated Adobe Acrobat AI Assistant. From quick answers to deep dives, analyze and synthesize information across multiple documents with insights across docs.",
+          "versionName": "25.4.1.38546",
+          "versionCode": 1930438546,
+          "privacyRating": 3.0,
+          "iconUrl": "https://fsn1.your-objectstorage.com/app-store-prod/com.adobe.reader/icon/icon.png",
+          "rating": 2,
+          "appSize": 56.0
+        }
+      ]
     }
   ]
 }
