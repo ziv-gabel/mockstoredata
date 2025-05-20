@@ -37,7 +37,6 @@ pipeline {
                             aws eks update-kubeconfig --kubeconfig ./kubeconfig --region eu-west-2 --name prod
                             kubectl apply --kubeconfig ./kubeconfig -f k8s/deployment.yaml
                             kubectl apply --kubeconfig ./kubeconfig -f k8s/service.yaml
-                            kubectl apply --kubeconfig ./kubeconfig -f k8s/ingress.yaml
                          """
                     }
                 }
