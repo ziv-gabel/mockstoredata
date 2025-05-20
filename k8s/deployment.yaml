@@ -15,6 +15,15 @@ spec:
       labels:
         app: store-mock
     spec:
+      affinity:
+        nodeAffinity:
+          requiredDuringSchedulingIgnoredDuringExecution:
+            nodeSelectorTerms:
+              - matchExpressions:
+                  - key: role
+                    operator: In
+                    values:
+                      - Private
       containers:
         - name: nginx
           # noinspection KubernetesUnknownValues
