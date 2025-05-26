@@ -281,7 +281,7 @@
   },
   {
     "title": "Discover your next favorite show.",
-    "CategoryName": "Entertainment",
+    "categoryName": "Entertainment",
     "apps": [
       {
         "applicationId": "com.netflix.mediaclient",
@@ -351,7 +351,7 @@
   },
   {
     "title": "Find songs that excite you.",
-    "CategoryName": "Music & Audio",
+    "categoryName": "Music & Audio",
     "apps": [
       {
         "applicationId": "com.spotify.music",
@@ -421,7 +421,7 @@
   },
   {
     "title": "Connect with friends and family.",
-    "CategoryName": "Social",
+    "categoryName": "Social",
     "apps": [
       {
         "applicationId": "com.twitter.android",
