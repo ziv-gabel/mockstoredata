@@ -999,7 +999,7 @@
           "CategoryName": "Finance",
           "apps": [
               {
-               "applicationId": "com.squareup.cash",
+              "applicationId": "com.squareup.cash",
               "applicationName": "Cash App",
               "applicationType": "Finance",
               "description": "Cash App is the easy way to spend, save, and invest your money.*",
