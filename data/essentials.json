@@ -11,9 +11,12 @@
         "versionName": "4.16.000",
         "versionCode": 8022030,
         "privacyRating": 4.0,
-        "iconUrl": "https://fsn1.your-objectstorage.com/app-store-prod/com.here.app.maps/icon/icon.png",
         "rating": 2,
-        "appSize": 67
+        "appSize": 67,
+        "icon": {
+          "url": "https://fsn1.your-objectstorage.com/app-store-prod/com.here.app.maps/icon/icon.png",
+          "sha256": "815542caaeede582dce22b3f7c9746092b364791072ff9fd99b901fd455739b2"
+        }
       },
       {
         "applicationId": "app.organicmaps",
@@ -23,9 +26,12 @@
         "versionName": "2025.04.21-5-Google",
         "versionCode": 25042105,
         "privacyRating": 3.5,
-        "iconUrl": "https://fsn1.your-objectstorage.com/app-store-prod/app.organicmaps/icon/icon.png",
         "rating": 2,
-        "appSize": 94
+        "appSize": 94,
+        "icon": {
+          "url": "https://fsn1.your-objectstorage.com/app-store-prod/app.organicmaps/icon/icon.png",
+          "sha256": "d7077785e7a3515782e4c321abc502f3dcccacc67146faa0098552e2c33126a0"
+        }
       },
       {
         "applicationId": "com.waze",
@@ -35,9 +41,12 @@
         "versionName": "5.6.5.2",
         "versionCode": 1030577,
         "privacyRating": 2.0,
-        "iconUrl": "https://fsn1.your-objectstorage.com/app-store-prod/com.waze/icon/icon.png",
         "rating": 2,
-        "appSize": 86
+        "appSize": 86,
+        "icon": {
+          "url": "https://fsn1.your-objectstorage.com/app-store-prod/com.waze/icon/icon.png",
+          "sha256": "8149007fc162a51c4f7ad7ab601e8756c403f2a0d46c153a359c666e5e5abacc"
+        }
       },
       {
         "applicationId": "app.organicmaps",
@@ -47,9 +56,12 @@
         "versionName": "2025.04.21-5-Google",
         "versionCode": 25042105,
         "privacyRating": 3.5,
-        "iconUrl": "https://fsn1.your-objectstorage.com/app-store-prod/app.organicmaps/icon/icon.png",
         "rating": 2,
-        "appSize": 94
+        "appSize": 94,
+        "icon": {
+          "url": "https://fsn1.your-objectstorage.com/app-store-prod/app.organicmaps/icon/icon.png",
+          "sha256": "d7077785e7a3515782e4c321abc502f3dcccacc67146faa0098552e2c33126a0"
+        }
       }
     ]
   },
@@ -65,9 +77,12 @@
         "versionName": "7.41.3",
         "versionCode": 154200,
         "privacyRating": 3.5,
-        "iconUrl": "https://fsn1.your-objectstorage.com/app-store-prod/org.thoughtcrime.securesms/icon/icon.png",
         "rating": 2,
-        "appSize": 85
+        "appSize": 85,
+        "icon": {
+          "url": "https://fsn1.your-objectstorage.com/app-store-prod/org.thoughtcrime.securesms/icon/icon.png",
+          "sha256": "1c19983d9be1be2a4b926ccc5054949bb672dd6dbfafd8b20dc4b92e46de47d8"
+        }
       },
       {
         "applicationId": "org.telegram.messenger",
@@ -77,9 +92,12 @@
         "versionName": "11.11.1",
         "versionCode": 59302,
         "privacyRating": 3.5,
-        "iconUrl": "https://fsn1.your-objectstorage.com/app-store-prod/org.telegram.messenger/icon/icon.png",
         "rating": 2,
-        "appSize": 24
+        "appSize": 24,
+        "icon": {
+          "url": "https://fsn1.your-objectstorage.com/app-store-prod/org.telegram.messenger/icon/icon.png",
+          "sha256": "26fa00f1cc62ec0c0d2053e424d97bafcf5155e5fde756b0b9ef7a75cc0c837f"
+        }
       },
       {
         "applicationId": "ch.protonmail.android",
@@ -89,9 +107,12 @@
         "versionName": "4.9.1",
         "versionCode": 11362,
         "privacyRating": 3.0,
-        "iconUrl": "https://fsn1.your-objectstorage.com/app-store-prod/ch.protonmail.android/icon/icon.png",
         "rating": 2,
-        "appSize": 83
+        "appSize": 83,
+        "icon": {
+          "url": "https://fsn1.your-objectstorage.com/app-store-prod/ch.protonmail.android/icon/icon.png",
+          "sha256": "15bc2270a3bf3b04803c24a1ea8d3e26aacaad39ec70dfd9392625f474ed29b9"
+        }
       },
       {
         "applicationId": "com.discord",
@@ -101,9 +122,12 @@
         "versionName": "278.11 - Stable",
         "versionCode": 278011,
         "privacyRating": 3.0,
-        "iconUrl": "https://fsn1.your-objectstorage.com/app-store-prod/com.discord/icon/icon.png",
         "rating": 2,
-        "appSize": 105
+        "appSize": 105,
+        "icon": {
+          "url": "https://fsn1.your-objectstorage.com/app-store-prod/com.discord/icon/icon.png",
+          "sha256": "a4ed9e6fe651057c09ebdd9f08d9f9d619912957f5e98b24fbf8cc08f1086e0e"
+        }
       }
     ]
   },
@@ -119,9 +143,12 @@
         "versionName": "422.2.2",
         "versionCode": 42220200,
         "privacyRating": 3.5,
-        "iconUrl": "https://fsn1.your-objectstorage.com/app-store-prod/com.dropbox.android/icon/icon.png",
         "rating": 2,
-        "appSize": 77.0
+        "appSize": 77.0,
+        "icon": {
+          "url": "https://fsn1.your-objectstorage.com/app-store-prod/com.dropbox.android/icon/icon.png",
+          "sha256": "d1249ec57a4c38c9c44adf1209f4965213cb6123446f9816a8ab39baa6afbcb1"
+        }
       },
       {
         "applicationId": "com.touchtype.swiftkey",
@@ -131,21 +158,27 @@
         "versionName": "9.10.58.18",
         "versionCode": 1232732448,
         "privacyRating": 3.5,
-        "iconUrl": "https://fsn1.your-objectstorage.com/app-store-prod/com.touchtype.swiftkey/icon/icon.png",
         "rating": 2,
-        "appSize": 22.0
+        "appSize": 22.0,
+        "icon": {
+          "url": "https://fsn1.your-objectstorage.com/app-store-prod/com.touchtype.swiftkey/icon/icon.png",
+          "sha256": "7d8f7d22cc3f5b2e844d1f3f448400facccb6934a2a44171bd0c86a14fc9e306"
+        }
       },
       {
         "applicationId": "com.evernote",
         "applicationName": "Evernote - Note Organizer",
         "applicationType": "Productivity",
-        "description": "Capture ideas when inspiration strikes. Bring your notes, to-dos, and schedule together to tame life’s distractions and accomplish more—at work, at home, and everywhere in between.",
+        "description": "Capture ideas when inspiration strikes. Bring your notes, to-dos, and schedule together to tame life\u2019s distractions and accomplish more\u2014at work, at home, and everywhere in between.",
         "versionName": "10.136.3",
         "versionCode": 1239655,
         "privacyRating": 4.0,
-        "iconUrl": "https://fsn1.your-objectstorage.com/app-store-prod/com.evernote/icon/icon.png",
         "rating": 2,
-        "appSize": 96.0
+        "appSize": 96.0,
+        "icon": {
+          "url": "https://fsn1.your-objectstorage.com/app-store-prod/com.evernote/icon/icon.png",
+          "sha256": "db72ed8a1e9b0bb3f895e2c5cd3f02ef17c5d08ecf1cd04b92555a5f7aafeaa9"
+        }
       },
       {
         "applicationId": "com.adobe.reader",
@@ -155,25 +188,31 @@
         "versionName": "25.4.1.38546",
         "versionCode": 1930438546,
         "privacyRating": 3.0,
-        "iconUrl": "https://fsn1.your-objectstorage.com/app-store-prod/com.adobe.reader/icon/icon.png",
         "rating": 2,
-        "appSize": 56.0
+        "appSize": 56.0,
+        "icon": {
+          "url": "https://fsn1.your-objectstorage.com/app-store-prod/com.adobe.reader/icon/icon.png",
+          "sha256": "8724b30a9a3bded4ca919cfce1d0939bfb4caad395a6fea905f2af2242086365"
+        }
       }
     ]
   },
   {
     "title": "Everyday tools for your life",
     "categoryName": "Tools",
-    "apps":[
-      { 
+    "apps": [
+      {
         "applicationId": "com.onepassword.android",
         "applicationName": "1Password: Password Manager",
         "applicationType": "Productivity",
         "description": "1Password has been helping folks forget their passwords since 2006. Trusted by millions of people and more than 150,000 businesses, 1Password offers the best combination of features, compatibility, security, and ease of use among password managers, according to The New York Times Wirecutter.",
         "versionName": "8.10.74",
         "versionCode": 81074021,
-        "iconUrl": "https://fsn1.your-objectstorage.com/app-store-prod/com.onepassword.android/icon/icon.png",
-        "appSize": 37.0
+        "appSize": 37.0,
+        "icon": {
+          "url": "https://fsn1.your-objectstorage.com/app-store-prod/com.onepassword.android/icon/icon.png",
+          "sha256": "9fc961277cf7d0f409ba82ec5d96a69ddfbd6bfd7e489ea66a83853a410546a4"
+        }
       },
       {
         "applicationId": "com.digitalchemy.barcodeplus",
@@ -182,29 +221,38 @@
         "description": "QR Code & Barcode Scanner Plus is your go-to app for seamless QR and barcode scanning, designed for Android users. This powerful free QR code scanner and free barcode scanner app quickly decodes QR codes and barcodes, ensuring rapid and accurate results. With this free QR code reader and barcode reader, scanning becomes a breeze.",
         "versionName": "1.8.8",
         "versionCode": 20108080,
-        "iconUrl": "https://fsn1.your-objectstorage.com/app-store-prod/com.digitalchemy.barcodeplus/icon/icon.png",
-        "appSize": 15.0 
+        "appSize": 15.0,
+        "icon": {
+          "url": "https://fsn1.your-objectstorage.com/app-store-prod/com.digitalchemy.barcodeplus/icon/icon.png",
+          "sha256": "668e7d698dc599943b7e239b97f6d46e4e289e5370da1ca974307fbb0ef4ebb2"
+        }
       },
-      { 
+      {
         "applicationId": "my.android.calc",
         "applicationName": "Calculator MobiCalc",
         "applicationType": "Tools",
         "description": "Mobi Calculator is a free, ad-free Android app for everyone who appreciates a good user interface and functionality.",
         "versionName": "1.5.5free",
         "versionCode": 10505,
-        "iconUrl": "https://app-store-prod.fsn1.your-objectstorage.com/my.android.calc/icon/icon-1743594301012.webp",
-        "appSize": 1.0
+        "appSize": 1.0,
+        "icon": {
+          "url": "https://app-store-prod.fsn1.your-objectstorage.com/my.android.calc/icon/icon-1743594301012.webp",
+          "sha256": "044758d3d95455297f1f28f248b9bb8ac1d669a1bbf4c805bad3fea9b2684e97"
+        }
       },
-      { 
+      {
         "applicationId": "biz.codespark.xcalendarapp",
         "applicationName": "One Calendar",
         "applicationType": "Tools",
         "description": "The most popular app to view all your calendars like Google, Live, Outlook, iCloud, Exchange, Office365, Yahoo, Nextcloud, Synology, GMX, Mailbox.org, ownCloud and more.",
         "versionName": "6.0.1",
         "versionCode": 600210,
-        "iconUrl": "https://app-store-prod.fsn1.your-objectstorage.com/biz.codespark.xcalendarapp/icon/icon-1748247325872.webp",
-        "appSize": 41.0
-    }
+        "appSize": 41.0,
+        "icon": {
+          "url": "https://app-store-prod.fsn1.your-objectstorage.com/biz.codespark.xcalendarapp/icon/icon-1748247325872.webp",
+          "sha256": "1b4631b25facd1ddef54bd9b94b89d79f7abdc5960a0f56f4b633568806604e0"
+        }
+      }
     ]
   },
   {
@@ -213,310 +261,382 @@
     "apps": [
       {
         "applicationId": "com.netflix.mediaclient",
-			    "applicationName": "Netflix",
-			    "applicationType": "Entertainment",
-			    "description": "Looking for the most talked about TV shows and movies from the around the world? They’re all on Netflix.",
-			    "versionName": "9.15.0 build 8 62762",
-			    "versionCode": 62762,
-          "privacyRating": 3.5,
-          "iconUrl": "https://fsn1.your-objectstorage.com/app-store-prod/com.netflix.mediaclient/icon/icon.png",
-          "rating": 2,
-          "appSize": 25.0
-       },
-       {  
-          "applicationId": "com.wbd.stream",
-			    "applicationName": "Max: Stream HBO, TV, & Movies",
-			    "applicationType": "Entertainment",
-			    "description": "The most talked about shows and movies featuring the worlds of HBO, the DC Universe, Adult Swim, A24, and beyond — plus live sports, breaking news, and more on Max.",
-			    "versionName": "5.13.0.51",
-			    "versionCode": 35367624,
-          "privacyRating": 3.0,
-          "iconUrl": "https://fsn1.your-objectstorage.com/app-store-prod/com.wbd.stream/icon/icon.png",
-          "rating": 2,
-          "appSize": 109.0 
-        },
-        {   
-          "applicationId": "com.amazon.avod.thirdpartyclient",
-			    "applicationName": "Prime Video",
-			    "applicationType": "Entertainment",
-			    "description": "Watch movies, TV shows, live programming, and sports including Amazon MGM Studios-produced series and moviesRoad House, The Lord of the Rings: The Rings of Power, Fallout, Reacher, The Boys, and The Idea of You, and much more. Browse titles, search for your favorites, or enjoy movies and shows recommended just for you.",
-			    "versionName": "3.0.404.1147",
-			    "versionCode": 404001147,
-          "privacyRating": 3.5,
-          "iconUrl": "https://fsn1.your-objectstorage.com/app-store-prod/com.amazon.avod.thirdpartyclient/icon/icon.png",
-          "rating": 2,
-          "appSize": 57.0
-        },
-        { 
-          "applicationId": "com.tubitv",
-          "applicationName": "Tubi: Free Movies & Live TV",
-          "applicationType": "Entertainment",
-          "description": "Nice to meet you, we’re Tubi. We’re more than a completely free streamer with the largest library in the entire streaming universe. We’re entertainment fiends and collectors, and never judgers. So, get comfy and settle into whatever you’re feeling. It’s about to get good.",
-          "versionName": "9.18.0",
-          "versionCode": 890,
-          "privacyRating": 3.5,
-          "iconUrl": "https://fsn1.your-objectstorage.com/app-store-prod/com.tubitv/icon/icon.png",
-          "rating": 2,
-          "appSize": 50.0 }
+        "applicationName": "Netflix",
+        "applicationType": "Entertainment",
+        "description": "Looking for the most talked about TV shows and movies from the around the world? They\u2019re all on Netflix.",
+        "versionName": "9.15.0 build 8 62762",
+        "versionCode": 62762,
+        "privacyRating": 3.5,
+        "rating": 2,
+        "appSize": 25.0,
+        "icon": {
+          "url": "https://fsn1.your-objectstorage.com/app-store-prod/com.netflix.mediaclient/icon/icon.png",
+          "sha256": "76e0f1805cd8bd5cc6edf6373fcc12525abb8d90437278e0ecefc2ab4db5879d"
+        }
+      },
+      {
+        "applicationId": "com.wbd.stream",
+        "applicationName": "Max: Stream HBO, TV, & Movies",
+        "applicationType": "Entertainment",
+        "description": "The most talked about shows and movies featuring the worlds of HBO, the DC Universe, Adult Swim, A24, and beyond \u2014 plus live sports, breaking news, and more on Max.",
+        "versionName": "5.13.0.51",
+        "versionCode": 35367624,
+        "privacyRating": 3.0,
+        "rating": 2,
+        "appSize": 109.0,
+        "icon": {
+          "url": "https://fsn1.your-objectstorage.com/app-store-prod/com.wbd.stream/icon/icon.png",
+          "sha256": "ecd0fb8a6b083717c1f23b48c199751bfd090acbec48a8445ec7fb5ac2bb45a4"
+        }
+      },
+      {
+        "applicationId": "com.amazon.avod.thirdpartyclient",
+        "applicationName": "Prime Video",
+        "applicationType": "Entertainment",
+        "description": "Watch movies, TV shows, live programming, and sports including Amazon MGM Studios-produced series and moviesRoad House, The Lord of the Rings: The Rings of Power, Fallout, Reacher, The Boys, and The Idea of You, and much more. Browse titles, search for your favorites, or enjoy movies and shows recommended just for you.",
+        "versionName": "3.0.404.1147",
+        "versionCode": 404001147,
+        "privacyRating": 3.5,
+        "rating": 2,
+        "appSize": 57.0,
+        "icon": {
+          "url": "https://fsn1.your-objectstorage.com/app-store-prod/com.amazon.avod.thirdpartyclient/icon/icon.png",
+          "sha256": "fd9a693b896d28fec2d49b2bc87848dfc2cf8e099f5fe70725af34ff37feae79"
+        }
+      },
+      {
+        "applicationId": "com.tubitv",
+        "applicationName": "Tubi: Free Movies & Live TV",
+        "applicationType": "Entertainment",
+        "description": "Nice to meet you, we\u2019re Tubi. We\u2019re more than a completely free streamer with the largest library in the entire streaming universe. We\u2019re entertainment fiends and collectors, and never judgers. So, get comfy and settle into whatever you\u2019re feeling. It\u2019s about to get good.",
+        "versionName": "9.18.0",
+        "versionCode": 890,
+        "privacyRating": 3.5,
+        "rating": 2,
+        "appSize": 50.0,
+        "icon": {
+          "url": "https://fsn1.your-objectstorage.com/app-store-prod/com.tubitv/icon/icon.png",
+          "sha256": "a8b65bed24cec6e65a290645949003966cafc4c95957a424eb865f4f51846b78"
+        }
+      }
     ]
   },
   {
     "title": "Find songs that excite you.",
-          "CategoryName": "Music & Audio",
-          "apps": [
-            {
-              "applicationId": "com.spotify.music",
-			        "applicationName": "Spotify: Music and Podcasts",
-			        "applicationType": "Music & Audio",
-			        "description": "The most talked about shows and movies featuring the worlds of HBO, the DC Universe, Adult Swim, A24, and beyond — plus live sports, breaking news, and more on Max.",
-			        "versionName": "5.13.0.51",
-			        "versionCode": 35367624,
-              "privacyRating": 3.0,
-              "iconUrl": "https://fsn1.your-objectstorage.com/app-store-prod/com.wbd.stream/icon/icon.png",
-              "rating": 2,
-              "appSize": 109.0
-            },
-            {
-              "applicationId": "tunein.player",
-              "applicationName": "TuneIn Radio: Music & Sports",
-              "applicationType": "Music & Audio",
-              "description": "HEAR WHAT MATTERS TO YOU",
-              "versionName": "38.3",
-              "versionCode": 283119,
-              "privacyRating": 3.0,
-              "iconUrl": "https://fsn1.your-objectstorage.com/app-store-prod/tunein.player/icon/icon.png",
-              "rating": 2,
-              "appSize": 62.0
-            },
-            {
-              "applicationId": "com.apple.android.music",
-              "applicationName": "Apple Music",
-              "applicationType": "Music & Audio",
-              "description": "Get unlimited access to 100 million songs, thousands of curated playlists, and original content from the artists you know and love – all ad-free. Hear sound all around you with Spatial Audio featuring Dolby Atmos.",
-              "versionName": "4.9.6.2",
-              "versionCode": 1451,
-              "privacyRating": 3.0,
-              "iconUrl": "https://fsn1.your-objectstorage.com/app-store-prod/com.apple.android.music/icon/icon.png",
-              "rating": 2,
-              "appSize": 35.0
-            },
-            {
-              "applicationId": "com.shazam.android",
-              "applicationName": "Shazam: Find Music & Concerts",
-              "applicationType": "Music & Audio",
-              "description": "Shazam can identify songs playing around you or in other apps, even with headphones on. Discover artists, song lyrics, and upcoming concerts—all for free. With over 2 billion installs and 300 million users worldwide!",
-              "versionName": "15.20.0-250424",
-              "versionCode": 1502000,
-              "privacyRating": 3.0,
-              "iconUrl": "https://fsn1.your-objectstorage.com/app-store-prod/com.shazam.android/icon/icon.png",
-              "rating": 2,
-              "appSize": 20.0
-            }
+    "CategoryName": "Music & Audio",
+    "apps": [
+      {
+        "applicationId": "com.spotify.music",
+        "applicationName": "Spotify: Music and Podcasts",
+        "applicationType": "Music & Audio",
+        "description": "The most talked about shows and movies featuring the worlds of HBO, the DC Universe, Adult Swim, A24, and beyond \u2014 plus live sports, breaking news, and more on Max.",
+        "versionName": "5.13.0.51",
+        "versionCode": 35367624,
+        "privacyRating": 3.0,
+        "rating": 2,
+        "appSize": 109.0,
+        "icon": {
+          "url": "https://fsn1.your-objectstorage.com/app-store-prod/com.wbd.stream/icon/icon.png",
+          "sha256": "ecd0fb8a6b083717c1f23b48c199751bfd090acbec48a8445ec7fb5ac2bb45a4"
+        }
+      },
+      {
+        "applicationId": "tunein.player",
+        "applicationName": "TuneIn Radio: Music & Sports",
+        "applicationType": "Music & Audio",
+        "description": "HEAR WHAT MATTERS TO YOU",
+        "versionName": "38.3",
+        "versionCode": 283119,
+        "privacyRating": 3.0,
+        "rating": 2,
+        "appSize": 62.0,
+        "icon": {
+          "url": "https://fsn1.your-objectstorage.com/app-store-prod/tunein.player/icon/icon.png",
+          "sha256": "26182fc054550164376359834ac75dfe3cf9e13b0dcb99965c513fbd21592281"
+        }
+      },
+      {
+        "applicationId": "com.apple.android.music",
+        "applicationName": "Apple Music",
+        "applicationType": "Music & Audio",
+        "description": "Get unlimited access to 100 million songs, thousands of curated playlists, and original content from the artists you know and love \u2013 all ad-free. Hear sound all around you with Spatial Audio featuring Dolby Atmos.",
+        "versionName": "4.9.6.2",
+        "versionCode": 1451,
+        "privacyRating": 3.0,
+        "rating": 2,
+        "appSize": 35.0,
+        "icon": {
+          "url": "https://fsn1.your-objectstorage.com/app-store-prod/com.apple.android.music/icon/icon.png",
+          "sha256": "782454a662c03aed8ccaca979a959b638270e9bc0b9b31f27283b96d666e76bd"
+        }
+      },
+      {
+        "applicationId": "com.shazam.android",
+        "applicationName": "Shazam: Find Music & Concerts",
+        "applicationType": "Music & Audio",
+        "description": "Shazam can identify songs playing around you or in other apps, even with headphones on. Discover artists, song lyrics, and upcoming concerts\u2014all for free. With over 2 billion installs and 300 million users worldwide!",
+        "versionName": "15.20.0-250424",
+        "versionCode": 1502000,
+        "privacyRating": 3.0,
+        "rating": 2,
+        "appSize": 20.0,
+        "icon": {
+          "url": "https://fsn1.your-objectstorage.com/app-store-prod/com.shazam.android/icon/icon.png",
+          "sha256": "d25e1c78d9ea8dc108dccc29e93b5234bc51af0b4ac469393213a316d021e788"
+        }
+      }
     ]
   },
   {
     "title": "Connect with friends and family.",
-          "CategoryName": "Social",
-          "apps": [
-             {
-              "applicationId": "com.twitter.android",
-              "applicationName": "X",
-              "applicationType": "Social",
-              "description": "The X app is the trusted global digital town square for everyone.",
-              "versionName": "10.96.0-release.0",
-              "versionCode": 310960000,
-              "privacyRating": 3.5,
-              "iconUrl": "https://fsn1.your-objectstorage.com/app-store-prod/com.twitter.android/icon/icon.png",
-              "rating": 2,
-              "appSize": 112.0
-            },
-            {
-              "applicationId": "com.facebook.katana",
-              "applicationName": "Facebook",
-              "applicationType": "Social",
-              "description": "Where real people propel your curiosity. Whether you’re thrifting gear, showing a reel to that group who gets it, or sharing laughs over fun images reimagined by AI, Facebook helps you make things happen like no other social network.",
-              "versionName": "512.0.0.64.75",
-              "versionCode": 461420410,
-              "privacyRating": 3.5,
-              "iconUrl": "https://fsn1.your-objectstorage.com/app-store-prod/com.facebook.katana/icon/icon.png",
-              "rating": 2,
-              "appSize": 143.0
-            },
-            {
-              "applicationId": "com.instagram.android",
-              "applicationName": "Instagram",
-              "applicationType": "Social",
-              "description": "Little moments lead to big friendships. Share yours on Instagram.",
-              "versionName": "376.1.0.55.68",
-              "versionCode": 378012262,
-              "privacyRating": 3.5,
-              "iconUrl": "https://up-app-loader.nbg1.your-objectstorage.com/up-app-loader/com.instagram.android/icon/icon.png",
-              "rating": 2,
-              "appSize": 97.0
-            },
-            {
-              "applicationId": "com.snapchat.android",
-              "applicationName": "Snapchat",
-              "applicationType": "Social",
-              "description": "Snapchat is a fast and fun way to share the moment with your friends and family 👻",
-              "versionName": "13.40.0.45",
-              "versionCode": 205772,
-              "privacyRating": 3.5,
-              "iconUrl": "https://fsn1.your-objectstorage.com/app-store-prod/com.snapchat.android/icon/icon.png",
-              "rating": 2,
-              "appSize": 85.0
-            }
-
-          ]
-        
-        },
+    "CategoryName": "Social",
+    "apps": [
+      {
+        "applicationId": "com.twitter.android",
+        "applicationName": "X",
+        "applicationType": "Social",
+        "description": "The X app is the trusted global digital town square for everyone.",
+        "versionName": "10.96.0-release.0",
+        "versionCode": 310960000,
+        "privacyRating": 3.5,
+        "rating": 2,
+        "appSize": 112.0,
+        "icon": {
+          "url": "https://fsn1.your-objectstorage.com/app-store-prod/com.twitter.android/icon/icon.png",
+          "sha256": "8adc5922b8bcb863e4fd60f0f703b308d26440cebbe0a5813fe15db492db9596"
+        }
+      },
+      {
+        "applicationId": "com.facebook.katana",
+        "applicationName": "Facebook",
+        "applicationType": "Social",
+        "description": "Where real people propel your curiosity. Whether you\u2019re thrifting gear, showing a reel to that group who gets it, or sharing laughs over fun images reimagined by AI, Facebook helps you make things happen like no other social network.",
+        "versionName": "512.0.0.64.75",
+        "versionCode": 461420410,
+        "privacyRating": 3.5,
+        "rating": 2,
+        "appSize": 143.0,
+        "icon": {
+          "url": "https://fsn1.your-objectstorage.com/app-store-prod/com.facebook.katana/icon/icon.png",
+          "sha256": "aef5bb003fcff9bbc60570fc80a6b2b269ee705f71df8d325d83d22b1161356b"
+        }
+      },
+      {
+        "applicationId": "com.instagram.android",
+        "applicationName": "Instagram",
+        "applicationType": "Social",
+        "description": "Little moments lead to big friendships. Share yours on Instagram.",
+        "versionName": "376.1.0.55.68",
+        "versionCode": 378012262,
+        "privacyRating": 3.5,
+        "rating": 2,
+        "appSize": 97.0,
+        "icon": {
+          "url": "https://up-app-loader.nbg1.your-objectstorage.com/up-app-loader/com.instagram.android/icon/icon.png",
+          "sha256": "a7585fa24a3746e57adfbf2f8ded67527e66aeb586d76b62a3b4b1a09d7de3b1"
+        }
+      },
+      {
+        "applicationId": "com.snapchat.android",
+        "applicationName": "Snapchat",
+        "applicationType": "Social",
+        "description": "Snapchat is a fast and fun way to share the moment with your friends and family \ud83d\udc7b",
+        "versionName": "13.40.0.45",
+        "versionCode": 205772,
+        "privacyRating": 3.5,
+        "rating": 2,
+        "appSize": 85.0,
+        "icon": {
+          "url": "https://fsn1.your-objectstorage.com/app-store-prod/com.snapchat.android/icon/icon.png",
+          "sha256": "3a5c466f066b7b23db798a3d294405bace8ecddb435e131b24e9bc9a2da6ef3e"
+        }
+      }
+    ]
+  },
   {
     "title": "Find the best deals and products.",
     "categoryName": "Shopping",
     "apps": [
-            {
-              "applicationId": "com.iherb",
-              "applicationName": "iHerb: Vitamins & Supplements",
-              "applicationType": "Shopping",
-              "description": "Shop iHerb for the best-curated selection of health and wellness brands, all at a great value, delivered right to your door. With products ranging from vitamins and supplements to sports nutrition, groceries, beauty, and self-care, we are the one-stop shop for health and wellness essentials for millions of happy customers globally. We make wellness better.",
-              "versionName": "11.5.0501",
-              "versionCode": 850,
-              "iconUrl": "https://fsn1.your-objectstorage.com/app-store-prod/com.iherb/icon/icon.png",
-              "rating": 2,
-              "appSize": 124.0
-            },
-            {
-              "applicationId": "com.bestbuy.android",
-              "applicationName": "Best Buy: Shop tech deals",
-              "applicationType": "Shopping",
-              "description": "Get the best deals on appliances, electronics and more at Best Buy. We’ve simplified tech shopping, with warp-speed checkout, Curbside Pickup, limited runs, and can't-miss deals. Whether you’re in the market for the latest gadgets, electronics or essential appliances, Best Buy provides everything you need at your fingertips.",
-              "versionName": "25.4.11",
-              "versionCode": 2012311966,
-              "iconUrl": "https://fsn1.your-objectstorage.com/app-store-prod/com.bestbuy.android/icon/icon.png",
-              "rating": 2,
-              "appSize": 58.0
-            },
-            {
-              "applicationId": "com.amazon.mShop.android.shopping",
-              "applicationName": "Amazon Shopping",
-              "applicationType": "Shopping",
-              "description": "Product Features",
-              "versionName": "30.9.0.100",
-              "versionCode": 1241294016,
-              "iconUrl": "https://fsn1.your-objectstorage.com/app-store-prod/com.amazon.mShop.android.shopping/icon/icon.png",
-              "rating": 2,
-              "appSize": 42.0
-            },
-            { "applicationId": "com.target.ui",
-              "applicationName": "Target",
-              "applicationType": "Shopping",
-              "description": "Enjoy the easiest way to shop and save from anywhere when you download the Target app today! Here are a few ways to use the app whether you’re in-store or on-the-go:",
-              "versionName": "2025.18.0",
-              "versionCode": 1906002738,
-              "iconUrl": "https://fsn1.your-objectstorage.com/app-store-prod/com.target.ui/icon/icon.png",
-              "rating": 2,
-              "appSize": 84.0
-             }
-         ]
+      {
+        "applicationId": "com.iherb",
+        "applicationName": "iHerb: Vitamins & Supplements",
+        "applicationType": "Shopping",
+        "description": "Shop iHerb for the best-curated selection of health and wellness brands, all at a great value, delivered right to your door. With products ranging from vitamins and supplements to sports nutrition, groceries, beauty, and self-care, we are the one-stop shop for health and wellness essentials for millions of happy customers globally. We make wellness better.",
+        "versionName": "11.5.0501",
+        "versionCode": 850,
+        "rating": 2,
+        "appSize": 124.0,
+        "icon": {
+          "url": "https://fsn1.your-objectstorage.com/app-store-prod/com.iherb/icon/icon.png",
+          "sha256": "a827149ea33675f72c7d9b914a3028d78c7d465d0ff526b36aea39e30adf08b5"
+        }
       },
-    {
+      {
+        "applicationId": "com.bestbuy.android",
+        "applicationName": "Best Buy: Shop tech deals",
+        "applicationType": "Shopping",
+        "description": "Get the best deals on appliances, electronics and more at Best Buy. We\u2019ve simplified tech shopping, with warp-speed checkout, Curbside Pickup, limited runs, and can't-miss deals. Whether you\u2019re in the market for the latest gadgets, electronics or essential appliances, Best Buy provides everything you need at your fingertips.",
+        "versionName": "25.4.11",
+        "versionCode": 2012311966,
+        "rating": 2,
+        "appSize": 58.0,
+        "icon": {
+          "url": "https://fsn1.your-objectstorage.com/app-store-prod/com.bestbuy.android/icon/icon.png",
+          "sha256": "fe002784081c24894c98ad8e3f367e47b7cb0b9661504cd3b645310318d8ee5a"
+        }
+      },
+      {
+        "applicationId": "com.amazon.mShop.android.shopping",
+        "applicationName": "Amazon Shopping",
+        "applicationType": "Shopping",
+        "description": "Product Features",
+        "versionName": "30.9.0.100",
+        "versionCode": 1241294016,
+        "rating": 2,
+        "appSize": 42.0,
+        "icon": {
+          "url": "https://fsn1.your-objectstorage.com/app-store-prod/com.amazon.mShop.android.shopping/icon/icon.png",
+          "sha256": "b14cc40785528b8f666a458581bf72b1b91489c0bd237f6aa8f32aa222446c56"
+        }
+      },
+      {
+        "applicationId": "com.target.ui",
+        "applicationName": "Target",
+        "applicationType": "Shopping",
+        "description": "Enjoy the easiest way to shop and save from anywhere when you download the Target app today! Here are a few ways to use the app whether you\u2019re in-store or on-the-go:",
+        "versionName": "2025.18.0",
+        "versionCode": 1906002738,
+        "rating": 2,
+        "appSize": 84.0,
+        "icon": {
+          "url": "https://fsn1.your-objectstorage.com/app-store-prod/com.target.ui/icon/icon.png",
+          "sha256": "3b241481684833dc1c833abf3589600a3b0aff874614369c227d9c84ab231cfe"
+        }
+      }
+    ]
+  },
+  {
     "title": "Get up to date with the latest news.",
     "categoryName": "News & Magazines",
     "apps": [
-            {
-              "applicationId": "com.yahoo.mobile.client.android.yahoo",
-              "applicationName": "Yahoo News: Daily News For You",
-              "applicationType": "News & Magazines",
-              "description": "Yahoo News: News that gets you. That means free, unlimited access to the stories and topics that matter most to you. Aggregating news from premium publishers, you can keep up with your world through a feed personalized to your interests and preferences. Never miss out on breaking world or national news updates, plus read about entertainment, lifestyle and more.",
-              "versionName": "72.1",
-              "versionCode": 2003021806,
-              "iconUrl": "https://fsn1.your-objectstorage.com/app-store-prod/com.yahoo.mobile.client.android.yahoo/icon/icon.png",
-              "rating": 2,
-              "appSize": 37.0 
-            },
-            {
-              "applicationId": "com.foxnews.android",
-              "applicationName": "Fox News - Daily Breaking News",
-              "applicationType": "News & Magazines",
-              "description": "Stay informed with 24/7 access to the latest headlines and expert analysis on the reports of today with the FOX News App, your leading source for breaking national and international stories. Get daily coverage and live updates on politics, weather, stocks, business, sports, smart tech, health, and more with expert perspectives and new, in-depth reporting.",
-              "versionName": "5.10.2",
-              "versionCode": 2025042901,
-              "iconUrl": "https://fsn1.your-objectstorage.com/app-store-prod/com.foxnews.android/icon/icon.png",
-              "rating": 2,
-              "appSize": 42.0
-             },
-            { 
-              "applicationId": "com.fli.android.newsmaxapp",
-              "applicationName": "Newsmax",
-              "applicationType": "News & Magazines",
-              "description": "Newsmax is a premier news platform that offers comprehensive news coverage, breaking news, and real-time updates on topics that matter to you.",
-              "versionName": "5.1.4",
-              "versionCode": 2024121104,
-              "iconUrl": "https://fsn1.your-objectstorage.com/app-store-prod/com.fli.android.newsmaxapp/icon/icon.png",
-              "rating": 2,
-              "appSize": 28.0 
-            },
-            {
-              "applicationId": "com.nytimes.android",
-              "applicationName": "The New York Times: Live News",
-              "applicationType": "News & Magazines",
-              "description": "From breaking news and live updates to investigations, cultural commentary and analysis, The New York Times app helps you understand the events shaping the world.",
-              "versionName": "11.24.0",
-              "versionCode": 11462826,
-              "iconUrl": "https://fsn1.your-objectstorage.com/app-store-prod/com.nytimes.android/icon/icon.png",
-              "rating": 2,
-              "appSize": 51.0 
-            }
+      {
+        "applicationId": "com.yahoo.mobile.client.android.yahoo",
+        "applicationName": "Yahoo News: Daily News For You",
+        "applicationType": "News & Magazines",
+        "description": "Yahoo News: News that gets you. That means free, unlimited access to the stories and topics that matter most to you. Aggregating news from premium publishers, you can keep up with your world through a feed personalized to your interests and preferences. Never miss out on breaking world or national news updates, plus read about entertainment, lifestyle and more.",
+        "versionName": "72.1",
+        "versionCode": 2003021806,
+        "rating": 2,
+        "appSize": 37.0,
+        "icon": {
+          "url": "https://fsn1.your-objectstorage.com/app-store-prod/com.yahoo.mobile.client.android.yahoo/icon/icon.png",
+          "sha256": "1f8bd3fad7245a43aca269cfd70547911c41d976a31eba95b7388f819d876d5c"
+        }
+      },
+      {
+        "applicationId": "com.foxnews.android",
+        "applicationName": "Fox News - Daily Breaking News",
+        "applicationType": "News & Magazines",
+        "description": "Stay informed with 24/7 access to the latest headlines and expert analysis on the reports of today with the FOX News App, your leading source for breaking national and international stories. Get daily coverage and live updates on politics, weather, stocks, business, sports, smart tech, health, and more with expert perspectives and new, in-depth reporting.",
+        "versionName": "5.10.2",
+        "versionCode": 2025042901,
+        "rating": 2,
+        "appSize": 42.0,
+        "icon": {
+          "url": "https://fsn1.your-objectstorage.com/app-store-prod/com.foxnews.android/icon/icon.png",
+          "sha256": "95fc0202b88206e8b46f8a4b8f91ab5c7c75dd9cd7f9930f7589e562c8b8a760"
+        }
+      },
+      {
+        "applicationId": "com.fli.android.newsmaxapp",
+        "applicationName": "Newsmax",
+        "applicationType": "News & Magazines",
+        "description": "Newsmax is a premier news platform that offers comprehensive news coverage, breaking news, and real-time updates on topics that matter to you.",
+        "versionName": "5.1.4",
+        "versionCode": 2024121104,
+        "rating": 2,
+        "appSize": 28.0,
+        "icon": {
+          "url": "https://fsn1.your-objectstorage.com/app-store-prod/com.fli.android.newsmaxapp/icon/icon.png",
+          "sha256": "3abfc910a4714307478a82508cf42637a7f74e8e12ebe1ac65b88ee5e03cb9d1"
+        }
+      },
+      {
+        "applicationId": "com.nytimes.android",
+        "applicationName": "The New York Times: Live News",
+        "applicationType": "News & Magazines",
+        "description": "From breaking news and live updates to investigations, cultural commentary and analysis, The New York Times app helps you understand the events shaping the world.",
+        "versionName": "11.24.0",
+        "versionCode": 11462826,
+        "rating": 2,
+        "appSize": 51.0,
+        "icon": {
+          "url": "https://fsn1.your-objectstorage.com/app-store-prod/com.nytimes.android/icon/icon.png",
+          "sha256": "831e5f48fdc6f981e7abeb17d1d2c1b480702cc8799beb76a9ebc259c0a7f4ed"
+        }
+      }
     ]
   },
   {
     "title": "Manage your finances and investments.",
     "categoryName": "Finance",
     "apps": [
-            { 
-              "applicationId": "com.squareup.cash",
-              "applicationName": "Cash App",
-              "applicationType": "Finance",
-              "description": "Cash App is the easy way to spend, save, and invest your money.*",
-              "versionName": "4.98.0",
-              "versionCode": 4980003,
-              "iconUrl": "https://fsn1.your-objectstorage.com/app-store-prod/com.squareup.cash/icon/icon.png",
-              "rating": 2,
-              "appSize": 82.0   
-            },
-            { 
-              "applicationId": "com.creditkarma.mobile",
-              "applicationName": "Intuit Credit Karma",
-              "applicationType": "Finance",
-              "description": "CONNECT YOUR ACCOUNTS FOR FINANCIAL INSIGHTS",
-              "versionName": "25.19",
-              "versionCode": 17463855,
-              "iconUrl": "https://fsn1.your-objectstorage.com/app-store-prod/com.creditkarma.mobile/icon/icon.png",
-              "rating": 2,
-              "appSize": 75.0 
-            },
-            {
-              "applicationId": "com.robinhood.android",
-              "applicationName": "Robinhood - FinTech SuperApp",
-              "applicationType": "Finance",
-              "description": "Robinhood helps you run your money your way. Identify trends for your investing strategies with technical indicators like moving average (MA), relative strength index (RSI), and more.",
-              "versionName": "2025.18.3",
-              "versionCode": 20251803,
-              "iconUrl": "https://fsn1.your-objectstorage.com/app-store-prod/com.robinhood.android/icon/icon.png",
-              "rating": 2,
-              "appSize": 269.0  
-            },
-            {
-              "applicationId": "com.paypal.android.p2pmobile",
-              "applicationName": "PayPal - Pay, Send, Save",
-              "applicationType": "Finance",
-              "description": "PayPal is a smart and secure way to shop in-store and online, earn cash back on brands you love, send money to friends and much more. Get started in the app.",
-              "versionName": "8.84.0",
-              "versionCode": 1160083704,
-              "iconUrl": "https://fsn1.your-objectstorage.com/app-store-prod/com.paypal.android.p2pmobile/icon/icon.png",
-              "rating": 2,
-              "appSize": 89.0
-            }
+      {
+        "applicationId": "com.squareup.cash",
+        "applicationName": "Cash App",
+        "applicationType": "Finance",
+        "description": "Cash App is the easy way to spend, save, and invest your money.*",
+        "versionName": "4.98.0",
+        "versionCode": 4980003,
+        "rating": 2,
+        "appSize": 82.0,
+        "icon": {
+          "url": "https://fsn1.your-objectstorage.com/app-store-prod/com.squareup.cash/icon/icon.png",
+          "sha256": "f75c4c22cec31424070309771bbb017b83746a9b7aa2f7bd31c679d15b1f31fe"
+        }
+      },
+      {
+        "applicationId": "com.creditkarma.mobile",
+        "applicationName": "Intuit Credit Karma",
+        "applicationType": "Finance",
+        "description": "CONNECT YOUR ACCOUNTS FOR FINANCIAL INSIGHTS",
+        "versionName": "25.19",
+        "versionCode": 17463855,
+        "rating": 2,
+        "appSize": 75.0,
+        "icon": {
+          "url": "https://fsn1.your-objectstorage.com/app-store-prod/com.creditkarma.mobile/icon/icon.png",
+          "sha256": "986db932df1b73c515d71e1fbb07e4df479858cae27f4db6d20f2ae03e86a067"
+        }
+      },
+      {
+        "applicationId": "com.robinhood.android",
+        "applicationName": "Robinhood - FinTech SuperApp",
+        "applicationType": "Finance",
+        "description": "Robinhood helps you run your money your way. Identify trends for your investing strategies with technical indicators like moving average (MA), relative strength index (RSI), and more.",
+        "versionName": "2025.18.3",
+        "versionCode": 20251803,
+        "rating": 2,
+        "appSize": 269.0,
+        "icon": {
+          "url": "https://fsn1.your-objectstorage.com/app-store-prod/com.robinhood.android/icon/icon.png",
+          "sha256": "b0bf06e91058e230994b2321fbcab21c10f42ff3a4c46e6eae8a97e5353ac37b"
+        }
+      },
+      {
+        "applicationId": "com.paypal.android.p2pmobile",
+        "applicationName": "PayPal - Pay, Send, Save",
+        "applicationType": "Finance",
+        "description": "PayPal is a smart and secure way to shop in-store and online, earn cash back on brands you love, send money to friends and much more. Get started in the app.",
+        "versionName": "8.84.0",
+        "versionCode": 1160083704,
+        "rating": 2,
+        "appSize": 89.0,
+        "icon": {
+          "url": "https://fsn1.your-objectstorage.com/app-store-prod/com.paypal.android.p2pmobile/icon/icon.png",
+          "sha256": "1041826528e1e3d86898c3c602fd56f142a1a56edd6fe20019d1b11d312bfe1b"
+        }
+      }
     ]
   }
 ]
