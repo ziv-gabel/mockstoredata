@@ -1,7 +1,7 @@
 {
   "categories": [
     {
-      "title": "Navigate everywhere you like",
+      "title": "Navigate anywhere you like",
       "CategoryName": "Navigation",
       "apps": [
         {
@@ -512,7 +512,7 @@
           ]
         },
         {
-          "title": "Discover your next favorite show.",
+          "title": "Find songs that excite you.",
           "CategoryName": "Music & Audio",
           "apps": [
             {
@@ -639,7 +639,7 @@
           ]
         },
         {
-          "title": "Discover your next favorite show.",
+          "title": "Connect with friends and family.",
           "CategoryName": "Social",
           "apps": [
              {
@@ -759,7 +759,7 @@
           ]
         },
         {
-          "title": "Discover your next favorite show.",
+          "title": "Find the best deals and products.",
           "CategoryName": "Shopping",
           "apps": [
             {
@@ -875,7 +875,7 @@
           ]
         },
         {
-          "title": "Discover your next favorite show.",
+          "title": "Get up to date with the latest news.",
           "CategoryName": "News & Magazines",
           "apps": [
             {
@@ -995,7 +995,7 @@
           ]
         },
         {
-          "title": "Discover your next favorite show.",
+          "title": "Manage your finances and investments.",
           "CategoryName": "Finance",
           "apps": [
               {
@@ -1115,7 +1115,7 @@
           ]
         },
         {
-          "title": "Discover your next favorite show.",
+          "title": "Order food and drinks from your favorite restaurants.",
           "CategoryName": "Food & Drink",
           "apps": [
             { 
