@@ -7,7 +7,10 @@
     "versionName": "10.96.0-release 0",
     "versionCode": 310960000,
     "privacyRating": 3.5,
-    "iconUrl": "https://fsn1.your-objectstorage.com/app-store-prod/com.twitter.android/icon/icon.png",
+    "icon": {
+    	"url":"https://fsn1.your-objectstorage.com/app-store-prod/com.twitter.android/icon/icon.png",
+    	"sha256":""
+    },
     "rating": 2,
     "appSize": 112
   },
@@ -19,7 +22,10 @@
     "versionName": "7.41.3",
     "versionCode": 154200,
     "privacyRating": 3.5,
-    "iconUrl": "https://fsn1.your-objectstorage.com/app-store-prod/org.thoughtcrime.securesms/icon/icon.png",
+     "icon": {
+    	"url":"https://fsn1.your-objectstorage.com/app-store-prod/org.thoughtcrime.securesms/icon/icon.png",
+    	"sha256":""
+    },
     "rating": 2,
     "appSize": 85
   },
@@ -31,7 +37,10 @@
     "versionName": "9.0.42.529",
     "versionCode": 127667831,
     "privacyRating": 3.5,
-    "iconUrl": "https://fsn1.your-objectstorage.com/app-store-prod/com.spotify.music/icon/icon.png",
+     "icon": {
+    	"url":"https://fsn1.your-objectstorage.com/app-store-prod/com.spotify.music/icon/icon.png",
+    	"sha256":""
+    },
     "rating": 2,
     "appSize": 62
   },
@@ -43,10 +52,12 @@
     "versionName": "512.0.0.64.75",
     "versionCode": 461420410,
     "privacyRating": 2.5,
-    "iconUrl": "https://fsn1.your-objectstorage.com/app-store-prod/com.facebook.katana/icon/icon.png",
+     "icon": {
+    	"url":"https://fsn1.your-objectstorage.com/app-store-prod/com.facebook.katana/icon/icon.png",
+    	"sha256":""
+    },
     "rating": 2,
-    "appSize": 143,
-    "fileAppUrl": "https://fsn1.your-objectstorage.com/app-store-prod/com.facebook.katana/apk/v512.0.0.64.75/com_facebook_katana_v512.0.0.64.75.apk"
+    "appSize": 143
   },
   {
     "applicationId": "org.telegram.messenger",
@@ -56,7 +67,10 @@
     "versionName": "11.11.1",
     "versionCode": 59302,
     "privacyRating": 3.5,
-    "iconUrl": "https://fsn1.your-objectstorage.com/app-store-prod/org.telegram.messenger/icon/icon.png",
+     "icon": {
+    	"url":"https://fsn1.your-objectstorage.com/app-store-prod/org.telegram.messenger/icon/icon.png",
+    	"sha256":""
+    },
     "rating": 2,
     "appSize": 24
   },
@@ -68,7 +82,10 @@
     "versionName": "0.5.0",
     "versionCode": 80,
     "privacyRating": 4.0,
-    "iconUrl": "https://fsn1.your-objectstorage.com/app-store-prod/ai.x.grok/icon/icon.png",
+     "icon": {
+    	"url":"https://fsn1.your-objectstorage.com/app-store-prod/ai.x.grok/icon/icon.png",
+    	"sha256":""
+    },
     "rating": 2,
     "appSize": 17.0
   },
@@ -80,7 +97,10 @@
     "versionName": "2025.18.1",
     "versionCode": 2518060,
     "privacyRating": 3.5,
-    "iconUrl": "https://fsn1.your-objectstorage.com/app-store-prod/com.reddit.frontpage/icon/icon.png",
+     "icon": {
+    	"url":"https://fsn1.your-objectstorage.com/app-store-prod/com.reddit.frontpage/icon/icon.png",
+    	"sha256":""
+    },
     "rating": 2,
     "appSize": 105.0
   },
@@ -92,7 +112,10 @@
     "versionName": "5.6.5.2",
     "versionCode": 1030577,
     "privacyRating": 2.0,
-    "iconUrl": "https://fsn1.your-objectstorage.com/app-store-prod/com.waze/icon/icon.png",
+     "icon": {
+    	"url":"https://fsn1.your-objectstorage.com/app-store-prod/com.waze/icon/icon.png",
+    	"sha256":""
+    },
     "rating": 2,
     "appSize": 86.0
  },
@@ -104,7 +127,10 @@
     "versionName": "3.56.0",
     "versionCode": 35600,
     "privacyRating": 2.5,
-    "iconUrl": "https://fsn1.your-objectstorage.com/app-store-prod/com.einnovation.temu/icon/icon.png",
+     "icon": {
+    	"url":"https://fsn1.your-objectstorage.com/app-store-prod/com.einnovation.temu/icon/icon.png",
+    	"sha256":""
+    },
     "rating": 2,
     "appSize": 37.0
   },
@@ -116,7 +142,11 @@
     "versionName": "9.15.0 build 8 62762",
     "versionCode": 62762,
     "privacyRating": 3.5,
-    "iconUrl": "https://fsn1.your-objectstorage.com/app-store-prod/com.netflix.mediaclient/icon/icon.png",      "rating": 2,
+     "icon": {
+    	"url":"https://fsn1.your-objectstorage.com/app-store-prod/com.netflix.mediaclient/icon/icon.png",
+    	"sha256":""
+    },
+     "rating": 2,
     "appSize": 25.0
   },
   {
@@ -127,7 +157,10 @@
     "versionName": "25.4.1.38546",
     "versionCode": 1930438546,
     "privacyRating": 3.0,
-    "iconUrl": "https://fsn1.your-objectstorage.com/app-store-prod/com.adobe.reader/icon/icon.png",
+     "icon": {
+    	"url":"https://fsn1.your-objectstorage.com/app-store-prod/com.adobe.reader/icon/icon.png",
+    	"sha256":""
+    },
     "rating": 2,
     "appSize": 56.0
   },
@@ -139,7 +172,10 @@
     "versionName": "422.2.2",
     "versionCode": 42220200,
     "privacyRating": 3.5,
-    "iconUrl": "https://fsn1.your-objectstorage.com/app-store-prod/com.dropbox.android/icon/icon.png",
+     "icon": {
+    	"url":"https://fsn1.your-objectstorage.com/app-store-prod/com.dropbox.android/icon/icon.png",
+    	"sha256":""
+    },
     "rating": 2,
     "appSize": 77.0
   },
@@ -151,7 +187,10 @@
     "versionName": "30.9.0.100",
     "versionCode": 1241294016,
     "privacyRating": 3.5,
-    "iconUrl": "https://fsn1.your-objectstorage.com/app-store-prod/com.amazon.mShop.android.shopping/icon/icon.png",
+     "icon": {
+    	"url":"https://fsn1.your-objectstorage.com/app-store-prod/com.amazon.mShop.android.shopping/icon/icon.png",
+    	"sha256":""
+    },
     "rating": 2,
     "appSize": 42.0
   },
@@ -163,7 +202,10 @@
     "versionName": "13.40.0.45",
     "versionCode": 205772,
     "privacyRating": 3.0,
-    "iconUrl": "https://fsn1.your-objectstorage.com/app-store-prod/com.snapchat.android/icon/icon.png",
+     "icon": {
+    	"url":"https://fsn1.your-objectstorage.com/app-store-prod/com.snapchat.android/icon/icon.png",
+    	"sha256":""
+    },
     "rating": 2,
     "appSize": 85.0
   },
@@ -175,7 +217,10 @@
     "versionName": "2.25.14.76",
     "versionCode": 251476003,
     "privacyRating": 3.5,
-    "iconUrl": "https://fsn1.your-objectstorage.com/app-store-prod/com.whatsapp/icon/icon.png",
+     "icon": {
+    	"url":"https://fsn1.your-objectstorage.com/app-store-prod/com.whatsapp/icon/icon.png",
+    	"sha256":""
+    },
     "rating": 2,
     "appSize": 80.0
   }
