@@ -16,7 +16,8 @@
         "icon": {
           "url": "https://fsn1.your-objectstorage.com/app-store-prod/com.here.app.maps/icon/icon.png",
           "sha256": "815542caaeede582dce22b3f7c9746092b364791072ff9fd99b901fd455739b2"
-        }
+        },
+        "priority": 40
       },
       {
         "applicationId": "app.organicmaps",
@@ -31,7 +32,8 @@
         "icon": {
           "url": "https://fsn1.your-objectstorage.com/app-store-prod/app.organicmaps/icon/icon.png",
           "sha256": "d7077785e7a3515782e4c321abc502f3dcccacc67146faa0098552e2c33126a0"
-        }
+        },
+        "priority": 15
       },
       {
         "applicationId": "com.waze",
@@ -46,7 +48,8 @@
         "icon": {
           "url": "https://fsn1.your-objectstorage.com/app-store-prod/com.waze/icon/icon.png",
           "sha256": "8149007fc162a51c4f7ad7ab601e8756c403f2a0d46c153a359c666e5e5abacc"
-        }
+        },
+        "priority": 82
       },
       {
         "applicationId": "app.organicmaps",
@@ -61,7 +64,8 @@
         "icon": {
           "url": "https://fsn1.your-objectstorage.com/app-store-prod/app.organicmaps/icon/icon.png",
           "sha256": "d7077785e7a3515782e4c321abc502f3dcccacc67146faa0098552e2c33126a0"
-        }
+        },
+        "priority": 61
       }
     ]
   },
@@ -82,7 +86,8 @@
         "icon": {
           "url": "https://fsn1.your-objectstorage.com/app-store-prod/org.thoughtcrime.securesms/icon/icon.png",
           "sha256": "1c19983d9be1be2a4b926ccc5054949bb672dd6dbfafd8b20dc4b92e46de47d8"
-        }
+        },
+        "priority": 40
       },
       {
         "applicationId": "org.telegram.messenger",
@@ -97,7 +102,8 @@
         "icon": {
           "url": "https://fsn1.your-objectstorage.com/app-store-prod/org.telegram.messenger/icon/icon.png",
           "sha256": "26fa00f1cc62ec0c0d2053e424d97bafcf5155e5fde756b0b9ef7a75cc0c837f"
-        }
+        },
+        "priority": 94
       },
       {
         "applicationId": "ch.protonmail.android",
@@ -112,7 +118,8 @@
         "icon": {
           "url": "https://fsn1.your-objectstorage.com/app-store-prod/ch.protonmail.android/icon/icon.png",
           "sha256": "15bc2270a3bf3b04803c24a1ea8d3e26aacaad39ec70dfd9392625f474ed29b9"
-        }
+        },
+        "priority": 26
       },
       {
         "applicationId": "com.discord",
@@ -127,7 +134,8 @@
         "icon": {
           "url": "https://fsn1.your-objectstorage.com/app-store-prod/com.discord/icon/icon.png",
           "sha256": "a4ed9e6fe651057c09ebdd9f08d9f9d619912957f5e98b24fbf8cc08f1086e0e"
-        }
+        },
+        "priority": 36
       }
     ]
   },
@@ -148,7 +156,8 @@
         "icon": {
           "url": "https://fsn1.your-objectstorage.com/app-store-prod/com.dropbox.android/icon/icon.png",
           "sha256": "d1249ec57a4c38c9c44adf1209f4965213cb6123446f9816a8ab39baa6afbcb1"
-        }
+        },
+        "priority": 66
       },
       {
         "applicationId": "com.touchtype.swiftkey",
@@ -163,7 +172,8 @@
         "icon": {
           "url": "https://fsn1.your-objectstorage.com/app-store-prod/com.touchtype.swiftkey/icon/icon.png",
           "sha256": "7d8f7d22cc3f5b2e844d1f3f448400facccb6934a2a44171bd0c86a14fc9e306"
-        }
+        },
+        "priority": 81
       },
       {
         "applicationId": "com.evernote",
@@ -178,7 +188,8 @@
         "icon": {
           "url": "https://fsn1.your-objectstorage.com/app-store-prod/com.evernote/icon/icon.png",
           "sha256": "db72ed8a1e9b0bb3f895e2c5cd3f02ef17c5d08ecf1cd04b92555a5f7aafeaa9"
-        }
+        },
+        "priority": 31
       },
       {
         "applicationId": "com.adobe.reader",
@@ -193,7 +204,8 @@
         "icon": {
           "url": "https://fsn1.your-objectstorage.com/app-store-prod/com.adobe.reader/icon/icon.png",
           "sha256": "8724b30a9a3bded4ca919cfce1d0939bfb4caad395a6fea905f2af2242086365"
-        }
+        },
+        "priority": 48
       }
     ]
   },
@@ -212,7 +224,10 @@
         "icon": {
           "url": "https://fsn1.your-objectstorage.com/app-store-prod/com.onepassword.android/icon/icon.png",
           "sha256": "9fc961277cf7d0f409ba82ec5d96a69ddfbd6bfd7e489ea66a83853a410546a4"
-        }
+        },
+        "rating": 5,
+        "privacyRating": 4.4,
+        "priority": 83
       },
       {
         "applicationId": "com.digitalchemy.barcodeplus",
@@ -225,7 +240,10 @@
         "icon": {
           "url": "https://fsn1.your-objectstorage.com/app-store-prod/com.digitalchemy.barcodeplus/icon/icon.png",
           "sha256": "668e7d698dc599943b7e239b97f6d46e4e289e5370da1ca974307fbb0ef4ebb2"
-        }
+        },
+        "rating": 1,
+        "privacyRating": 4.0,
+        "priority": 95
       },
       {
         "applicationId": "my.android.calc",
@@ -238,7 +256,10 @@
         "icon": {
           "url": "https://app-store-prod.fsn1.your-objectstorage.com/my.android.calc/icon/icon-1743594301012.webp",
           "sha256": "044758d3d95455297f1f28f248b9bb8ac1d669a1bbf4c805bad3fea9b2684e97"
-        }
+        },
+        "rating": 3,
+        "privacyRating": 2.3,
+        "priority": 13
       },
       {
         "applicationId": "biz.codespark.xcalendarapp",
@@ -251,7 +272,10 @@
         "icon": {
           "url": "https://app-store-prod.fsn1.your-objectstorage.com/biz.codespark.xcalendarapp/icon/icon-1748247325872.webp",
           "sha256": "1b4631b25facd1ddef54bd9b94b89d79f7abdc5960a0f56f4b633568806604e0"
-        }
+        },
+        "rating": 3,
+        "privacyRating": 3.5,
+        "priority": 46
       }
     ]
   },
@@ -272,7 +296,8 @@
         "icon": {
           "url": "https://fsn1.your-objectstorage.com/app-store-prod/com.netflix.mediaclient/icon/icon.png",
           "sha256": "76e0f1805cd8bd5cc6edf6373fcc12525abb8d90437278e0ecefc2ab4db5879d"
-        }
+        },
+        "priority": 34
       },
       {
         "applicationId": "com.wbd.stream",
@@ -287,7 +312,8 @@
         "icon": {
           "url": "https://fsn1.your-objectstorage.com/app-store-prod/com.wbd.stream/icon/icon.png",
           "sha256": "ecd0fb8a6b083717c1f23b48c199751bfd090acbec48a8445ec7fb5ac2bb45a4"
-        }
+        },
+        "priority": 7
       },
       {
         "applicationId": "com.amazon.avod.thirdpartyclient",
@@ -302,7 +328,8 @@
         "icon": {
           "url": "https://fsn1.your-objectstorage.com/app-store-prod/com.amazon.avod.thirdpartyclient/icon/icon.png",
           "sha256": "fd9a693b896d28fec2d49b2bc87848dfc2cf8e099f5fe70725af34ff37feae79"
-        }
+        },
+        "priority": 18
       },
       {
         "applicationId": "com.tubitv",
@@ -317,7 +344,8 @@
         "icon": {
           "url": "https://fsn1.your-objectstorage.com/app-store-prod/com.tubitv/icon/icon.png",
           "sha256": "a8b65bed24cec6e65a290645949003966cafc4c95957a424eb865f4f51846b78"
-        }
+        },
+        "priority": 72
       }
     ]
   },
@@ -338,7 +366,8 @@
         "icon": {
           "url": "https://fsn1.your-objectstorage.com/app-store-prod/com.wbd.stream/icon/icon.png",
           "sha256": "ecd0fb8a6b083717c1f23b48c199751bfd090acbec48a8445ec7fb5ac2bb45a4"
-        }
+        },
+        "priority": 18
       },
       {
         "applicationId": "tunein.player",
@@ -353,7 +382,8 @@
         "icon": {
           "url": "https://fsn1.your-objectstorage.com/app-store-prod/tunein.player/icon/icon.png",
           "sha256": "26182fc054550164376359834ac75dfe3cf9e13b0dcb99965c513fbd21592281"
-        }
+        },
+        "priority": 81
       },
       {
         "applicationId": "com.apple.android.music",
@@ -368,7 +398,8 @@
         "icon": {
           "url": "https://fsn1.your-objectstorage.com/app-store-prod/com.apple.android.music/icon/icon.png",
           "sha256": "782454a662c03aed8ccaca979a959b638270e9bc0b9b31f27283b96d666e76bd"
-        }
+        },
+        "priority": 1
       },
       {
         "applicationId": "com.shazam.android",
@@ -383,7 +414,8 @@
         "icon": {
           "url": "https://fsn1.your-objectstorage.com/app-store-prod/com.shazam.android/icon/icon.png",
           "sha256": "d25e1c78d9ea8dc108dccc29e93b5234bc51af0b4ac469393213a316d021e788"
-        }
+        },
+        "priority": 61
       }
     ]
   },
@@ -404,7 +436,8 @@
         "icon": {
           "url": "https://fsn1.your-objectstorage.com/app-store-prod/com.twitter.android/icon/icon.png",
           "sha256": "8adc5922b8bcb863e4fd60f0f703b308d26440cebbe0a5813fe15db492db9596"
-        }
+        },
+        "priority": 57
       },
       {
         "applicationId": "com.facebook.katana",
@@ -419,7 +452,8 @@
         "icon": {
           "url": "https://fsn1.your-objectstorage.com/app-store-prod/com.facebook.katana/icon/icon.png",
           "sha256": "aef5bb003fcff9bbc60570fc80a6b2b269ee705f71df8d325d83d22b1161356b"
-        }
+        },
+        "priority": 69
       },
       {
         "applicationId": "com.instagram.android",
@@ -434,7 +468,8 @@
         "icon": {
           "url": "https://up-app-loader.nbg1.your-objectstorage.com/up-app-loader/com.instagram.android/icon/icon.png",
           "sha256": "a7585fa24a3746e57adfbf2f8ded67527e66aeb586d76b62a3b4b1a09d7de3b1"
-        }
+        },
+        "priority": 6
       },
       {
         "applicationId": "com.snapchat.android",
@@ -449,7 +484,8 @@
         "icon": {
           "url": "https://fsn1.your-objectstorage.com/app-store-prod/com.snapchat.android/icon/icon.png",
           "sha256": "3a5c466f066b7b23db798a3d294405bace8ecddb435e131b24e9bc9a2da6ef3e"
-        }
+        },
+        "priority": 39
       }
     ]
   },
@@ -469,7 +505,9 @@
         "icon": {
           "url": "https://fsn1.your-objectstorage.com/app-store-prod/com.iherb/icon/icon.png",
           "sha256": "a827149ea33675f72c7d9b914a3028d78c7d465d0ff526b36aea39e30adf08b5"
-        }
+        },
+        "privacyRating": 1.6,
+        "priority": 61
       },
       {
         "applicationId": "com.bestbuy.android",
@@ -483,7 +521,9 @@
         "icon": {
           "url": "https://fsn1.your-objectstorage.com/app-store-prod/com.bestbuy.android/icon/icon.png",
           "sha256": "fe002784081c24894c98ad8e3f367e47b7cb0b9661504cd3b645310318d8ee5a"
-        }
+        },
+        "privacyRating": 1.9,
+        "priority": 11
       },
       {
         "applicationId": "com.amazon.mShop.android.shopping",
@@ -497,7 +537,9 @@
         "icon": {
           "url": "https://fsn1.your-objectstorage.com/app-store-prod/com.amazon.mShop.android.shopping/icon/icon.png",
           "sha256": "b14cc40785528b8f666a458581bf72b1b91489c0bd237f6aa8f32aa222446c56"
-        }
+        },
+        "privacyRating": 2.6,
+        "priority": 73
       },
       {
         "applicationId": "com.target.ui",
@@ -511,7 +553,9 @@
         "icon": {
           "url": "https://fsn1.your-objectstorage.com/app-store-prod/com.target.ui/icon/icon.png",
           "sha256": "3b241481684833dc1c833abf3589600a3b0aff874614369c227d9c84ab231cfe"
-        }
+        },
+        "privacyRating": 4.3,
+        "priority": 56
       }
     ]
   },
@@ -531,7 +575,9 @@
         "icon": {
           "url": "https://fsn1.your-objectstorage.com/app-store-prod/com.yahoo.mobile.client.android.yahoo/icon/icon.png",
           "sha256": "1f8bd3fad7245a43aca269cfd70547911c41d976a31eba95b7388f819d876d5c"
-        }
+        },
+        "privacyRating": 4.4,
+        "priority": 18
       },
       {
         "applicationId": "com.foxnews.android",
@@ -545,7 +591,9 @@
         "icon": {
           "url": "https://fsn1.your-objectstorage.com/app-store-prod/com.foxnews.android/icon/icon.png",
           "sha256": "95fc0202b88206e8b46f8a4b8f91ab5c7c75dd9cd7f9930f7589e562c8b8a760"
-        }
+        },
+        "privacyRating": 2.5,
+        "priority": 50
       },
       {
         "applicationId": "com.fli.android.newsmaxapp",
@@ -559,7 +607,9 @@
         "icon": {
           "url": "https://fsn1.your-objectstorage.com/app-store-prod/com.fli.android.newsmaxapp/icon/icon.png",
           "sha256": "3abfc910a4714307478a82508cf42637a7f74e8e12ebe1ac65b88ee5e03cb9d1"
-        }
+        },
+        "privacyRating": 2.2,
+        "priority": 85
       },
       {
         "applicationId": "com.nytimes.android",
@@ -573,7 +623,9 @@
         "icon": {
           "url": "https://fsn1.your-objectstorage.com/app-store-prod/com.nytimes.android/icon/icon.png",
           "sha256": "831e5f48fdc6f981e7abeb17d1d2c1b480702cc8799beb76a9ebc259c0a7f4ed"
-        }
+        },
+        "privacyRating": 4.6,
+        "priority": 61
       }
     ]
   },
@@ -593,7 +645,9 @@
         "icon": {
           "url": "https://fsn1.your-objectstorage.com/app-store-prod/com.squareup.cash/icon/icon.png",
           "sha256": "f75c4c22cec31424070309771bbb017b83746a9b7aa2f7bd31c679d15b1f31fe"
-        }
+        },
+        "privacyRating": 2.4,
+        "priority": 99
       },
       {
         "applicationId": "com.creditkarma.mobile",
@@ -607,7 +661,9 @@
         "icon": {
           "url": "https://fsn1.your-objectstorage.com/app-store-prod/com.creditkarma.mobile/icon/icon.png",
           "sha256": "986db932df1b73c515d71e1fbb07e4df479858cae27f4db6d20f2ae03e86a067"
-        }
+        },
+        "privacyRating": 3.0,
+        "priority": 76
       },
       {
         "applicationId": "com.robinhood.android",
@@ -621,7 +677,9 @@
         "icon": {
           "url": "https://fsn1.your-objectstorage.com/app-store-prod/com.robinhood.android/icon/icon.png",
           "sha256": "b0bf06e91058e230994b2321fbcab21c10f42ff3a4c46e6eae8a97e5353ac37b"
-        }
+        },
+        "privacyRating": 4.9,
+        "priority": 58
       },
       {
         "applicationId": "com.paypal.android.p2pmobile",
@@ -635,7 +693,9 @@
         "icon": {
           "url": "https://fsn1.your-objectstorage.com/app-store-prod/com.paypal.android.p2pmobile/icon/icon.png",
           "sha256": "1041826528e1e3d86898c3c602fd56f142a1a56edd6fe20019d1b11d312bfe1b"
-        }
+        },
+        "privacyRating": 2.3,
+        "priority": 53
       }
     ]
   }
