@@ -1,7 +1,7 @@
 [
   {
     "title": "Navigate everywhere you like",
-    "CategoryName": "Navigation",
+    "categoryName": "Navigation",
     "apps": [
       {
         "applicationId": "com.here.app.maps",
@@ -43,7 +43,7 @@
   },
   {
     "title": "Communicate with your loved ones",
-    "CategoryName": "Communication",
+    "categoryName": "Communication",
     "apps": [
       {
         "applicationId": "org.thoughtcrime.securesms",
@@ -97,7 +97,7 @@
   },
   {
     "title": "Make your day more efficient.",
-    "CategoryName": "Productivity",
+    "categoryName": "Productivity",
     "apps": [
       {
         "applicationId": "com.dropbox.android",
