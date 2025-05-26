@@ -2,7 +2,7 @@
   "categories": [
     {
       "title": "Navigate anywhere you like",
-      "CategoryName": "Navigation",
+      "categoryName": "Navigation",
       "apps": [
         {
           "applicationId": "com.here.app.maps",
@@ -130,7 +130,7 @@
     },
     {
       "title": "Communicate with your loved ones",
-      "CategoryName": "Communication",
+      "categoryName": "Communication",
       "apps": [
         {
           "applicationId": "org.thoughtcrime.securesms",
@@ -256,7 +256,7 @@
     },
     {
       "title": "Make your day more efficient.",
-      "CategoryName": "Productivity",
+      "categoryName": "Productivity",
       "apps": [
         {
           "applicationId": "com.dropbox.android",
@@ -387,7 +387,7 @@
     },
     {
       "title": "Discover your next favorite show.",
-      "CategoryName": "Entertainment",
+      "categoryName": "Entertainment",
       "apps": [
         {
           "applicationId": "com.netflix.mediaclient",
@@ -513,7 +513,7 @@
         },
         {
           "title": "Find songs that excite you.",
-          "CategoryName": "Music & Audio",
+          "categoryName": "Music & Audio",
           "apps": [
             {
               "applicationId": "com.spotify.music",
@@ -640,7 +640,7 @@
         },
         {
           "title": "Connect with friends and family.",
-          "CategoryName": "Social",
+          "categoryName": "Social",
           "apps": [
              {
               "applicationId": "com.twitter.android",
@@ -760,7 +760,7 @@
         },
         {
           "title": "Find the best deals and products.",
-          "CategoryName": "Shopping",
+          "categoryName": "Shopping",
           "apps": [
             {
               "applicationId": "com.offerup",
@@ -876,7 +876,7 @@
         },
         {
           "title": "Get up to date with the latest news.",
-          "CategoryName": "News & Magazines",
+          "categoryName": "News & Magazines",
           "apps": [
             {
               "applicationId": "flipboard.app",
@@ -996,7 +996,7 @@
         },
         {
           "title": "Manage your finances and investments.",
-          "CategoryName": "Finance",
+          "categoryName": "Finance",
           "apps": [
               {
               "applicationId": "com.squareup.cash",
@@ -1116,7 +1116,7 @@
         },
         {
           "title": "Order food and drinks from your favorite restaurants.",
-          "CategoryName": "Food & Drink",
+          "categoryName": "Food & Drink",
           "apps": [
             { 
               "applicationId": "com.ubercab.eats",
