@@ -132,6 +132,7 @@
         "priority": 0
       },
       {
+        "applicationId":"org.nitri.opentopo",
         "applicationName": "OpenTopoMap Viewer",
         "applicationType": "Navigation",
         "description": "Online client for maps from OTM project, import GPX and show own location",
@@ -934,6 +935,7 @@
         "applicationType": "Social",
         "description": "TikTok is THE destination for mobile videos. On TikTok, short-form videos are exciting, spontaneous, and genuine. Whether you\u2019re a sports fanatic, a pet enthusiast, or just looking for a laugh, there\u2019s something for everyone on TikTok. All you have to do is watch, engage with what you like, skip what you don\u2019t, and you\u2019ll find an endless stream of short videos that feel personalized just for you. From your morning coffee to your afternoon errands, TikTok has the videos that are guaranteed to make your day.",
         "versionName": "39.8.4",
+        "versionCode":2323,
         "rating": 2,
         "appSize": 102.0,
         "icon": {
