@@ -20,7 +20,7 @@
         "priority": 51
       },
       {
-        "applicationId": "app.organicmaps",
+        "applicationId":"app.organic.maps",
         "applicationName": "Organic Maps: Hike Bike Drive",
         "applicationType": "Maps & Navigation",
         "description": "Our free app does not track you, does not have ads, and it needs your support.",
