@@ -197,7 +197,7 @@
         "appSize": 83.0,
         "icon": {
           "url": "https://fsn1.your-objectstorage.com/app-store-prod/ch.protonmail.android/icon/icon.png",
-          "sha256": "15bc2270a3bf3b04803c24a1ea8d3e26aacaad39ec70dfd9392625f474ed29b9"
+          "sha256": "15bc2270a3bf3b04803c24a1ea8d3NR_D011.13_N_UP01_2.041.00e26aacaad39ec70dfd9392625f474ed29b9"
         },
         "priority": 9
       },
@@ -662,7 +662,7 @@
         "rating": 2,
         "appSize": 109.0,
         "icon": {
-          "url": "https://fsn1.your-objectstorage.com/app-store-prod/com.wbd.stream/icon/icon.png",
+          "url": "https://fsn1.your-objectstorage.com/app-store-prod/com.spotify.music/icon/icon.png",
           "sha256": "ecd0fb8a6b083717c1f23b48c199751bfd090acbec48a8445ec7fb5ac2bb45a4"
         },
         "priority": 37
@@ -680,6 +680,22 @@
         "icon": {
           "url": "https://fsn1.your-objectstorage.com/app-store-prod/tunein.player/icon/icon.png",
           "sha256": "26182fc054550164376359834ac75dfe3cf9e13b0dcb99965c513fbd21592281"
+        },
+        "priority": 70
+      },
+      {
+        "applicationId": "deezer.android.app",
+        "applicationName": "Deezer: Music & Podcast Player",
+        "applicationType": "Music & Audio",
+        "description": "Deezer is more than a music streaming platform. Elevate your listening experience and Live the Music.",
+        "versionName": "8.0.37.6",
+        "versionCode": 8003706,
+        "privacyRating": 3.0,
+        "rating": 2,
+        "appSize": 58.0,
+        "icon": {
+          "url": "https://fsn1.your-objectstorage.com/app-store-prod/deezer.android.app/icon/icon.png",
+          "sha256": ""
         },
         "priority": 70
       },
