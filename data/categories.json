@@ -102,7 +102,7 @@
       {
         "applicationId": "com.citymapper.app.release",
         "applicationName": "Citymapper",
-        "applicationType": "Maps & Navigation ",
+        "applicationType": "Maps & Navigation",
         "description": "Instantly compare your travel options in real-time across all transport modes!",
         "versionName": "11.32.1",
         "versionCode": 1132100,
@@ -118,7 +118,7 @@
       {
         "applicationId":"org.nitri.opentopo",
         "applicationName": "OpenTopoMap Viewer",
-        "applicationType": "Navigation",
+        "applicationType": "Maps & Navigation",
         "description": "Online client for maps from OTM project, import GPX and show own location",
         "versionName": "1.21.1",
         "versionCode": 49,
@@ -134,7 +134,7 @@
       {
         "applicationId": "com.mapswithme.maps.pro",
         "applicationName": "MAPS.ME",
-        "applicationType": "Navigation ",
+        "applicationType": "Maps & Navigation",
         "description": "Fast, detailed and entirely offline maps with turn-by-turn navigation \u2013 trusted by over 140 million travelers worldwide.",
         "versionName": "v15.16.71779-googleRelease",
         "versionCode": 71779,
@@ -150,7 +150,7 @@
     ]
   },
   {
-    "title": "Communicate with your loved ones",
+    "title": "Communication",
     "categoryName": "Communication",
     "apps": [
       {
@@ -316,7 +316,7 @@
     ]
   },
   {
-    "title": "Make your day more efficient.",
+    "title": "Productivity",
     "categoryName": "Productivity",
     "apps": [
       {
@@ -482,7 +482,7 @@
     ]
   },
   {
-    "title": "Discover your next favorite show.",
+    "title": "Entertainment",
     "categoryName": "Entertainment",
     "apps": [
       {
@@ -648,7 +648,7 @@
     ]
   },
   {
-    "title": "Find songs that excite you.",
+    "title": "Music & Audio",
     "categoryName": "Music & Audio",
     "apps": [
       {
@@ -814,7 +814,7 @@
     ]
   },
   {
-    "title": "Connect with friends and family.",
+    "title": "Social",
     "categoryName": "Social",
     "apps": [
       {
@@ -898,20 +898,21 @@
         "priority": 60
       },
       {
-        "applicationId": "com.discord",
-        "applicationName": "Discord - Talk, Play, Hang Out",
+        "lastUpdate": "2025-05-13T10:44:12.572",
+        "applicationId": "com.instagram.barcelona",
+        "applicationName": "Threads",
         "applicationType": "Social",
-        "description": "Discord is designed for gaming and great for just chilling with friends or building a community. Customize your own space and gather your friends to talk while playing your favorite games, or just hang out.",
-        "versionName": "278.11 - Stable",
-        "versionCode": 278011,
+        "description": "Say more with Threads \u2014 Instagram\u2019s text-based conversation app.",
+        "versionName": "379.0.0.41.99",
+        "versionCode": 504913616,
         "rating": 2,
-        "appSize": 105.0,
+        "appSize": 62.0,
         "icon": {
-          "url": "https://fsn1.your-objectstorage.com/app-store-prod/com.discord/icon/icon.png",
-          "sha256": "a4ed9e6fe651057c09ebdd9f08d9f9d619912957f5e98b24fbf8cc08f1086e0e"
+          "url": "https://fsn1.your-objectstorage.com/app-store-prod/com.instagram.barcelona/icon/icon.png",
+          "sha256": "e7c503d9863abcc8dbe657a7e41463d04c8b7cf4a98cd3ee6eaaa41e1de25e1d"
         },
-        "privacyRating": 1.8,
-        "priority": 10
+        "privacyRating": 1.2,
+        "priority": 73
       },
       {
         "applicationId": "com.zhiliaoapp.musically",
@@ -946,23 +947,6 @@
         "priority": 3
       },
       {
-        "lastUpdate": "2025-05-13T10:44:12.572",
-        "applicationId": "com.instagram.barcelona",
-        "applicationName": "Threads",
-        "applicationType": "Social",
-        "description": "Say more with Threads \u2014 Instagram\u2019s text-based conversation app.",
-        "versionName": "379.0.0.41.99",
-        "versionCode": 504913616,
-        "rating": 2,
-        "appSize": 62.0,
-        "icon": {
-          "url": "https://fsn1.your-objectstorage.com/app-store-prod/com.instagram.barcelona/icon/icon.png",
-          "sha256": "e7c503d9863abcc8dbe657a7e41463d04c8b7cf4a98cd3ee6eaaa41e1de25e1d"
-        },
-        "privacyRating": 1.2,
-        "priority": 73
-      },
-      {
         "applicationId": "com.truthsocial.android.app",
         "applicationName": "Truth Social",
         "applicationType": "Social",
@@ -981,7 +965,7 @@
     ]
   },
   {
-    "title": "Find the best deals and products.",
+    "title": "Shopping",
     "categoryName": "Shopping",
     "apps": [
       {
@@ -1147,7 +1131,7 @@
     ]
   },
   {
-    "title": "Get up to date with the latest news.",
+    "title": "News & Magazines",
     "categoryName": "News & Magazines",
     "apps": [
       {
@@ -1313,7 +1297,7 @@
     ]
   },
   {
-    "title": "Manage your finances and investments.",
+    "title": "Finance",
     "categoryName": "Finance",
     "apps": [
       {
@@ -1479,7 +1463,7 @@
     ]
   },
   {
-    "title": "Order food and drinks from your favorite restaurants.",
+    "title": "Food & Drink",
     "categoryName": "Food & Drink",
     "apps": [
       {
