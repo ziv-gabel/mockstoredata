@@ -81,22 +81,6 @@
           "url": "https://up-app-loader.nbg1.your-objectstorage.com/up-app-loader/com.mapfactor.navigator/icon/icon.png",
           "sha256": "cb803fbfff7b6186fc06bc5c27b60783923ebf43847b72b9d23b2725e44339a0"
         },
-        "priority": 50
-      },
-      {
-        "applicationId": "com.mapfactor.navigator",
-        "applicationName": "MapFactor Navigator",
-        "applicationType": "Maps & Navigation",
-        "description": "* Best rated free offline navigation app on Google Play with 35 mil+ installs*",
-        "versionName": "7.3.77",
-        "versionCode": 7003077,
-        "privacyRating": 3.5,
-        "rating": 2,
-        "appSize": 111.0,
-        "icon": {
-          "url": "https://up-app-loader.nbg1.your-objectstorage.com/up-app-loader/com.mapfactor.navigator/icon/icon.png",
-          "sha256": "cb803fbfff7b6186fc06bc5c27b60783923ebf43847b72b9d23b2725e44339a0"
-        },
         "priority": 84
       },
       {
