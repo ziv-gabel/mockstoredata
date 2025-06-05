@@ -866,18 +866,18 @@
         "priority": 82
       },
       {
-        "applicationId": "com.snapchat.android",
-        "applicationName": "Snapchat",
+        "applicationId": "com.zhiliaoapp.musically",
+        "applicationName": "TikTok - Videos, Shop & LIVE",
         "applicationType": "Social",
-        "description": "Snapchat is a fast and fun way to share the moment with your friends and family \ud83d\udc7b",
-        "versionName": "13.40.0.45",
-        "versionCode": 205772,
+        "description": "TikTok is THE destination for mobile videos. On TikTok, short-form videos are exciting, spontaneous, and genuine. Whether you’re a sports fanatic, a pet enthusiast, or just looking for a laugh, there’s something for everyone on TikTok. All you have to do is watch, engage with what you like, skip what you don’t, and you’ll find an endless stream of short videos that feel personalized just for you. From your morning coffee to your afternoon errands, TikTok has the videos that are guaranteed to make your day.",
+        "versionName": "40.1.4",
+        "versionCode": 2024001040,
         "privacyRating": 3.5,
         "rating": 2,
-        "appSize": 85.0,
+        "appSize": 103.0,
         "icon": {
-          "url": "https://fsn1.your-objectstorage.com/app-store-prod/com.snapchat.android/icon/icon.png",
-          "sha256": "3a5c466f066b7b23db798a3d294405bace8ecddb435e131b24e9bc9a2da6ef3e"
+          "url": "https://fsn1.your-objectstorage.com/app-store-prod/com.zhiliaoapp.musically/icon/icon.png",
+          "sha256": ""
         },
         "priority": 0
       },
