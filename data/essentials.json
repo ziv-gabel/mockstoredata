@@ -52,20 +52,20 @@
         "priority": 82
       },
       {
-        "applicationId": "app.organicmaps",
-        "applicationName": "Organic Maps: Hike Bike Drive",
+        "applicationId": "com.sygic.aura",
+        "applicationName": "Sygic GPS Navigation & Maps",
         "applicationType": "Maps & Navigation",
-        "description": "Our free app does not track you, does not have ads, and it needs your support.",
-        "versionName": "2025.04.21-5-Google",
-        "versionCode": 25042105,
+        "description": "Sygic GPS Navigation & Maps is innovative GPS navigation app with monthly-updated offline maps and with precise live traffic & speed camera alerts, both updated in real time. It\u2018s trusted by more than 200 million drivers worldwide. Offline 3D maps are stored on your phone for GPS navigation without an internet connection. We update the maps multiple times per year for free, so that you can always rely on Sygic GPS Navigation.",
+        "versionName": "25.1.5-2405",
+        "versionCode": 261250105,
         "privacyRating": 3.5,
         "rating": 2,
-        "appSize": 94,
+        "appSize": 151.0,
         "icon": {
-          "url": "https://fsn1.your-objectstorage.com/app-store-prod/app.organicmaps/icon/icon.png",
-          "sha256": "d7077785e7a3515782e4c321abc502f3dcccacc67146faa0098552e2c33126a0"
+          "url": "https://fsn1.your-objectstorage.com/app-store-prod/com.sygic.aura/icon/icon.png",
+          "sha256": "e92c3a9eff8eb08ae41b0e965b7ade50176edd1e205db8c402eef093e7aa9163"
         },
-        "priority": 61
+        "priority": 8
       }
     ]
   },
