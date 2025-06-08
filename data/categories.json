@@ -4,38 +4,6 @@
     "categoryName": "Maps & Navigation",
     "apps": [
       {
-        "applicationId": "com.here.app.maps",
-        "applicationName": "HERE WeGo: Maps & Navigation",
-        "applicationType": "Maps & Navigation",
-        "description": "Welcome to the new HERE WeGo!",
-        "versionName": "4.16.000",
-        "versionCode": 8022030,
-        "privacyRating": 4.0,
-        "rating": 2,
-        "appSize": 67.0,
-        "icon": {
-          "url": "https://fsn1.your-objectstorage.com/app-store-prod/com.here.app.maps/icon/icon.png",
-          "sha256": "815542caaeede582dce22b3f7c9746092b364791072ff9fd99b901fd455739b2"
-        },
-        "priority": 51
-      },
-      {
-        "applicationId":"app.organic.maps",
-        "applicationName": "Organic Maps: Hike Bike Drive",
-        "applicationType": "Maps & Navigation",
-        "description": "Our free app does not track you, does not have ads, and it needs your support.",
-        "versionName": "2025.04.21-5-Google",
-        "versionCode": 25042105,
-        "privacyRating": 3.5,
-        "rating": 2,
-        "appSize": 94.0,
-        "icon": {
-          "url": "https://fsn1.your-objectstorage.com/app-store-prod/app.organicmaps/icon/icon.png",
-          "sha256": "d7077785e7a3515782e4c321abc502f3dcccacc67146faa0098552e2c33126a0"
-        },
-        "priority": 84
-      },
-      {
         "applicationId": "com.waze",
         "applicationName": "Waze Navigation & Live Traffic",
         "applicationType": "Maps & Navigation",
@@ -52,6 +20,22 @@
         "priority": 82
       },
       {
+        "applicationId": "com.here.app.maps",
+        "applicationName": "HERE WeGo: Maps & Navigation",
+        "applicationType": "Maps & Navigation",
+        "description": "Welcome to the new HERE WeGo!",
+        "versionName": "4.16.000",
+        "versionCode": 8022030,
+        "privacyRating": 4.0,
+        "rating": 2,
+        "appSize": 67.0,
+        "icon": {
+          "url": "https://fsn1.your-objectstorage.com/app-store-prod/com.here.app.maps/icon/icon.png",
+          "sha256": "815542caaeede582dce22b3f7c9746092b364791072ff9fd99b901fd455739b2"
+        },
+        "priority": 51
+      },
+      {
         "applicationId": "com.sygic.aura",
         "applicationName": "Sygic GPS Navigation & Maps",
         "applicationType": "Maps & Navigation",
@@ -66,6 +50,22 @@
           "sha256": "e92c3a9eff8eb08ae41b0e965b7ade50176edd1e205db8c402eef093e7aa9163"
         },
         "priority": 8
+      },
+      {
+        "applicationId":"app.organicmaps",
+        "applicationName": "Organic Maps: Hike Bike Drive",
+        "applicationType": "Maps & Navigation",
+        "description": "Our free app does not track you, does not have ads, and it needs your support.",
+        "versionName": "2025.04.21-5-Google",
+        "versionCode": 25042105,
+        "privacyRating": 3.5,
+        "rating": 2,
+        "appSize": 94.0,
+        "icon": {
+          "url": "https://fsn1.your-objectstorage.com/app-store-prod/app.organicmaps/icon/icon.png",
+          "sha256": "d7077785e7a3515782e4c321abc502f3dcccacc67146faa0098552e2c33126a0"
+        },
+        "priority": 84
       },
       {
         "applicationId": "com.mapfactor.navigator",
@@ -98,54 +98,6 @@
           "sha256": "c2369155f2ec1cb3d9185dcb7e7c1c6ee606a24682941c691fbffa2e8ea034ab"
         },
         "priority": 49
-      },
-      {
-        "applicationId": "com.citymapper.app.release",
-        "applicationName": "Citymapper",
-        "applicationType": "Maps & Navigation",
-        "description": "Instantly compare your travel options in real-time across all transport modes!",
-        "versionName": "11.32.1",
-        "versionCode": 1132100,
-        "privacyRating": 3.5,
-        "rating": 2,
-        "appSize": 55.0,
-        "icon": {
-          "url": "https://app-store-prod.fsn1.your-objectstorage.com/com.citymapper.app.release/icon/icon-1746415051181.webp",
-          "sha256": "ad6406c124559e2b7d1b680f7ea13436fd92f254656ad933386e8dd874764b5e"
-        },
-        "priority": 0
-      },
-      {
-        "applicationId":"org.nitri.opentopo",
-        "applicationName": "OpenTopoMap Viewer",
-        "applicationType": "Maps & Navigation",
-        "description": "Online client for maps from OTM project, import GPX and show own location",
-        "versionName": "1.21.1",
-        "versionCode": 49,
-        "privacyRating": 3.0,
-        "rating": 2,
-        "appSize": 7.0,
-        "icon": {
-          "url": "https://app-store-prod.fsn1.your-objectstorage.com/org.nitri.opentopo/icon/icon_dS97YMa6ybea-zBC9xt-tvfinvcPUAncx2HUmXvdk-Q=.png",
-          "sha256": "a6be19e6228b96d3d5224ce26ade85104f860689ef02212c2edaf093a60a4825"
-        },
-        "priority": 23
-      },
-      {
-        "applicationId": "com.mapswithme.maps.pro",
-        "applicationName": "MAPS.ME",
-        "applicationType": "Maps & Navigation",
-        "description": "Fast, detailed and entirely offline maps with turn-by-turn navigation \u2013 trusted by over 140 million travelers worldwide.",
-        "versionName": "v15.16.71779-googleRelease",
-        "versionCode": 71779,
-        "privacyRating": 3.5,
-        "rating": 2,
-        "appSize": 227.0,
-        "icon": {
-          "url": "https://app-store-prod.fsn1.your-objectstorage.com/com.mapswithme.maps.pro/icon/icon-1732017310885.webp",
-          "sha256": "8a8a98a629e01a51dfc24e16c1cdb1e9fcf5822a09d2a42b0c813ddaf5a81c93"
-        },
-        "priority": 94
       }
     ]
   },
