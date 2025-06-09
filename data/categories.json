@@ -106,6 +106,22 @@
     "categoryName": "Communication",
     "apps": [
       {
+        "applicationId": "com.whatsapp",
+        "applicationName": "WhatsApp Messenger",
+        "applicationType": "Communication",
+        "description": "WhatsApp from Meta is a FREE messaging and video calling app. It\u2019s used by over 2B people in more than 180 countries. It\u2019s simple, reliable, and private, so you can easily keep in touch with your friends and family. WhatsApp works across mobile and desktop even on slow connections, with no subscription fees*.",
+        "versionName": "2.25.14.76",
+        "versionCode": 251476003,
+        "privacyRating": 3.5,
+        "rating": 2,
+        "appSize": 80.0,
+        "icon": {
+          "url": "https://fsn1.your-objectstorage.com/app-store-prod/com.whatsapp/icon/icon.png",
+          "sha256": "df1ddb3fd3515366166f9bf704f7bf7a6ff12a6976189e68b8adbb8b2500c3b5"
+        },
+        "priority": 75
+      },
+      {
         "applicationId": "org.thoughtcrime.securesms",
         "applicationName": "Signal Private Messenger",
         "applicationType": "Communication",
@@ -170,36 +186,20 @@
         "priority": 83
       },
       {
-        "applicationId": "com.brave.browser_nightly",
-        "applicationName": "Brave Nightly",
+        "applicationId": "com.tencent.mm",
+        "applicationName": "WeChat",
         "applicationType": "Communication",
-        "description": "(This is the page for Brave Nightly, a preview version of the Brave browser for developers and testers.)",
-        "versionName": "1.80.56",
-        "versionCode": 428005624,
+        "description": "WeChat is more than a messaging and social media app \u2013 it is a lifestyle for over one billion users across the world. Chat and make calls with friends, share your life's favorite Moments, enjoy mobile payment features, and much more.",
+        "versionName": "8.0.57",
+        "versionCode": 2800,
         "privacyRating": 3.5,
         "rating": 2,
-        "appSize": 215.0,
+        "appSize": 179.0,
         "icon": {
-          "url": "https://fsn1.your-objectstorage.com/app-store-prod/com.brave.browser_nightly/icon/icon.png",
-          "sha256": "781fea327a0dc4319c55fc609c8a320985050fb5bba0b54208c87264aa9f417e"
+          "url": "https://up-app-loader.nbg1.your-objectstorage.com/up-app-loader/com.tencent.mm/icon/icon.png",
+          "sha256": "35d84ef96e03fb1dd2fef2df69b4ec6981bb82b5a518858cc69afdafd2bf2854"
         },
-        "priority": 92
-      },
-      {
-        "applicationId": "com.brave.browser",
-        "applicationName": "Brave Browser: Fast AdBlock",
-        "applicationType": "Communication",
-        "description": "Browse 3X faster on Brave Browser. Get a lightning fast, safe and private web browser with AI, Adblock, and VPN.",
-        "versionName": "1.78.99",
-        "versionCode": 427809924,
-        "privacyRating": 3.5,
-        "rating": 2,
-        "appSize": 214.0,
-        "icon": {
-          "url": "https://fsn1.your-objectstorage.com/app-store-prod/com.brave.browser/icon/icon.png",
-          "sha256": "958bde88ead71a4397dda9fd754dada53ecd67180f6fc00dfc7ecf38c6af5e3d"
-        },
-        "priority": 53
+        "priority": 91
       },
       {
         "applicationId": "com.whitepages.search",
@@ -232,38 +232,6 @@
           "sha256": "426931eb9b65b2ad4d09219fc307176c5c745763307e51a1ec592a217d05f7a4"
         },
         "priority": 11
-      },
-      {
-        "applicationId": "com.tencent.mm",
-        "applicationName": "WeChat",
-        "applicationType": "Communication",
-        "description": "WeChat is more than a messaging and social media app \u2013 it is a lifestyle for over one billion users across the world. Chat and make calls with friends, share your life's favorite Moments, enjoy mobile payment features, and much more.",
-        "versionName": "8.0.57",
-        "versionCode": 2800,
-        "privacyRating": 3.5,
-        "rating": 2,
-        "appSize": 179.0,
-        "icon": {
-          "url": "https://up-app-loader.nbg1.your-objectstorage.com/up-app-loader/com.tencent.mm/icon/icon.png",
-          "sha256": "35d84ef96e03fb1dd2fef2df69b4ec6981bb82b5a518858cc69afdafd2bf2854"
-        },
-        "priority": 91
-      },
-      {
-        "applicationId": "com.whatsapp",
-        "applicationName": "WhatsApp Messenger",
-        "applicationType": "Communication",
-        "description": "WhatsApp from Meta is a FREE messaging and video calling app. It\u2019s used by over 2B people in more than 180 countries. It\u2019s simple, reliable, and private, so you can easily keep in touch with your friends and family. WhatsApp works across mobile and desktop even on slow connections, with no subscription fees*.",
-        "versionName": "2.25.14.76",
-        "versionCode": 251476003,
-        "privacyRating": 3.5,
-        "rating": 2,
-        "appSize": 80.0,
-        "icon": {
-          "url": "https://fsn1.your-objectstorage.com/app-store-prod/com.whatsapp/icon/icon.png",
-          "sha256": "df1ddb3fd3515366166f9bf704f7bf7a6ff12a6976189e68b8adbb8b2500c3b5"
-        },
-        "priority": 75
       }
     ]
   },
