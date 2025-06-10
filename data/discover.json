@@ -11,6 +11,10 @@
     	"url":"https://fsn1.your-objectstorage.com/app-store-prod/com.twitter.android/icon/icon.png",
     	"sha256":""
     },
+    "fileApp": {
+        "url": "",
+        "sha256": ""
+        },
     "rating": 2,
     "appSize": 112
   },
@@ -26,6 +30,10 @@
     	"url":"https://fsn1.your-objectstorage.com/app-store-prod/org.thoughtcrime.securesms/icon/icon.png",
     	"sha256":""
     },
+    "fileApp": {
+        "url": "",
+        "sha256": ""
+        },
     "rating": 2,
     "appSize": 85
   },
@@ -41,6 +49,10 @@
     	"url":"https://fsn1.your-objectstorage.com/app-store-prod/com.spotify.music/icon/icon.png",
     	"sha256":""
     },
+    "fileApp": {
+        "url": "",
+        "sha256": ""
+        },
     "rating": 2,
     "appSize": 62
   },
@@ -56,6 +68,10 @@
     	"url":"https://fsn1.your-objectstorage.com/app-store-prod/com.facebook.katana/icon/icon.png",
     	"sha256":""
     },
+    "fileApp": {
+        "url": "",
+        "sha256": ""
+        },
     "rating": 2,
     "appSize": 143
   },
@@ -71,6 +87,10 @@
     	"url":"https://fsn1.your-objectstorage.com/app-store-prod/org.telegram.messenger/icon/icon.png",
     	"sha256":""
     },
+    "fileApp": {
+        "url": "",
+        "sha256": ""
+        },
     "rating": 2,
     "appSize": 24
   },
@@ -86,6 +106,10 @@
     	"url":"https://fsn1.your-objectstorage.com/app-store-prod/ai.x.grok/icon/icon.png",
     	"sha256":""
     },
+    "fileApp": {
+        "url": "",
+        "sha256": ""
+        },
     "rating": 2,
     "appSize": 17.0
   },
@@ -101,6 +125,10 @@
     	"url":"https://fsn1.your-objectstorage.com/app-store-prod/com.reddit.frontpage/icon/icon.png",
     	"sha256":""
     },
+    "fileApp": {
+        "url": "",
+        "sha256": ""
+        },
     "rating": 2,
     "appSize": 105.0
   },
@@ -116,6 +144,10 @@
     	"url":"https://fsn1.your-objectstorage.com/app-store-prod/com.waze/icon/icon.png",
     	"sha256":""
     },
+    "fileApp": {
+        "url": "",
+        "sha256": ""
+        },
     "rating": 2,
     "appSize": 86.0
  },
@@ -131,6 +163,10 @@
     	"url":"https://fsn1.your-objectstorage.com/app-store-prod/com.einnovation.temu/icon/icon.png",
     	"sha256":""
     },
+    "fileApp": {
+        "url": "",
+        "sha256": ""
+        },
     "rating": 2,
     "appSize": 37.0
   },
@@ -146,6 +182,10 @@
     	"url":"https://fsn1.your-objectstorage.com/app-store-prod/com.netflix.mediaclient/icon/icon.png",
     	"sha256":""
     },
+    "fileApp": {
+        "url": "",
+        "sha256": ""
+        },
      "rating": 2,
     "appSize": 25.0
   },
@@ -161,6 +201,10 @@
     	"url":"https://fsn1.your-objectstorage.com/app-store-prod/com.adobe.reader/icon/icon.png",
     	"sha256":""
     },
+    "fileApp": {
+        "url": "",
+        "sha256": ""
+        },
     "rating": 2,
     "appSize": 56.0
   },
@@ -176,6 +220,10 @@
     	"url":"https://fsn1.your-objectstorage.com/app-store-prod/com.dropbox.android/icon/icon.png",
     	"sha256":""
     },
+    "fileApp": {
+        "url": "",
+        "sha256": ""
+        },
     "rating": 2,
     "appSize": 77.0
   },
@@ -191,6 +239,10 @@
     	"url":"https://fsn1.your-objectstorage.com/app-store-prod/com.amazon.mShop.android.shopping/icon/icon.png",
     	"sha256":""
     },
+    "fileApp": {
+        "url": "",
+        "sha256": ""
+        },
     "rating": 2,
     "appSize": 42.0
   },
@@ -206,6 +258,10 @@
     	"url":"https://fsn1.your-objectstorage.com/app-store-prod/com.snapchat.android/icon/icon.png",
     	"sha256":""
     },
+    "fileApp": {
+        "url": "",
+        "sha256": ""
+        },
     "rating": 2,
     "appSize": 85.0
   },
@@ -221,6 +277,10 @@
     	"url":"https://fsn1.your-objectstorage.com/app-store-prod/com.whatsapp/icon/icon.png",
     	"sha256":""
     },
+    "fileApp": {
+        "url": "",
+        "sha256": ""
+        },
     "rating": 2,
     "appSize": 80.0
   }
