@@ -256,17 +256,17 @@
         "priority": 72
       },
       {
-        "applicationId": "com.touchtype.swiftkey",
-        "applicationName": "Microsoft SwiftKey AI Keyboard",
+        "applicationId": "com.socialnmobile.dictapps.notepad.color.note",
+        "applicationName": "ColorNote Notepad Notes",
         "applicationType": "Productivity",
-        "description": "Microsoft SwiftKey is the intelligent keyboard that learns your writing style, so you can type faster.",
-        "versionName": "9.10.58.18",
-        "versionCode": 1232732448,
+        "description": "ColorNote® is a simple and awesome notepad app. It gives you a quick and simple notepad editing experience when you write notes, memos, e-mails, messages, shopping lists and to-do lists. Taking notes with ColorNote® Notepad is easier than any other notepad or memo pad app.",
+        "versionName": "4.6.4",
+        "versionCode": 16400,
         "privacyRating": 3.5,
         "rating": 2,
-        "appSize": 22.0,
+        "appSize": 4.0,
         "icon": {
-          "url": "https://fsn1.your-objectstorage.com/app-store-prod/com.touchtype.swiftkey/icon/icon.png",
+          "url": "https://fsn1.your-objectstorage.com/app-store-prod/com.socialnmobile.dictapps.notepad.color.note/icon/icon.png",
           "sha256": "7d8f7d22cc3f5b2e844d1f3f448400facccb6934a2a44171bd0c86a14fc9e306"
         },
         "priority": 93
