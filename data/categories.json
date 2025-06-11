@@ -17,6 +17,10 @@
           "url": "https://fsn1.your-objectstorage.com/app-store-prod/com.waze/icon/icon.png",
           "sha256": "8149007fc162a51c4f7ad7ab601e8756c403f2a0d46c153a359c666e5e5abacc"
         },
+        "fileApp": {
+        "url": "",
+        "sha256": ""
+        },
         "priority": 82
       },
       {
@@ -32,6 +36,10 @@
         "icon": {
           "url": "https://fsn1.your-objectstorage.com/app-store-prod/com.here.app.maps/icon/icon.png",
           "sha256": "815542caaeede582dce22b3f7c9746092b364791072ff9fd99b901fd455739b2"
+        },
+        "fileApp": {
+        "url": "",
+        "sha256": ""
         },
         "priority": 51
       },
@@ -49,6 +57,10 @@
           "url": "https://fsn1.your-objectstorage.com/app-store-prod/com.sygic.aura/icon/icon.png",
           "sha256": "e92c3a9eff8eb08ae41b0e965b7ade50176edd1e205db8c402eef093e7aa9163"
         },
+        "fileApp": {
+        "url": "",
+        "sha256": ""
+        },
         "priority": 8
       },
       {
@@ -64,6 +76,10 @@
         "icon": {
           "url": "https://fsn1.your-objectstorage.com/app-store-prod/app.organicmaps/icon/icon.png",
           "sha256": "d7077785e7a3515782e4c321abc502f3dcccacc67146faa0098552e2c33126a0"
+        },
+        "fileApp": {
+        "url": "",
+        "sha256": ""
         },
         "priority": 84
       },
@@ -81,6 +97,10 @@
           "url": "https://up-app-loader.nbg1.your-objectstorage.com/up-app-loader/com.mapfactor.navigator/icon/icon.png",
           "sha256": "cb803fbfff7b6186fc06bc5c27b60783923ebf43847b72b9d23b2725e44339a0"
         },
+        "fileApp": {
+        "url": "",
+        "sha256": ""
+        },
         "priority": 84
       },
       {
@@ -96,6 +116,10 @@
         "icon": {
           "url": "https://fsn1.your-objectstorage.com/app-store-prod/com.tranzmate/icon/icon.png",
           "sha256": "c2369155f2ec1cb3d9185dcb7e7c1c6ee606a24682941c691fbffa2e8ea034ab"
+        },
+        "fileApp": {
+        "url": "",
+        "sha256": ""
         },
         "priority": 49
       }
@@ -119,6 +143,10 @@
           "url": "https://fsn1.your-objectstorage.com/app-store-prod/com.whatsapp/icon/icon.png",
           "sha256": "df1ddb3fd3515366166f9bf704f7bf7a6ff12a6976189e68b8adbb8b2500c3b5"
         },
+        "fileApp": {
+        "url": "",
+        "sha256": ""
+        },
         "priority": 75
       },
       {
@@ -134,6 +162,10 @@
         "icon": {
           "url": "https://fsn1.your-objectstorage.com/app-store-prod/org.thoughtcrime.securesms/icon/icon.png",
           "sha256": "1c19983d9be1be2a4b926ccc5054949bb672dd6dbfafd8b20dc4b92e46de47d8"
+        },
+        "fileApp": {
+        "url": "",
+        "sha256": ""
         },
         "priority": 52
       },
@@ -151,6 +183,10 @@
           "url": "https://fsn1.your-objectstorage.com/app-store-prod/org.telegram.messenger/icon/icon.png",
           "sha256": "26fa00f1cc62ec0c0d2053e424d97bafcf5155e5fde756b0b9ef7a75cc0c837f"
         },
+        "fileApp": {
+        "url": "",
+        "sha256": ""
+        },
         "priority": 85
       },
       {
@@ -166,6 +202,10 @@
         "icon": {
           "url": "https://fsn1.your-objectstorage.com/app-store-prod/ch.protonmail.android/icon/icon.png",
           "sha256": "15bc2270a3bf3b04803c24a1ea8d3NR_D011.13_N_UP01_2.041.00e26aacaad39ec70dfd9392625f474ed29b9"
+        },
+        "fileApp": {
+        "url": "",
+        "sha256": ""
         },
         "priority": 9
       },
@@ -183,6 +223,10 @@
           "url": "https://fsn1.your-objectstorage.com/app-store-prod/com.discord/icon/icon.png",
           "sha256": "a4ed9e6fe651057c09ebdd9f08d9f9d619912957f5e98b24fbf8cc08f1086e0e"
         },
+        "fileApp": {
+        "url": "",
+        "sha256": ""
+        },
         "priority": 83
       },
       {
@@ -198,6 +242,10 @@
         "icon": {
           "url": "https://up-app-loader.nbg1.your-objectstorage.com/up-app-loader/com.tencent.mm/icon/icon.png",
           "sha256": "35d84ef96e03fb1dd2fef2df69b4ec6981bb82b5a518858cc69afdafd2bf2854"
+        },
+        "fileApp": {
+        "url": "",
+        "sha256": ""
         },
         "priority": 91
       },
@@ -215,6 +263,10 @@
           "url": "https://fsn1.your-objectstorage.com/app-store-prod/com.whitepages.search/icon/icon.png",
           "sha256": "315de9440f401dc6e7baa6164856beb85dd9b6884aabdc3dd0b31e35d1ae1c96"
         },
+        "fileApp": {
+        "url": "",
+        "sha256": ""
+        },
         "priority": 9
       },
       {
@@ -230,6 +282,10 @@
         "icon": {
           "url": "https://fsn1.your-objectstorage.com/app-store-prod/com.yahoo.mobile.client.android.mail/icon/icon.png",
           "sha256": "426931eb9b65b2ad4d09219fc307176c5c745763307e51a1ec592a217d05f7a4"
+        },
+        "fileApp": {
+        "url": "",
+        "sha256": ""
         },
         "priority": 11
       }
@@ -253,6 +309,10 @@
           "url": "https://fsn1.your-objectstorage.com/app-store-prod/com.dropbox.android/icon/icon.png",
           "sha256": "d1249ec57a4c38c9c44adf1209f4965213cb6123446f9816a8ab39baa6afbcb1"
         },
+        "fileApp": {
+        "url": "",
+        "sha256": ""
+        },
         "priority": 72
       },
       {
@@ -268,6 +328,10 @@
         "icon": {
           "url": "https://fsn1.your-objectstorage.com/app-store-prod/com.socialnmobile.dictapps.notepad.color.note/icon/icon.png",
           "sha256": "7d8f7d22cc3f5b2e844d1f3f448400facccb6934a2a44171bd0c86a14fc9e306"
+        },
+        "fileApp": {
+        "url": "",
+        "sha256": ""
         },
         "priority": 93
       },
@@ -285,6 +349,10 @@
           "url": "https://fsn1.your-objectstorage.com/app-store-prod/com.evernote/icon/icon.png",
           "sha256": "db72ed8a1e9b0bb3f895e2c5cd3f02ef17c5d08ecf1cd04b92555a5f7aafeaa9"
         },
+        "fileApp": {
+        "url": "",
+        "sha256": ""
+        },
         "priority": 14
       },
       {
@@ -300,6 +368,10 @@
         "icon": {
           "url": "https://fsn1.your-objectstorage.com/app-store-prod/com.adobe.reader/icon/icon.png",
           "sha256": "8724b30a9a3bded4ca919cfce1d0939bfb4caad395a6fea905f2af2242086365"
+        },
+        "fileApp": {
+        "url": "",
+        "sha256": ""
         },
         "priority": 75
       },
@@ -317,6 +389,10 @@
           "url": "https://fsn1.your-objectstorage.com/app-store-prod/com.microsoft.office.officehubrow/icon/icon.png",
           "sha256": "6c36717ff7e99d142aa6767ddb24a155f55d573678d0659ea647b2475dae2a3f"
         },
+        "fileApp": {
+        "url": "",
+        "sha256": ""
+        },
         "priority": 75
       },
       {
@@ -332,6 +408,10 @@
         "icon": {
           "url": "https://fsn1.your-objectstorage.com/app-store-prod/mega.privacy.android.app/icon/icon.png",
           "sha256": "862cf2665b775aaf2998b633ad9d014c9e81423b320a85e58cb9fb1cdfdc9a4a"
+        },
+        "fileApp": {
+        "url": "",
+        "sha256": ""
         },
         "priority": 97
       },
@@ -349,6 +429,10 @@
           "url": "https://fsn1.your-objectstorage.com/app-store-prod/com.lastpass.lpandroid/icon/icon.png",
           "sha256": "e4579c3561593742c2e98b80f1ea7d92b804719cf2135447a66131d2db8237ff"
         },
+        "fileApp": {
+        "url": "",
+        "sha256": ""
+        },
         "priority": 51
       },
       {
@@ -364,6 +448,10 @@
         "icon": {
           "url": "https://fsn1.your-objectstorage.com/app-store-prod/com.github.android/icon/icon.png",
           "sha256": "166f1c2af7669e7fadcf3fedc952561673b559c31ea7a7ea2ea6d946ddfc455a"
+        },
+        "fileApp": {
+        "url": "",
+        "sha256": ""
         },
         "priority": 72
       },
@@ -381,6 +469,10 @@
           "url": "https://fsn1.your-objectstorage.com/app-store-prod/com.microsoft.skydrive/icon/icon.png",
           "sha256": "31341f246f7b63ee6f489b9ae9c7d7751f8bfef672d54469c83fb0a1d1c56a15"
         },
+        "fileApp": {
+        "url": "",
+        "sha256": ""
+        },
         "priority": 58
       },
       {
@@ -396,6 +488,10 @@
         "icon": {
           "url": "https://fsn1.your-objectstorage.com/app-store-prod/com.intsig.camscanner/icon/icon.png",
           "sha256": "62bfdae449137a74fe30f67cad25c7876cc61d5e4338cd0f12246579cf8d9091"
+        },
+        "fileApp": {
+        "url": "",
+        "sha256": ""
         },
         "priority": 67
       }
@@ -419,6 +515,10 @@
           "url": "https://fsn1.your-objectstorage.com/app-store-prod/com.netflix.mediaclient/icon/icon.png",
           "sha256": "76e0f1805cd8bd5cc6edf6373fcc12525abb8d90437278e0ecefc2ab4db5879d"
         },
+        "fileApp": {
+        "url": "",
+        "sha256": ""
+        },
         "priority": 53
       },
       {
@@ -434,6 +534,10 @@
         "icon": {
           "url": "https://up-app-loader.nbg1.your-objectstorage.com/up-app-loader/tv.twitch.android.app/icon/icon.png",
           "sha256": "000cffce5d8b1c25ddc4aa62ab439b57ece36ab8fc15a34c88b91f1094a2a816"
+        },
+        "fileApp": {
+        "url": "",
+        "sha256": ""
         },
         "priority": 84
       },
@@ -451,6 +555,10 @@
           "url": "https://fsn1.your-objectstorage.com/app-store-prod/com.wbd.stream/icon/icon.png",
           "sha256": "ecd0fb8a6b083717c1f23b48c199751bfd090acbec48a8445ec7fb5ac2bb45a4"
         },
+        "fileApp": {
+        "url": "",
+        "sha256": ""
+        },
         "priority": 8
       },
       {
@@ -466,6 +574,10 @@
         "icon": {
           "url": "https://fsn1.your-objectstorage.com/app-store-prod/com.amazon.avod.thirdpartyclient/icon/icon.png",
           "sha256": "fd9a693b896d28fec2d49b2bc87848dfc2cf8e099f5fe70725af34ff37feae79"
+        },
+        "fileApp": {
+        "url": "",
+        "sha256": ""
         },
         "priority": 26
       },
@@ -483,6 +595,10 @@
           "url": "https://fsn1.your-objectstorage.com/app-store-prod/com.xfinity.cloudtvr/icon/icon.png",
           "sha256": "42f6903d08928b1cb784a27f759792f2ddf796fa6e63536f44737a3627b2173d"
         },
+        "fileApp": {
+        "url": "",
+        "sha256": ""
+        },
         "priority": 93
       },
       {
@@ -498,6 +614,10 @@
         "icon": {
           "url": "https://fsn1.your-objectstorage.com/app-store-prod/com.valvesoftware.steamlink/icon/icon.png",
           "sha256": "2b11283ed8b761d7dabe968a09577c68f7825fe14707e4a1eddd33a25de32077"
+        },
+        "fileApp": {
+        "url": "",
+        "sha256": ""
         },
         "priority": 62
       },
@@ -515,6 +635,10 @@
           "url": "https://fsn1.your-objectstorage.com/app-store-prod/com.crunchyroll.crunchyroid/icon/icon.png",
           "sha256": "c4a9f0b28bec91b68e6ff6a53d08bf02b28e92cb5f8cc835841ff5afaf2bbde3"
         },
+        "fileApp": {
+        "url": "",
+        "sha256": ""
+        },
         "priority": 3
       },
       {
@@ -530,6 +654,10 @@
         "icon": {
           "url": "https://up-app-loader.nbg1.your-objectstorage.com/up-app-loader/com.rumble.studio/icon/icon.png",
           "sha256": "06abe16319661b5ec2be3c9249821a5807eabe45791a773d304f1becf7778405"
+        },
+        "fileApp": {
+        "url": "",
+        "sha256": ""
         },
         "priority": 34
       },
@@ -547,6 +675,10 @@
           "url": "https://fsn1.your-objectstorage.com/app-store-prod/tv.pluto.android/icon/icon.png",
           "sha256": "ee8fa54a51609f6a575427d2a5d6d5a2f426a51d699f3ab18921fd291ebeab7f"
         },
+        "fileApp": {
+        "url": "",
+        "sha256": ""
+        },
         "priority": 79
       },
       {
@@ -562,6 +694,10 @@
         "icon": {
           "url": "https://fsn1.your-objectstorage.com/app-store-prod/com.microsoft.xboxone.smartglass/icon/icon.png",
           "sha256": "55178f1524f5734933ccbcbcaf86267de3d2798dbb5ddb6c1cd9dc4871f7cf24"
+        },
+        "fileApp": {
+        "url": "",
+        "sha256": ""
         },
         "priority": 29
       }
@@ -585,6 +721,10 @@
           "url": "https://fsn1.your-objectstorage.com/app-store-prod/com.spotify.music/icon/icon.png",
           "sha256": "ecd0fb8a6b083717c1f23b48c199751bfd090acbec48a8445ec7fb5ac2bb45a4"
         },
+        "fileApp": {
+        "url": "",
+        "sha256": ""
+        },
         "priority": 37
       },
       {
@@ -600,6 +740,10 @@
         "icon": {
           "url": "https://fsn1.your-objectstorage.com/app-store-prod/tunein.player/icon/icon.png",
           "sha256": "26182fc054550164376359834ac75dfe3cf9e13b0dcb99965c513fbd21592281"
+        },
+        "fileApp": {
+        "url": "",
+        "sha256": ""
         },
         "priority": 70
       },
@@ -617,6 +761,10 @@
           "url": "https://fsn1.your-objectstorage.com/app-store-prod/deezer.android.app/icon/icon.png",
           "sha256": ""
         },
+        "fileApp": {
+        "url": "",
+        "sha256": ""
+        },
         "priority": 70
       },
       {
@@ -632,6 +780,10 @@
         "icon": {
           "url": "https://fsn1.your-objectstorage.com/app-store-prod/in.krosbits.musicolet/icon/icon.png",
           "sha256": "77b0e19840c01b43a581a6eb9a187d5e5059b24e53e8a8c116ad784405ddceb5"
+        },
+        "fileApp": {
+        "url": "",
+        "sha256": ""
         },
         "priority": 83
       },
@@ -649,6 +801,10 @@
           "url": "https://fsn1.your-objectstorage.com/app-store-prod/com.apple.android.music/icon/icon.png",
           "sha256": "782454a662c03aed8ccaca979a959b638270e9bc0b9b31f27283b96d666e76bd"
         },
+        "fileApp": {
+        "url": "",
+        "sha256": ""
+        },
         "priority": 20
       },
       {
@@ -664,6 +820,10 @@
         "icon": {
           "url": "https://fsn1.your-objectstorage.com/app-store-prod/com.shazam.android/icon/icon.png",
           "sha256": "d25e1c78d9ea8dc108dccc29e93b5234bc51af0b4ac469393213a316d021e788"
+        },
+        "fileApp": {
+        "url": "",
+        "sha256": ""
         },
         "priority": 4
       },
@@ -681,6 +841,10 @@
           "url": "https://fsn1.your-objectstorage.com/app-store-prod/com.pandora.android/icon/icon.png",
           "sha256": "39d2aacd58d719d319af186b87b2479a96a5e5191ba9f43d2f33c2cd657e5941"
         },
+        "fileApp": {
+        "url": "",
+        "sha256": ""
+        },
         "priority": 22
       },
       {
@@ -696,6 +860,10 @@
         "icon": {
           "url": "https://fsn1.your-objectstorage.com/app-store-prod/com.soundcloud.android/icon/icon.png",
           "sha256": "70bdebf9dbe67410040ae17750c5360f9f2655abd4cbabe9526e2a39eedee193"
+        },
+        "fileApp": {
+        "url": "",
+        "sha256": ""
         },
         "priority": 58
       },
@@ -713,6 +881,10 @@
           "url": "https://fsn1.your-objectstorage.com/app-store-prod/com.positivegrid.spark/icon/icon.png",
           "sha256": "fdbb48e0b04b98872dfb0b84f7c5518be175c427460e98a1c0cc3cd3c19deee2"
         },
+        "fileApp": {
+        "url": "",
+        "sha256": ""
+        },
         "priority": 1
       },
       {
@@ -729,6 +901,10 @@
           "url": "https://fsn1.your-objectstorage.com/app-store-prod/com.sonos.acr2/icon/icon.png",
           "sha256": "8534f7c95154650d6f7793b3258b02723600117a9c210986a1270c735b313de8"
         },
+        "fileApp": {
+        "url": "",
+        "sha256": ""
+        },
         "priority": 74
       },
       {
@@ -744,6 +920,10 @@
         "icon": {
           "url": "https://fsn1.your-objectstorage.com/app-store-prod/com.jonathanpuckey.radiogarden/icon/icon.png",
           "sha256": "45887228ed4c2b634655890b7892e35e6b521af9e874d3617522d619edb74412"
+        },
+        "fileApp": {
+        "url": "",
+        "sha256": ""
         },
         "priority": 59
       }
@@ -767,6 +947,10 @@
           "url": "https://fsn1.your-objectstorage.com/app-store-prod/com.twitter.android/icon/icon.png",
           "sha256": "8adc5922b8bcb863e4fd60f0f703b308d26440cebbe0a5813fe15db492db9596"
         },
+        "fileApp": {
+        "url": "",
+        "sha256": ""
+        },
         "priority": 27
       },
       {
@@ -782,6 +966,10 @@
         "icon": {
           "url": "https://fsn1.your-objectstorage.com/app-store-prod/com.facebook.katana/icon/icon.png",
           "sha256": "aef5bb003fcff9bbc60570fc80a6b2b269ee705f71df8d325d83d22b1161356b"
+        },
+        "fileApp": {
+        "url": "",
+        "sha256": ""
         },
         "priority": 49
       },
@@ -799,6 +987,10 @@
           "url": "https://up-app-loader.nbg1.your-objectstorage.com/up-app-loader/com.instagram.android/icon/icon.png",
           "sha256": "a7585fa24a3746e57adfbf2f8ded67527e66aeb586d76b62a3b4b1a09d7de3b1"
         },
+        "fileApp": {
+        "url": "",
+        "sha256": ""
+        },
         "priority": 82
       },
       {
@@ -815,6 +1007,10 @@
           "url": "https://fsn1.your-objectstorage.com/app-store-prod/com.zhiliaoapp.musically/icon/icon.png",
           "sha256": ""
         },
+        "fileApp": {
+        "url": "",
+        "sha256": ""
+        },
         "priority": 0
       },
       {
@@ -829,6 +1025,10 @@
         "icon": {
           "url": "https://fsn1.your-objectstorage.com/app-store-prod/com.reddit.frontpage/icon/icon.png",
           "sha256": "cfce6d4bd7442a9dc7b9aa2eadcca790293d97c091fa2837d1f5f758ab91612d"
+        },
+        "fileApp": {
+        "url": "",
+        "sha256": ""
         },
         "privacyRating": 4.4,
         "priority": 60
@@ -847,6 +1047,10 @@
           "url": "https://fsn1.your-objectstorage.com/app-store-prod/com.instagram.barcelona/icon/icon.png",
           "sha256": "e7c503d9863abcc8dbe657a7e41463d04c8b7cf4a98cd3ee6eaaa41e1de25e1d"
         },
+        "fileApp": {
+        "url": "",
+        "sha256": ""
+        },
         "privacyRating": 1.2,
         "priority": 73
       },
@@ -862,6 +1066,10 @@
         "icon": {
           "url": "https://fsn1.your-objectstorage.com/app-store-prod/com.zhiliaoapp.musically/icon/icon.png",
           "sha256": "5f4613b2af050c8a3322f5dca98837dbb26bba3e02a5f5cdf218e215fb5f7e66"
+        },
+        "fileApp": {
+        "url": "",
+        "sha256": ""
         },
         "privacyRating": 3.6,
         "priority": 27
@@ -879,6 +1087,10 @@
           "url": "https://fsn1.your-objectstorage.com/app-store-prod/com.gettr.gettr/icon/icon.png",
           "sha256": "f76d381946bce9587d2413ca6b740c439e9fd5c43fd79f9e3929d60096738908"
         },
+        "fileApp": {
+        "url": "",
+        "sha256": ""
+        },
         "privacyRating": 1.1,
         "priority": 3
       },
@@ -894,6 +1106,10 @@
         "icon": {
           "url": "https://fsn1.your-objectstorage.com/app-store-prod/com.truthsocial.android.app/icon/icon.png",
           "sha256": "c57fae64e78a9914442bbad9b15a0094bd4710fd53b337d7c418a89e2602461c"
+        },
+        "fileApp": {
+        "url": "",
+        "sha256": ""
         },
         "privacyRating": 4.1,
         "priority": 2
@@ -917,6 +1133,10 @@
           "url": "https://fsn1.your-objectstorage.com/app-store-prod/com.offerup/icon/icon.png",
           "sha256": "7877d017004aaa95445e8b9a3eab7947ab2ef70b31ce734912748d6e89d4cc34"
         },
+        "fileApp": {
+        "url": "",
+        "sha256": ""
+        },
         "privacyRating": 3.3,
         "priority": 97
       },
@@ -932,6 +1152,10 @@
         "icon": {
           "url": "https://fsn1.your-objectstorage.com/app-store-prod/com.ebates/icon/icon.png",
           "sha256": "29809b82a6353a120449020f4baadd9de8d80cee56e1ff7777d0a59c37f52941"
+        },
+        "fileApp": {
+        "url": "",
+        "sha256": ""
         },
         "privacyRating": 1.9,
         "priority": 13
@@ -949,6 +1173,10 @@
           "url": "https://fsn1.your-objectstorage.com/app-store-prod/com.etsy.android/icon/icon.png",
           "sha256": "5b806d3f66f0beea01f945a3f5c04af25c375b5d2083d2d6dd049fb022a9ecd8"
         },
+        "fileApp": {
+        "url": "",
+        "sha256": ""
+        },
         "privacyRating": 4.6,
         "priority": 10
       },
@@ -964,6 +1192,10 @@
         "icon": {
           "url": "https://fsn1.your-objectstorage.com/app-store-prod/com.target.ui/icon/icon.png",
           "sha256": "3b241481684833dc1c833abf3589600a3b0aff874614369c227d9c84ab231cfe"
+        },
+        "fileApp": {
+        "url": "",
+        "sha256": ""
         },
         "privacyRating": 3.8,
         "priority": 88
@@ -981,6 +1213,10 @@
           "url": "https://fsn1.your-objectstorage.com/app-store-prod/com.alibaba.aliexpresshd/icon/icon.png",
           "sha256": "32201e03f0d5164f317c9f57cd48ae84f73353e3281f14219a2c9a0ccd9376d8"
         },
+        "fileApp": {
+        "url": "",
+        "sha256": ""
+        },
         "privacyRating": 1.4,
         "priority": 94
       },
@@ -996,6 +1232,10 @@
         "icon": {
           "url": "https://fsn1.your-objectstorage.com/app-store-prod/com.zzkko/icon/icon.png",
           "sha256": "d8d2c943570a774656099f6fecbd9727b12a8a754b214cc94a24ff1cf7f295d9"
+        },
+        "fileApp": {
+        "url": "",
+        "sha256": ""
         },
         "privacyRating": 2.1,
         "priority": 1
@@ -1013,6 +1253,10 @@
           "url": "https://fsn1.your-objectstorage.com/app-store-prod/com.einnovation.temu/icon/icon.png",
           "sha256": "79c22a01e90a32670d5977d30e2379650c61c7e587c08d14c762c245f44b1e82"
         },
+        "fileApp": {
+        "url": "",
+        "sha256": ""
+        },
         "privacyRating": 4.9,
         "priority": 61
       },
@@ -1028,6 +1272,10 @@
         "icon": {
           "url": "https://fsn1.your-objectstorage.com/app-store-prod/com.iherb/icon/icon.png",
           "sha256": "a827149ea33675f72c7d9b914a3028d78c7d465d0ff526b36aea39e30adf08b5"
+        },
+        "fileApp": {
+        "url": "",
+        "sha256": ""
         },
         "privacyRating": 1.7,
         "priority": 65
@@ -1045,6 +1293,10 @@
           "url": "https://fsn1.your-objectstorage.com/app-store-prod/com.bestbuy.android/icon/icon.png",
           "sha256": "fe002784081c24894c98ad8e3f367e47b7cb0b9661504cd3b645310318d8ee5a"
         },
+        "fileApp": {
+        "url": "",
+        "sha256": ""
+        },
         "privacyRating": 1.4,
         "priority": 40
       },
@@ -1060,6 +1312,10 @@
         "icon": {
           "url": "https://fsn1.your-objectstorage.com/app-store-prod/com.amazon.mShop.android.shopping/icon/icon.png",
           "sha256": "b14cc40785528b8f666a458581bf72b1b91489c0bd237f6aa8f32aa222446c56"
+        },
+        "fileApp": {
+        "url": "",
+        "sha256": ""
         },
         "privacyRating": 4.2,
         "priority": 15
@@ -1082,6 +1338,10 @@
         "icon": {
           "url": "https://up-app-loader.nbg1.your-objectstorage.com/up-app-loader/flipboard.app/icon/icon.png",
           "sha256": "575a6589dd942534b900b685036ee7d335ad0dcee557ffe8d72a4ba2616ccb6c"
+        },
+        "fileApp": {
+        "url": "",
+        "sha256": ""
         },
         "privacyRating": 1.6,
         "priority": 35
@@ -1115,6 +1375,10 @@
           "url": "https://fsn1.your-objectstorage.com/app-store-prod/jp.gocro.smartnews.android/icon/icon.png",
           "sha256": "74baad53a5ed429ef9066f19bedaf20cc6e67be699b50483b449bfaf449d6250"
         },
+        "fileApp": {
+        "url": "",
+        "sha256": ""
+        },
         "privacyRating": 2.2,
         "priority": 16
       },
@@ -1130,6 +1394,10 @@
         "icon": {
           "url": "https://fsn1.your-objectstorage.com/app-store-prod/com.fli.android.newsmaxapp/icon/icon.png",
           "sha256": "3abfc910a4714307478a82508cf42637a7f74e8e12ebe1ac65b88ee5e03cb9d1"
+        },
+        "fileApp": {
+        "url": "",
+        "sha256": ""
         },
         "privacyRating": 1.3,
         "priority": 54
@@ -1147,6 +1415,10 @@
           "url": "https://up-app-loader.nbg1.your-objectstorage.com/up-app-loader/com.oan.live/icon/icon.png",
           "sha256": "b813d950af2baf12be2d82d994e249a5ab4ff0dfd9585da0733eb946c9449b12"
         },
+        "fileApp": {
+        "url": "",
+        "sha256": ""
+        },
         "privacyRating": 2.8,
         "priority": 5
       },
@@ -1162,6 +1434,10 @@
         "icon": {
           "url": "https://fsn1.your-objectstorage.com/app-store-prod/com.nytimes.android/icon/icon.png",
           "sha256": "831e5f48fdc6f981e7abeb17d1d2c1b480702cc8799beb76a9ebc259c0a7f4ed"
+        },
+        "fileApp": {
+        "url": "",
+        "sha256": ""
         },
         "privacyRating": 1.9,
         "priority": 53
@@ -1179,6 +1455,10 @@
           "url": "https://up-app-loader.nbg1.your-objectstorage.com/up-app-loader/bbc.mobile.news.ww/icon/icon.png",
           "sha256": "0a837e2e03e43b9df5827f9d500379101c66008abdca04a6a3add17fde9ce020"
         },
+        "fileApp": {
+        "url": "",
+        "sha256": ""
+        },
         "privacyRating": 4.0,
         "priority": 30
       },
@@ -1194,6 +1474,10 @@
         "icon": {
           "url": "https://fsn1.your-objectstorage.com/app-store-prod/com.theepochtimes.news/icon/icon.png",
           "sha256": "400c170be23f134f60ad2a0042eb1c306dd1a6bce52aaa36619af5b9049ee071"
+        },
+        "fileApp": {
+        "url": "",
+        "sha256": ""
         },
         "privacyRating": 2.9,
         "priority": 95
@@ -1211,6 +1495,10 @@
           "url": "https://fsn1.your-objectstorage.com/app-store-prod/com.foxnews.android/icon/icon.png",
           "sha256": "95fc0202b88206e8b46f8a4b8f91ab5c7c75dd9cd7f9930f7589e562c8b8a760"
         },
+        "fileApp": {
+        "url": "",
+        "sha256": ""
+        },
         "privacyRating": 4.2,
         "priority": 7
       },
@@ -1226,6 +1514,10 @@
         "icon": {
           "url": "https://fsn1.your-objectstorage.com/app-store-prod/com.yahoo.mobile.client.android.yahoo/icon/icon.png",
           "sha256": "1f8bd3fad7245a43aca269cfd70547911c41d976a31eba95b7388f819d876d5c"
+        },
+        "fileApp": {
+        "url": "",
+        "sha256": ""
         },
         "privacyRating": 3.2,
         "priority": 17
@@ -1249,6 +1541,10 @@
           "url": "https://fsn1.your-objectstorage.com/app-store-prod/com.squareup.cash/icon/icon.png",
           "sha256": "f75c4c22cec31424070309771bbb017b83746a9b7aa2f7bd31c679d15b1f31fe"
         },
+        "fileApp": {
+        "url": "",
+        "sha256": ""
+        },
         "privacyRating": 4.5,
         "priority": 68
       },
@@ -1264,6 +1560,10 @@
         "icon": {
           "url": "https://fsn1.your-objectstorage.com/app-store-prod/com.creditkarma.mobile/icon/icon.png",
           "sha256": "986db932df1b73c515d71e1fbb07e4df479858cae27f4db6d20f2ae03e86a067"
+        },
+        "fileApp": {
+        "url": "",
+        "sha256": ""
         },
         "privacyRating": 5.0,
         "priority": 60
@@ -1281,6 +1581,10 @@
           "url": "https://fsn1.your-objectstorage.com/app-store-prod/com.robinhood.android/icon/icon.png",
           "sha256": "b0bf06e91058e230994b2321fbcab21c10f42ff3a4c46e6eae8a97e5353ac37b"
         },
+        "fileApp": {
+        "url": "",
+        "sha256": ""
+        },
         "privacyRating": 3.8,
         "priority": 82
       },
@@ -1296,6 +1600,10 @@
         "icon": {
           "url": "https://fsn1.your-objectstorage.com/app-store-prod/com.revolut.revolut/icon/icon.png",
           "sha256": "721332715968b41ffac4e0f6f44181e65c38a4d3d6911ea0d485188051d01c42"
+        },
+        "fileApp": {
+        "url": "",
+        "sha256": ""
         },
         "privacyRating": 4.1,
         "priority": 44
@@ -1313,6 +1621,10 @@
           "url": "https://fsn1.your-objectstorage.com/app-store-prod/com.jpm.sig.android/icon/icon.png",
           "sha256": "4da59c47ea24e0ef67e2bf922a0352d8c966b3a320c6ef8d6ca56bc248d29ae8"
         },
+        "fileApp": {
+        "url": "",
+        "sha256": ""
+        },
         "privacyRating": 1.3,
         "priority": 55
       },
@@ -1328,6 +1640,10 @@
         "icon": {
           "url": "https://fsn1.your-objectstorage.com/app-store-prod/com.binance.dev/icon/icon.png",
           "sha256": "c5e1a5e7f993471f1870da918541a9e260b9e3d1b0a33ea8461239adfc8869ba"
+        },
+        "fileApp": {
+        "url": "",
+        "sha256": ""
         },
         "privacyRating": 3.1,
         "priority": 8
@@ -1345,6 +1661,10 @@
           "url": "https://fsn1.your-objectstorage.com/app-store-prod/com.cnbc.client/icon/icon.png",
           "sha256": "a38e742750460d095af588785dd304cf314733f6ad242c3fce1d5ab4fe9856bd"
         },
+        "fileApp": {
+        "url": "",
+        "sha256": ""
+        },
         "privacyRating": 3.4,
         "priority": 82
       },
@@ -1360,6 +1680,10 @@
         "icon": {
           "url": "https://fsn1.your-objectstorage.com/app-store-prod/com.paypal.android.p2pmobile/icon/icon.png",
           "sha256": "1041826528e1e3d86898c3c602fd56f142a1a56edd6fe20019d1b11d312bfe1b"
+        },
+        "fileApp": {
+        "url": "",
+        "sha256": ""
         },
         "privacyRating": 1.8,
         "priority": 66
@@ -1377,6 +1701,10 @@
           "url": "https://fsn1.your-objectstorage.com/app-store-prod/com.fusionmedia.investing/icon/icon.png",
           "sha256": "50340b83310b3805194eed9b9bacaf7e287f79680162401c757b811100e14711"
         },
+        "fileApp": {
+        "url": "",
+        "sha256": ""
+        },
         "privacyRating": 2.0,
         "priority": 98
       },
@@ -1392,6 +1720,10 @@
         "icon": {
           "url": "https://fsn1.your-objectstorage.com/app-store-prod/com.kraken.invest.app/icon/icon.png",
           "sha256": "a08e50c0f1156e10ee72c9151cfbf797176ac0449201a2ec7d3c25668490b465"
+        },
+        "fileApp": {
+        "url": "",
+        "sha256": ""
         },
         "privacyRating": 1.0,
         "priority": 100
@@ -1415,6 +1747,10 @@
           "url": "https://fsn1.your-objectstorage.com/app-store-prod/com.ubercab.eats/icon/icon.png",
           "sha256": "5b98ce58da43983da32aaa77a0d32b4ed47020252c5563babc8ff1712cf4e0b1"
         },
+        "fileApp": {
+        "url": "",
+        "sha256": ""
+        },
         "privacyRating": 2.7,
         "priority": 94
       },
@@ -1430,6 +1766,10 @@
         "icon": {
           "url": "https://fsn1.your-objectstorage.com/app-store-prod/com.dd.doordash/icon/icon.png",
           "sha256": "b936f4ce685098d43b91c2fc25f22a650d8e99595520cb20fc13b92ef889ce48"
+        },
+        "fileApp": {
+        "url": "",
+        "sha256": ""
         },
         "privacyRating": 1.2,
         "priority": 26
@@ -1447,6 +1787,10 @@
           "url": "https://fsn1.your-objectstorage.com/app-store-prod/com.yelp.android/icon/icon.png",
           "sha256": "f816c650139d543f931637eaf98f0ddb63cf582230db3cda1135e887dee02d30"
         },
+        "fileApp": {
+        "url": "",
+        "sha256": ""
+        },
         "privacyRating": 1.1,
         "priority": 68
       },
@@ -1462,6 +1806,10 @@
         "icon": {
           "url": "https://fsn1.your-objectstorage.com/app-store-prod/com.bolt.deliveryclient/icon/icon.png",
           "sha256": "71583394a0b656c8d3840367c92ade629a3b34c1021a85762677c4244262a030"
+        },
+        "fileApp": {
+        "url": "",
+        "sha256": ""
         },
         "privacyRating": 2.0,
         "priority": 1
@@ -1479,6 +1827,10 @@
           "url": "https://fsn1.your-objectstorage.com/app-store-prod/com.dominospizza/icon/icon.png",
           "sha256": "8fb733667a7a78736dc88d41da5ae93dc57fbec3bb6f633745b6c38537a084b2"
         },
+        "fileApp": {
+        "url": "",
+        "sha256": ""
+        },
         "privacyRating": 1.6,
         "priority": 37
       },
@@ -1494,6 +1846,10 @@
         "icon": {
           "url": "https://fsn1.your-objectstorage.com/app-store-prod/com.grubhub.android/icon/icon.png",
           "sha256": "99db74e278aa36a470a8e412ba6b4cbad60061c46933f645cb42777a2b26be76"
+        },
+        "fileApp": {
+        "url": "",
+        "sha256": ""
         },
         "privacyRating": 2.4,
         "priority": 18
@@ -1511,6 +1867,10 @@
           "url": "https://fsn1.your-objectstorage.com/app-store-prod/com.instacart.client/icon/icon.png",
           "sha256": "cb4f000c7976d666794d516cadbeb26846096afedaa19bacbb0174cf994b2e25"
         },
+        "fileApp": {
+        "url": "",
+        "sha256": ""
+        },
         "privacyRating": 2.4,
         "priority": 11
       },
@@ -1526,6 +1886,10 @@
         "icon": {
           "url": "https://fsn1.your-objectstorage.com/app-store-prod/com.subway.mobile.subwayapp03/icon/icon.png",
           "sha256": "0c2ebf08cea0fdc5e50ec76cac46c237da992d14c8705e67741be25faa583450"
+        },
+        "fileApp": {
+        "url": "",
+        "sha256": ""
         },
         "privacyRating": 2.1,
         "priority": 88
@@ -1543,6 +1907,10 @@
           "url": "https://fsn1.your-objectstorage.com/app-store-prod/com.emn8.mobilem8.nativeapp.bk/icon/icon.png",
           "sha256": "c35501755a9ea8320a2023ae2cb25afe1c1ee277d6314c17edf06eaadef622f4"
         },
+        "fileApp": {
+        "url": "",
+        "sha256": ""
+        },
         "privacyRating": 4.4,
         "priority": 12
       },
@@ -1558,6 +1926,10 @@
         "icon": {
           "url": "https://up-app-loader.nbg1.your-objectstorage.com/up-app-loader/com.buzzfeed.tasty/icon/icon.png",
           "sha256": "c11986cc4ed449a0793cbeef8b018a3aa466625798f9ce41e59bc33124e61759"
+        },
+        "fileApp": {
+        "url": "",
+        "sha256": ""
         },
         "privacyRating": 4.8,
         "priority": 31
