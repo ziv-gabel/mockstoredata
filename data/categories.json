@@ -1121,44 +1121,44 @@
     "categoryName": "Shopping",
     "apps": [
       {
-        "applicationId": "com.offerup",
-        "applicationName": "OfferUp: Buy. Sell. Simple.",
+        "applicationId": "com.amazon.mShop.android.shopping",
+        "applicationName": "Amazon Shopping",
         "applicationType": "Shopping",
-        "description": "Buy. Sell. Letgo. - OfferUp and Letgo are now one big mobile marketplace.",
-        "versionName": "2025.19.1",
-        "versionCode": 2025191001,
+        "description": "Product Features",
+        "versionName": "30.9.0.100",
+        "versionCode": 1241294016,
         "rating": 2,
-        "appSize": 106.0,
+        "appSize": 42.0,
         "icon": {
-          "url": "https://fsn1.your-objectstorage.com/app-store-prod/com.offerup/icon/icon.png",
-          "sha256": "7877d017004aaa95445e8b9a3eab7947ab2ef70b31ce734912748d6e89d4cc34"
+          "url": "https://fsn1.your-objectstorage.com/app-store-prod/com.amazon.mShop.android.shopping/icon/icon.png",
+          "sha256": "b14cc40785528b8f666a458581bf72b1b91489c0bd237f6aa8f32aa222446c56"
         },
         "fileApp": {
         "url": "",
         "sha256": ""
         },
-        "privacyRating": 3.3,
-        "priority": 97
+        "privacyRating": 4.2,
+        "priority": 15
       },
       {
-        "applicationId": "com.ebates",
-        "applicationName": "Rakuten: Cash Back and Deals",
+     "applicationId": "com.bestbuy.android",
+        "applicationName": "Best Buy: Shop tech deals",
         "applicationType": "Shopping",
-        "description": "Something BIG is coming! Get ready for 15% Cash Back starting May 5th.",
-        "versionName": "12.7.1",
-        "versionCode": 12070101,
+        "description": "Get the best deals on appliances, electronics and more at Best Buy. We\u2019ve simplified tech shopping, with warp-speed checkout, Curbside Pickup, limited runs, and can't-miss deals. Whether you\u2019re in the market for the latest gadgets, electronics or essential appliances, Best Buy provides everything you need at your fingertips.",
+        "versionName": "25.4.11",
+        "versionCode": 2012311966,
         "rating": 2,
-        "appSize": 59.0,
+        "appSize": 58.0,
         "icon": {
-          "url": "https://fsn1.your-objectstorage.com/app-store-prod/com.ebates/icon/icon.png",
-          "sha256": "29809b82a6353a120449020f4baadd9de8d80cee56e1ff7777d0a59c37f52941"
+          "url": "https://fsn1.your-objectstorage.com/app-store-prod/com.bestbuy.android/icon/icon.png",
+          "sha256": "fe002784081c24894c98ad8e3f367e47b7cb0b9661504cd3b645310318d8ee5a"
         },
         "fileApp": {
         "url": "",
         "sha256": ""
         },
-        "privacyRating": 1.9,
-        "priority": 13
+        "privacyRating": 1.4,
+        "priority": 40
       },
       {
         "applicationId": "com.etsy.android",
@@ -1281,44 +1281,44 @@
         "priority": 65
       },
       {
-        "applicationId": "com.bestbuy.android",
-        "applicationName": "Best Buy: Shop tech deals",
+        "applicationId": "com.walmart.android",
+        "applicationName": "Walmart: Shopping & Savings",
         "applicationType": "Shopping",
-        "description": "Get the best deals on appliances, electronics and more at Best Buy. We\u2019ve simplified tech shopping, with warp-speed checkout, Curbside Pickup, limited runs, and can't-miss deals. Whether you\u2019re in the market for the latest gadgets, electronics or essential appliances, Best Buy provides everything you need at your fingertips.",
-        "versionName": "25.4.11",
-        "versionCode": 2012311966,
+        "description": "Save money. Live better.",
+        "versionName": "25.21.1",
+        "versionCode": 25210191,
         "rating": 2,
-        "appSize": 58.0,
+        "appSize":  243.0,
         "icon": {
-          "url": "https://fsn1.your-objectstorage.com/app-store-prod/com.bestbuy.android/icon/icon.png",
-          "sha256": "fe002784081c24894c98ad8e3f367e47b7cb0b9661504cd3b645310318d8ee5a"
+          "url": "https://fsn1.your-objectstorage.com/app-store-prod/com.walmart.android/icon/icon.png",
+          "sha256": ""
         },
         "fileApp": {
         "url": "",
         "sha256": ""
         },
-        "privacyRating": 1.4,
+        "privacyRating": 3.0,
         "priority": 40
       },
       {
-        "applicationId": "com.amazon.mShop.android.shopping",
-        "applicationName": "Amazon Shopping",
+        "applicationId": "com.offerup",
+        "applicationName": "OfferUp: Buy. Sell. Simple.",
         "applicationType": "Shopping",
-        "description": "Product Features",
-        "versionName": "30.9.0.100",
-        "versionCode": 1241294016,
+        "description": "Buy. Sell. Letgo. - OfferUp and Letgo are now one big mobile marketplace.",
+        "versionName": "2025.19.1",
+        "versionCode": 2025191001,
         "rating": 2,
-        "appSize": 42.0,
+        "appSize": 106.0,
         "icon": {
-          "url": "https://fsn1.your-objectstorage.com/app-store-prod/com.amazon.mShop.android.shopping/icon/icon.png",
-          "sha256": "b14cc40785528b8f666a458581bf72b1b91489c0bd237f6aa8f32aa222446c56"
+          "url": "https://fsn1.your-objectstorage.com/app-store-prod/com.offerup/icon/icon.png",
+          "sha256": "7877d017004aaa95445e8b9a3eab7947ab2ef70b31ce734912748d6e89d4cc34"
         },
         "fileApp": {
         "url": "",
         "sha256": ""
         },
-        "privacyRating": 4.2,
-        "priority": 15
+        "privacyRating": 3.3,
+        "priority": 97
       }
     ]
   },
