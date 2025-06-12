@@ -196,18 +196,18 @@
         "priority": 66
       },
       {
-        "applicationId": "com.touchtype.swiftkey",
-        "applicationName": "Microsoft SwiftKey AI Keyboard",
+        "applicationId": "ai.x.grok",
+        "applicationName": "Grok - AI Assistant",
         "applicationType": "Productivity",
-        "description": "Microsoft SwiftKey is the intelligent keyboard that learns your writing style, so you can type faster.",
-        "versionName": "9.10.58.18",
-        "versionCode": 1232732448,
-        "privacyRating": 3.5,
+        "description": "Grok is an AI-powered assistant, developed by xAI, designed to be maximally truthful, useful, and curious. Get answers to any question, generate striking images, and upload pictures to gain a deeper understanding of your world. With Grok, the universe is in your hands!",
+        "versionName": "0.5.0",
+        "versionCode": 80,
+        "privacyRating": 4.0,
         "rating": 2,
-        "appSize": 22.0,
+        "appSize": 17.0,
         "icon": {
-          "url": "https://fsn1.your-objectstorage.com/app-store-prod/com.touchtype.swiftkey/icon/icon.png",
-          "sha256": "7d8f7d22cc3f5b2e844d1f3f448400facccb6934a2a44171bd0c86a14fc9e306"
+          "url": "https://fsn1.your-objectstorage.com/app-store-prod/ai.x.grok/icon/icon.png",
+          "sha256": ""
         },
         "fileApp": {
         "url": "",
@@ -262,23 +262,23 @@
     "categoryName": "Tools",
     "apps": [
       {
-        "applicationId": "com.onepassword.android",
-        "applicationName": "1Password: Password Manager",
-        "applicationType": "Productivity",
-        "description": "1Password has been helping folks forget their passwords since 2006. Trusted by millions of people and more than 150,000 businesses, 1Password offers the best combination of features, compatibility, security, and ease of use among password managers, according to The New York Times Wirecutter.",
-        "versionName": "8.10.74",
-        "versionCode": 81074021,
+        "applicationId": "com.pcmehanik.smarttoolbox",
+        "applicationName": "Smart Tools - All In One",
+        "applicationType": "Tools",
+        "description": "Smart Tools - All In One is a useful kit of tools with 40+ carpenter, construction, measure and other tools and utilities. Use device's in-built sensors in all in one tool box app, useful like a swiss army knife.",
+        "versionName": "11.0",
+        "versionCode": 129,
         "appSize": 37.0,
         "icon": {
-          "url": "https://fsn1.your-objectstorage.com/app-store-prod/com.onepassword.android/icon/icon.png",
-          "sha256": "9fc961277cf7d0f409ba82ec5d96a69ddfbd6bfd7e489ea66a83853a410546a4"
+          "url": "https://up-app-loader.nbg1.your-objectstorage.com/up-app-loader/com.pcmehanik.smarttoolbox/icon/icon.png",
+          "sha256": ""
         },
         "fileApp": {
         "url": "",
         "sha256": ""
         },
-        "rating": 5,
-        "privacyRating": 4.4,
+        "rating": 2,
+        "privacyRating": 3.5,
         "priority": 83
       },
       {
@@ -580,18 +580,18 @@
         "priority": 6
       },
       {
-        "applicationId": "com.snapchat.android",
-        "applicationName": "Snapchat",
+        "applicationId": "com.truthsocial.android.app",
+        "applicationName": "Truth Social",
         "applicationType": "Social",
-        "description": "Snapchat is a fast and fun way to share the moment with your friends and family \ud83d\udc7b",
-        "versionName": "13.40.0.45",
-        "versionCode": 205772,
-        "privacyRating": 3.5,
+        "description": "The #1 free-speech social media platform is now available as a native Android app!",
+        "versionName": "1.18.0",
+        "versionCode": 1198,
+        "privacyRating": 3.0,
         "rating": 2,
-        "appSize": 85.0,
+        "appSize": 31.0,
         "icon": {
-          "url": "https://fsn1.your-objectstorage.com/app-store-prod/com.snapchat.android/icon/icon.png",
-          "sha256": "3a5c466f066b7b23db798a3d294405bace8ecddb435e131b24e9bc9a2da6ef3e"
+          "url": "https://fsn1.your-objectstorage.com/app-store-prod/com.truthsocial.android.app/icon/icon.png",
+          "sha256": ""
         },
         "fileApp": {
         "url": "",

@@ -2,7 +2,7 @@
   {
     "applicationId": "com.twitter.android",
     "applicationName": "X",
-    "applicationType": "News & Magazines",
+    "applicationType": "Social",
     "description": "The X app is the trusted global digital town square for everyone",
     "versionName": "10.96.0-release 0",
     "versionCode": 310960000,
@@ -46,7 +46,8 @@
     "versionCode": 127667831,
     "privacyRating": 3.5,
      "icon": {
-    	"url":"https://fsn1.your-objectstorage.com/app-store-prod/com.spotify.music/icon/icon.png",
+    	"url":"https://fsn1.your-
+      // objectstorage.com/app-store-prod/com.spotify.music/icon/icon.png",
     	"sha256":""
     },
     "fileApp": {
