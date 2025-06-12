@@ -46,8 +46,7 @@
     "versionCode": 127667831,
     "privacyRating": 3.5,
      "icon": {
-    	"url":"https://fsn1.your-
-      // objectstorage.com/app-store-prod/com.spotify.music/icon/icon.png",
+    	"url":"https://fsn1.your-objectstorage.com/app-store-prod/com.spotify.music/icon/icon.png",
     	"sha256":""
     },
     "fileApp": {
