@@ -1327,40 +1327,44 @@
     "categoryName": "News & Magazines",
     "apps": [
       {
-        "applicationId": "flipboard.app",
-        "applicationName": "Flipboard:Your Social Magazine",
+        "applicationId": "com.foxnews.android",
+        "applicationName": "Fox News - Daily Breaking News",
         "applicationType": "News & Magazines",
-        "description": "Get all the headlines and dive deep into the stories that matter to you with the award-winning Flipboard app. Flipboard is filled with the latest articles, videos and insights, curated by experts, on thousands of topics like business, health, sports, tech and travel.",
-        "versionName": "4.3.34",
-        "versionCode": 5495,
+        "description": "Stay informed with 24/7 access to the latest headlines and expert analysis on the reports of today with the FOX News App, your leading source for breaking national and international stories. Get daily coverage and live updates on politics, weather, stocks, business, sports, smart tech, health, and more with expert perspectives and new, in-depth reporting.",
+        "versionName": "5.10.2",
+        "versionCode": 2025042901,
         "rating": 2,
-        "appSize": 37.0,
+        "appSize": 42.0,
         "icon": {
-          "url": "https://up-app-loader.nbg1.your-objectstorage.com/up-app-loader/flipboard.app/icon/icon.png",
-          "sha256": "575a6589dd942534b900b685036ee7d335ad0dcee557ffe8d72a4ba2616ccb6c"
+          "url": "https://fsn1.your-objectstorage.com/app-store-prod/com.foxnews.android/icon/icon.png",
+          "sha256": "95fc0202b88206e8b46f8a4b8f91ab5c7c75dd9cd7f9930f7589e562c8b8a760"
         },
         "fileApp": {
         "url": "",
         "sha256": ""
         },
-        "privacyRating": 1.6,
-        "priority": 35
+        "privacyRating": 4.2,
+        "priority": 7
       },
       {
-        "applicationId": "com.devhd.feedly",
-        "applicationName": "Feedly - Smarter News Reader",
+        "applicationId": "com.yahoo.mobile.client.android.yahoo",
+        "applicationName": "Yahoo News: Daily News For You",
         "applicationType": "News & Magazines",
-        "description": "STAY AHEAD WITHOUT THE OVERWHELM",
-        "versionName": "90.0.27",
-        "versionCode": 936,
+        "description": "Yahoo News: News that gets you. That means free, unlimited access to the stories and topics that matter most to you. Aggregating news from premium publishers, you can keep up with your world through a feed personalized to your interests and preferences. Never miss out on breaking world or national news updates, plus read about entertainment, lifestyle and more.",
+        "versionName": "72.1",
+        "versionCode": 2003021806,
         "rating": 2,
-        "appSize": 47.0,
+        "appSize": 37.0,
         "icon": {
-          "url": "https://up-app-loader.nbg1.your-objectstorage.com/up-app-loader/com.devhd.feedly/icon/icon.png",
-          "sha256": "7d1f5fa3e0e0248de503951ae925190aabd506ebb9ab7b8b7177b315769fdcc3"
+          "url": "https://fsn1.your-objectstorage.com/app-store-prod/com.yahoo.mobile.client.android.yahoo/icon/icon.png",
+          "sha256": "1f8bd3fad7245a43aca269cfd70547911c41d976a31eba95b7388f819d876d5c"
         },
-        "privacyRating": 3.7,
-        "priority": 56
+        "fileApp": {
+        "url": "",
+        "sha256": ""
+        },
+        "privacyRating": 3.2,
+        "priority": 17
       },
       {
         "applicationId": "jp.gocro.smartnews.android",
@@ -1483,44 +1487,41 @@
         "priority": 95
       },
       {
-        "applicationId": "com.foxnews.android",
-        "applicationName": "Fox News - Daily Breaking News",
+        "applicationId": "flipboard.app",
+        "applicationName": "Flipboard:Your Social Magazine",
         "applicationType": "News & Magazines",
-        "description": "Stay informed with 24/7 access to the latest headlines and expert analysis on the reports of today with the FOX News App, your leading source for breaking national and international stories. Get daily coverage and live updates on politics, weather, stocks, business, sports, smart tech, health, and more with expert perspectives and new, in-depth reporting.",
-        "versionName": "5.10.2",
-        "versionCode": 2025042901,
-        "rating": 2,
-        "appSize": 42.0,
-        "icon": {
-          "url": "https://fsn1.your-objectstorage.com/app-store-prod/com.foxnews.android/icon/icon.png",
-          "sha256": "95fc0202b88206e8b46f8a4b8f91ab5c7c75dd9cd7f9930f7589e562c8b8a760"
-        },
-        "fileApp": {
-        "url": "",
-        "sha256": ""
-        },
-        "privacyRating": 4.2,
-        "priority": 7
-      },
-      {
-        "applicationId": "com.yahoo.mobile.client.android.yahoo",
-        "applicationName": "Yahoo News: Daily News For You",
-        "applicationType": "News & Magazines",
-        "description": "Yahoo News: News that gets you. That means free, unlimited access to the stories and topics that matter most to you. Aggregating news from premium publishers, you can keep up with your world through a feed personalized to your interests and preferences. Never miss out on breaking world or national news updates, plus read about entertainment, lifestyle and more.",
-        "versionName": "72.1",
-        "versionCode": 2003021806,
+        "description": "Get all the headlines and dive deep into the stories that matter to you with the award-winning Flipboard app. Flipboard is filled with the latest articles, videos and insights, curated by experts, on thousands of topics like business, health, sports, tech and travel.",
+        "versionName": "4.3.34",
+        "versionCode": 5495,
         "rating": 2,
         "appSize": 37.0,
         "icon": {
-          "url": "https://fsn1.your-objectstorage.com/app-store-prod/com.yahoo.mobile.client.android.yahoo/icon/icon.png",
-          "sha256": "1f8bd3fad7245a43aca269cfd70547911c41d976a31eba95b7388f819d876d5c"
+          "url": "https://up-app-loader.nbg1.your-objectstorage.com/up-app-loader/flipboard.app/icon/icon.png",
+          "sha256": "575a6589dd942534b900b685036ee7d335ad0dcee557ffe8d72a4ba2616ccb6c"
         },
         "fileApp": {
         "url": "",
         "sha256": ""
         },
-        "privacyRating": 3.2,
-        "priority": 17
+        "privacyRating": 1.6,
+        "priority": 35
+        
+      },
+      {
+        "applicationId": "com.devhd.feedly",
+        "applicationName": "Feedly - Smarter News Reader",
+        "applicationType": "News & Magazines",
+        "description": "STAY AHEAD WITHOUT THE OVERWHELM",
+        "versionName": "90.0.27",
+        "versionCode": 936,
+        "rating": 2,
+        "appSize": 47.0,
+        "icon": {
+          "url": "https://up-app-loader.nbg1.your-objectstorage.com/up-app-loader/com.devhd.feedly/icon/icon.png",
+          "sha256": "7d1f5fa3e0e0248de503951ae925190aabd506ebb9ab7b8b7177b315769fdcc3"
+        },
+        "privacyRating": 3.7,
+        "priority": 56
       }
     ]
   },
@@ -1528,6 +1529,26 @@
     "title": "Finance",
     "categoryName": "Finance",
     "apps": [
+      {
+        "applicationId": "com.paypal.android.p2pmobile",
+        "applicationName": "PayPal - Pay, Send, Save",
+        "applicationType": "Finance",
+        "description": "PayPal is a smart and secure way to shop in-store and online, earn cash back on brands you love, send money to friends and much more. Get started in the app.",
+        "versionName": "8.84.0",
+        "versionCode": 1160083704,
+        "rating": 2,
+        "appSize": 89.0,
+        "icon": {
+          "url": "https://fsn1.your-objectstorage.com/app-store-prod/com.paypal.android.p2pmobile/icon/icon.png",
+          "sha256": "1041826528e1e3d86898c3c602fd56f142a1a56edd6fe20019d1b11d312bfe1b"
+        },
+        "fileApp": {
+        "url": "",
+        "sha256": ""
+        },
+        "privacyRating": 1.8,
+        "priority": 66 
+      },
       {
         "applicationId": "com.squareup.cash",
         "applicationName": "Cash App",
@@ -1549,7 +1570,7 @@
         "priority": 68
       },
       {
-        "applicationId": "com.creditkarma.mobile",
+         "applicationId": "com.creditkarma.mobile",
         "applicationName": "Intuit Credit Karma",
         "applicationType": "Finance",
         "description": "CONNECT YOUR ACCOUNTS FOR FINANCIAL INSIGHTS",
@@ -1567,26 +1588,6 @@
         },
         "privacyRating": 5.0,
         "priority": 60
-      },
-      {
-        "applicationId": "com.robinhood.android",
-        "applicationName": "Robinhood - FinTech SuperApp",
-        "applicationType": "Finance",
-        "description": "Robinhood helps you run your money your way. Identify trends for your investing strategies with technical indicators like moving average (MA), relative strength index (RSI), and more.",
-        "versionName": "2025.18.3",
-        "versionCode": 20251803,
-        "rating": 2,
-        "appSize": 269.0,
-        "icon": {
-          "url": "https://fsn1.your-objectstorage.com/app-store-prod/com.robinhood.android/icon/icon.png",
-          "sha256": "b0bf06e91058e230994b2321fbcab21c10f42ff3a4c46e6eae8a97e5353ac37b"
-        },
-        "fileApp": {
-        "url": "",
-        "sha256": ""
-        },
-        "privacyRating": 3.8,
-        "priority": 82
       },
       {
         "applicationId": "com.revolut.revolut",
@@ -1669,24 +1670,24 @@
         "priority": 82
       },
       {
-        "applicationId": "com.paypal.android.p2pmobile",
-        "applicationName": "PayPal - Pay, Send, Save",
+        "applicationId": "com.robinhood.android",
+        "applicationName": "Robinhood - FinTech SuperApp",
         "applicationType": "Finance",
-        "description": "PayPal is a smart and secure way to shop in-store and online, earn cash back on brands you love, send money to friends and much more. Get started in the app.",
-        "versionName": "8.84.0",
-        "versionCode": 1160083704,
+        "description": "Robinhood helps you run your money your way. Identify trends for your investing strategies with technical indicators like moving average (MA), relative strength index (RSI), and more.",
+        "versionName": "2025.18.3",
+        "versionCode": 20251803,
         "rating": 2,
-        "appSize": 89.0,
+        "appSize": 269.0,
         "icon": {
-          "url": "https://fsn1.your-objectstorage.com/app-store-prod/com.paypal.android.p2pmobile/icon/icon.png",
-          "sha256": "1041826528e1e3d86898c3c602fd56f142a1a56edd6fe20019d1b11d312bfe1b"
+          "url": "https://fsn1.your-objectstorage.com/app-store-prod/com.robinhood.android/icon/icon.png",
+          "sha256": "b0bf06e91058e230994b2321fbcab21c10f42ff3a4c46e6eae8a97e5353ac37b"
         },
         "fileApp": {
         "url": "",
         "sha256": ""
         },
-        "privacyRating": 1.8,
-        "priority": 66
+        "privacyRating": 3.8,
+        "priority": 82
       },
       {
         "applicationId": "com.fusionmedia.investing",
