@@ -152,15 +152,15 @@
     "appSize": 86.0
  },
  {
-    "applicationId": "com.einnovation.temu",
-    "applicationName": "Temu: Shop Like a Billionaire",
-    "applicationType": "Shopping",
-    "description": "Shop on Temu for exclusive offers.",
-    "versionName": "3.56.0",
-    "versionCode": 35600,
+    "applicationId": "com.vidangel.thechosen",
+    "applicationName": "Angel: TV & Movies",
+    "applicationType": "Entertainment",
+    "description": "Angel isn’t just another streaming service. Our shows, movies, comedy specials, and documentaries are handpicked by our biggest supporters, you, our Angel Guild members. We’re taking the power back from Hollywood gatekeepers and giving it to you.",
+    "versionName": "25.8.22",
+    "versionCode": 1755546936,
     "privacyRating": 2.5,
      "icon": {
-    	"url":"https://fsn1.your-objectstorage.com/app-store-prod/com.einnovation.temu/icon/icon.png",
+    	"url":"https://fsn1.your-objectstorage.com/app-store-prod/com.vidangel.thechosen/icon/com.vidangel.thechosen_icon.png",
     	"sha256":""
     },
     "fileApp": {
