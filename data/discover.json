@@ -57,23 +57,23 @@
     "appSize": 62
   },
   {
-    "applicationId": "com.facebook.katana",
-    "applicationName": "Facebook",
+    "applicationId": "com.superfeedtech.tpusa",
+    "applicationName": "TPUSA",
     "applicationType": "Social",
-    "description": "Where real people propel your curiosity.",
-    "versionName": "512.0.0.64.75",
-    "versionCode": 461420410,
-    "privacyRating": 2.5,
-     "icon": {
-    	"url":"https://fsn1.your-objectstorage.com/app-store-prod/com.facebook.katana/icon/icon.png",
-    	"sha256":""
+    "description": "TPUSA is a 501(c)3 non-profit organization whose mission is to identify, educate, train, and organize students to promote freedom.",
+    "versionName": "1.0.24",
+    "versionCode": 92,
+    "privacyRating": 4.5,
+    "rating": 2,
+    "appSize": 61.0,
+    "icon": {
+      "url": "https://app-store-prod.fsn1.your-objectstorage.com/com.superfeedtech.tpusa/icon/icon-1730899685810.png",
+      "sha256": ""
     },
     "fileApp": {
-        "url": "",
-        "sha256": ""
-        },
-    "rating": 2,
-    "appSize": 143
+    "url": "",
+    "sha256": ""
+    }
   },
   {
     "applicationId": "org.telegram.messenger",
