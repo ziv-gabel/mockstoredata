@@ -247,15 +247,15 @@
     "appSize": 42.0
   },
   {  
-    "applicationId": "com.snapchat.android",
-    "applicationName": "Snapchat",
-    "applicationType": "Communication",
-    "description": "Snapchat is a fast and fun way to share the moment with your friends and family 👻",
-    "versionName": "13.40.0.45",
-    "versionCode": 205772,
-    "privacyRating": 3.0,
+    "applicationId": "com.theepochtimes.news",
+    "applicationName": "The Epoch Times: Breaking News",
+    "applicationType": "News & Magazines",
+    "description": "The Epoch Times App serves you with trusted news wherever you are. Get instant access to award-winning journalism, breaking, political, US, China, and world news, as well as news on arts and culture, and more.",
+    "versionName": "2.56.1",
+    "versionCode": 2056012,
+    "privacyRating": 3.5,
      "icon": {
-    	"url":"https://fsn1.your-objectstorage.com/app-store-prod/com.snapchat.android/icon/icon.png",
+    	"url":"https://fsn1.your-objectstorage.com/app-store-prod/com.theepochtimes.news/icon/icon.png",
     	"sha256":""
     },
     "fileApp": {
@@ -263,7 +263,7 @@
         "sha256": ""
         },
     "rating": 2,
-    "appSize": 85.0
+    "appSize": 38.0
   },
   {  
     "applicationId": "com.whatsapp",
