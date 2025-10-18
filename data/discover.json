@@ -171,23 +171,23 @@
     "appSize": 37.0
   },
   {
-    "applicationId": "com.netflix.mediaclient",
-    "applicationName": "Netflix",
-    "applicationType": "Entertainment",
-    "description": "Looking for the most talked about TV shows and movies from the around the world? They’re all on Netflix.",
-    "versionName": "9.15.0 build 8 62762",
-    "versionCode": 62762,
-    "privacyRating": 3.5,
+    "applicationId": "ch.protonmail.android",
+    "applicationName": "Proton Mail: Encrypted Email",
+    "applicationType": "Communication",
+    "description": "Keep your conversations private. Proton Mail is encrypted email from Switzerland. Used by millions worldwide, our all-new email app protects your communications and has everything you need to easily manage your inbox.",
+    "versionName": "4.15.0",
+    "versionCode": 11782,
+    "privacyRating": 3,
      "icon": {
-    	"url":"https://fsn1.your-objectstorage.com/app-store-prod/com.netflix.mediaclient/icon/icon.png",
+    	"url":"https://fsn1.your-objectstorage.com/app-store-prod/ch.protonmail.android/icon/ch.protonmail.android_icon.png",
     	"sha256":""
     },
     "fileApp": {
         "url": "",
         "sha256": ""
         },
-     "rating": 2,
-    "appSize": 25.0
+    "rating": 2,
+    "appSize": 37.0
   },
   {
     "applicationId": "com.adobe.reader",
