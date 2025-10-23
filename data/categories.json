@@ -1549,24 +1549,24 @@
         "priority": 66 
       },
       {
-        "applicationId": "com.squareup.cash",
-        "applicationName": "Cash App",
+        "applicationId": "com.zellepay.zelle",
+        "applicationName": "Zelle",
         "applicationType": "Finance",
-        "description": "Cash App is the easy way to spend, save, and invest your money.*",
-        "versionName": "4.98.0",
-        "versionCode": 4980003,
-        "rating": 2,
-        "appSize": 82.0,
+        "description": "elle® is a great way to send money to friends, family and those you trust, even if they bank somewhere different than you do.*",
+        "versionName": "9.4.1",
+        "versionCode": 1940,
+        "rating": 3.0,
+        "appSize": 19.0,
         "icon": {
-          "url": "https://fsn1.your-objectstorage.com/app-store-prod/com.squareup.cash/icon/icon.png",
-          "sha256": "f75c4c22cec31424070309771bbb017b83746a9b7aa2f7bd31c679d15b1f31fe"
+          "url": "https://fsn1.your-objectstorage.com/app-store-prod/com.zellepay.zelle/icon/com.zellepay.zelle_icon.png",
+          "sha256": ""
         },
         "fileApp": {
         "url": "",
         "sha256": ""
         },
-        "privacyRating": 4.5,
-        "priority": 68
+        "privacyRating": 3.0,
+        "priority": 99
       },
       {
          "applicationId": "com.creditkarma.mobile",
