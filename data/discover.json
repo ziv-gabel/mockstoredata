@@ -152,6 +152,25 @@
     "appSize": 86.0
  },
  {
+   "applicationId": "com.openbubbles.messaging",
+   "applicationName": "OpenBubbles",
+   "applicationType": "Communication",
+   "description": "Better communicate with friends and family on any device you want.",
+   "versionName": "1.15.0",
+   "versionCode": 20002190,
+   "privacyRating": 4.5,
+    "icon": {
+    "url":"https://fsn1.your-objectstorage.com/app-store-prod/com.openbubbles.messaging/icon/com.openbubbles.messaging_icon.png",
+    "sha256":""
+  },
+  "fileApp": {
+      "url": "",
+      "sha256": ""
+      },
+   "rating": 4.5,
+   "appSize": 125.0
+ },
+ {
     "applicationId": "com.vidangel.thechosen",
     "applicationName": "Angel: TV & Movies",
     "applicationType": "Entertainment",
