@@ -958,13 +958,13 @@
         "applicationName": "TPUSA",
         "applicationType": "Social",
         "description": "TPUSA is a 501(c)3 non-profit organization whose mission is to identify, educate, train, and organize students to promote freedom.",
-        "versionName": "1.0.24",
+        "versionName": "1.1.17",
         "versionCode": 92,
         "privacyRating": 4.5,
         "rating": 2,
-        "appSize": 61.0,
+        "appSize": 46.0,
         "icon": {
-          "url": "https://app-store-prod.fsn1.your-objectstorage.com/com.superfeedtech.tpusa/icon/icon-1730899685810.png",
+          "url": "https://fsn1.your-objectstorage.com/app-store-prod/com.superfeedtech.tpusa/icon/com.superfeedtech.tpusa_icon.png",
           "sha256": ""
         },
         "fileApp": {
