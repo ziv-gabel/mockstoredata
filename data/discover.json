@@ -1,24 +1,5 @@
 [
   {
-    "applicationId": "com.twitter.android",
-    "applicationName": "X",
-    "applicationType": "Social",
-    "description": "The X app is the trusted global digital town square for everyone",
-    "versionName": "10.96.0-release 0",
-    "versionCode": 310960000,
-    "privacyRating": 3.5,
-    "icon": {
-    	"url":"https://fsn1.your-objectstorage.com/app-store-prod/com.twitter.android/icon/icon.png",
-    	"sha256":""
-    },
-    "fileApp": {
-        "url": "",
-        "sha256": ""
-        },
-    "rating": 2,
-    "appSize": 112
-  },
-  {
     "applicationId": "org.thoughtcrime.securesms",
     "applicationName": "Signal Private Messenger",
     "applicationType": "Communication",
