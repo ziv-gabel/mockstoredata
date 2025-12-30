@@ -520,17 +520,17 @@
     "categoryName": "Social",
     "apps": [
       {
-        "applicationId": "com.twitter.android",
+        "applicationId": "com.unplugged.pwa.x",
         "applicationName": "X",
         "applicationType": "Social",
         "description": "The X app is the trusted global digital town square for everyone.",
-        "versionName": "10.96.0-release.0",
-        "versionCode": 310960000,
+        "versionName": "1.0.0",
+        "versionCode": 1,
         "privacyRating": 3.5,
         "rating": 2,
         "appSize": 112.0,
         "icon": {
-          "url": "https://fsn1.your-objectstorage.com/app-store-prod/com.twitter.android/icon/icon.png",
+          "url": "https://fsn1.your-objectstorage.com/app-store-prod/com.unplugged.pwa.x/icon/com.unplugged.pwa.x_icon.png",
           "sha256": "8adc5922b8bcb863e4fd60f0f703b308d26440cebbe0a5813fe15db492db9596"
         },
         "fileApp": {
