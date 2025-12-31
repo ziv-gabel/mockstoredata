@@ -1,11 +1,6 @@
-def AGENT_LABEL = 'dev'  // Set default
-
-if (env.BRANCH_NAME == 'main') {
-    AGENT_LABEL = 'frankfurt'
-}
 pipeline {
     agent {
-        label "${AGENT_LABEL}"
+        label 'dev'
     }
     options {
         ansiColor('xterm')
