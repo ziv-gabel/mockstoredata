@@ -246,7 +246,7 @@
         "rating": 2,
         "appSize": 56.0,
         "icon": {
-          "url": "https://fsn1.your-objectstorage.com/app-store-prod/com.adobe.reader/icon/icon.png",
+          "url": "https://fsn1.your-objectstorage.com/app-store-prod/com.adobe.reader/icon/com.adobe.reader_icon.png",
           "sha256": "8724b30a9a3bded4ca919cfce1d0939bfb4caad395a6fea905f2af2242086365"
         },
         "fileApp": {
