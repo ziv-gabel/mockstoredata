@@ -1,0 +1,42 @@
+apiVersion: networking.k8s.io/v1
+kind: Ingress
+metadata:
+  name: store-mock
+  namespace: up-service
+  annotations:
+    alb.ingress.kubernetes.io/certificate-arn: arn:aws:acm:il-central-1:076951083070:certificate/5a919115-d975-4521-bcbc-a379b5b6c53f
+    alb.ingress.kubernetes.io/group.name: staging-up-service
+    alb.ingress.kubernetes.io/group.order: "5"
+    alb.ingress.kubernetes.io/ip-address-type: ipv4
+    alb.ingress.kubernetes.io/listen-ports: '[{"HTTP":80},{"HTTPS":443}]'
+    alb.ingress.kubernetes.io/load-balancer-attributes: routing.http2.enabled=true,idle_timeout.timeout_seconds=600
+    alb.ingress.kubernetes.io/scheme: internet-facing
+    alb.ingress.kubernetes.io/ssl-policy: ELBSecurityPolicy-2016-08
+    alb.ingress.kubernetes.io/target-type: ip
+spec:
+  ingressClassName: alb
+  rules:
+    - host: up-app.unplugged-st.com
+      http:
+        paths:
+          - path: /api/store/app/v2/discover
+            pathType: Exact
+            backend:
+              service:
+                name: store-mock-service
+                port:
+                  number: 80
+          - path: /api/store/app/v2/essentials
+            pathType: Exact
+            backend:
+              service:
+                name: store-mock-service
+                port:
+                  number: 80
+          - path: /api/store/app/v2/categories
+            pathType: Exact
+            backend:
+              service:
+                name: store-mock-service
+                port:
+                  number: 80
