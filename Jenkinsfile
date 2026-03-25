@@ -1,7 +1,7 @@
 pipeline {
     agent {
         kubernetes {
-          defaultContainer 'agent'
+          inheritFrom 'default'
         }
     }
     options {
