@@ -1,6 +1,8 @@
 pipeline {
     agent {
-        label 'bs1'
+        kubernetes {
+          defaultContainer 'agent'
+        }
     }
     options {
         ansiColor('xterm')
