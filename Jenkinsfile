@@ -39,6 +39,9 @@ pipeline {
                             kubectl apply --kubeconfig ./kubeconfig2 -f k8s/deployment.yaml
                             kubectl apply --kubeconfig ./kubeconfig2 -f k8s/service.yaml
                             kubectl apply --kubeconfig ./kubeconfig2 -f k8s/ingress.yaml
+                            aws eks update-kubeconfig --kubeconfig ./kubeconfig3 --region eu-central-1 --name Lab
+                            kubectl apply --kubeconfig ./kubeconfig3 -f k8s/deployment.yaml
+                            kubectl apply --kubeconfig ./kubeconfig3 -f k8s/service.yaml
                          """
                     }
                 }
