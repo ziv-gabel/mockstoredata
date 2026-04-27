@@ -1,0 +1,17 @@
+# macOS
+.DS_Store
+
+# JetBrains IDEs
+.idea/
+*.iml
+
+# VS Code
+.vscode/
+
+# Editor backups
+*.swp
+*.swo
+*~
+
+# Logs
+*.log
