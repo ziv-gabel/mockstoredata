@@ -115,9 +115,9 @@
   },
   {
     "applicationId": "com.waze",
-    "applicationName": "Waze Navigation & Live Traffic",
+    "applicationName": "Waze",
     "applicationType": "Maps & Navigation",
-    "description": "Waze is a live map that harnesses the local knowledge of tens of millions of drivers around the world.",
+    "description": "Know what’s ahead on the road with the help from other drivers. Waze is a live map that harnesses the local knowledge of tens of millions of drivers around the world.",
     "versionName": "5.6.5.2",
     "versionCode": 1030577,
     "privacyRating": 2.0,
