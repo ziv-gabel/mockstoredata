@@ -10,7 +10,7 @@
         "description": "Google Messages is the official Google app for messaging. Google Messages is revolutionizing how a billion users connect and is powered by Rich Communication Services (RCS), the industry standard for texting that replaces SMS and MMS. With RCS, you can share high resolution photos and videos, enjoy dynamic group chats, and seamlessly connect with other RCS users including your iPhone friends. ",
         "versionName": "messages.android_20260410_02_RC00.phone.openbeta_dynamic",
         "versionCode": 306468100,
-        "privacyRating": 3.0,
+        "privacyRating": 3,
         "rating": 4,
         "appSize": 163,
         "icon": {
@@ -24,53 +24,13 @@
         "priority": 80
       },
       {
-        "applicationId": "org.thoughtcrime.securesms",
-        "applicationName": "Signal Private Messenger",
-        "applicationType": "Communication",
-        "description": "Signal is a messaging app with privacy at its core.",
-        "versionName": "8.8.2",
-        "versionCode": 168201,
-        "privacyRating": 3.0,
-        "rating": 2,
-        "appSize": 98,
-        "icon": {
-          "url": "https://fsn1.your-objectstorage.com/app-store-prod/org.thoughtcrime.securesms/icon/icon.png",
-          "sha256": ""
-        },
-        "fileApp": {
-          "url": "https://fsn1.your-objectstorage.com/app-store-prod/org.thoughtcrime.securesms/apk/v8.8.2/org.thoughtcrime.securesms.xapk",
-          "sha256": ""
-        },
-        "priority": 71
-      },
-      {
-        "applicationId": "org.telegram.messenger",
-        "applicationName": "Telegram",
-        "applicationType": "Communication",
-        "description": "Pure instant messaging — simple, fast, secure, and synced across all your devices.",
-        "versionName": "12.6.4",
-        "versionCode": 66662,
-        "privacyRating": 3.0,
-        "rating": 2,
-        "appSize": 47,
-        "icon": {
-          "url": "https://fsn1.your-objectstorage.com/app-store-prod/org.telegram.messenger/icon/icon.png",
-          "sha256": ""
-        },
-        "fileApp": {
-          "url": "https://fsn1.your-objectstorage.com/app-store-prod/org.telegram.messenger/apk/v12.6.4/org.telegram.messenger.xapk",
-          "sha256": ""
-        },
-        "priority": 75
-      },
-      {
         "applicationId": "com.whatsapp",
         "applicationName": "WhatsApp Messenger",
         "applicationType": "Communication",
         "description": "WhatsApp from Meta is a FREE messaging and video calling app.",
         "versionName": "2.26.15.76",
         "versionCode": 261507600,
-        "privacyRating": 3.0,
+        "privacyRating": 3,
         "rating": 2,
         "appSize": 104,
         "icon": {
@@ -82,6 +42,26 @@
           "sha256": ""
         },
         "priority": 89
+      },
+      {
+        "applicationId": "org.thoughtcrime.securesms",
+        "applicationName": "Signal Private Messenger",
+        "applicationType": "Communication",
+        "description": "Signal is a messaging app with privacy at its core.",
+        "versionName": "8.8.2",
+        "versionCode": 168201,
+        "privacyRating": 3,
+        "rating": 2,
+        "appSize": 98,
+        "icon": {
+          "url": "https://fsn1.your-objectstorage.com/app-store-prod/org.thoughtcrime.securesms/icon/icon.png",
+          "sha256": ""
+        },
+        "fileApp": {
+          "url": "https://fsn1.your-objectstorage.com/app-store-prod/org.thoughtcrime.securesms/apk/v8.8.2/org.thoughtcrime.securesms.xapk",
+          "sha256": ""
+        },
+        "priority": 71
       },
       {
         "applicationId": "com.Slack",
@@ -102,6 +82,26 @@
           "sha256": ""
         },
         "priority": 60
+      },
+      {
+        "applicationId": "org.telegram.messenger",
+        "applicationName": "Telegram",
+        "applicationType": "Communication",
+        "description": "Pure instant messaging — simple, fast, secure, and synced across all your devices.",
+        "versionName": "12.6.4",
+        "versionCode": 66662,
+        "privacyRating": 3,
+        "rating": 2,
+        "appSize": 47,
+        "icon": {
+          "url": "https://fsn1.your-objectstorage.com/app-store-prod/org.telegram.messenger/icon/icon.png",
+          "sha256": ""
+        },
+        "fileApp": {
+          "url": "https://fsn1.your-objectstorage.com/app-store-prod/org.telegram.messenger/apk/v12.6.4/org.telegram.messenger.xapk",
+          "sha256": ""
+        },
+        "priority": 75
       },
       {
         "applicationId": "com.facebook.orca",
@@ -150,10 +150,30 @@
         "priority": 80
       },
       {
+        "applicationId": "com.google.android.apps.maps",
+        "applicationName": "Google Maps",
+        "applicationType": "Maps & Navigation",
+        "description": "Explore and navigate the world with confidence using Google Maps. Find the best routes with live traffic data and real-time GPS navigation for driving, walking, cycling, and public transport.",
+        "versionName": "26.16.14.898594237",
+        "versionCode": 1068538244,
+        "privacyRating": 3,
+        "rating": 3,
+        "appSize": 51,
+        "icon": {
+          "url": "https://fsn1.your-objectstorage.com/app-store-prod/com.google.android.apps.maps/icon/com.google.android.apps.maps_icon.png",
+          "sha256": ""
+        },
+        "fileApp": {
+          "url": "https://fsn1.your-objectstorage.com/app-store-prod/com.google.android.apps.maps/apk/v26.16.14.898594237/com.google.android.apps.maps.xapk",
+          "sha256": ""
+        },
+        "priority": 30
+      },
+      {
         "applicationId": "me.lyft.android",
         "applicationName": "Lyft",
         "applicationType": "Maps & Navigation",
-        "description": "Get where you\u2019re going with Lyft.",
+        "description": "Get where you’re going with Lyft.",
         "versionName": "2026.14.31.1776447875",
         "versionCode": 1776447875,
         "privacyRating": 3.5,
@@ -165,6 +185,26 @@
         },
         "fileApp": {
           "url": "https://fsn1.your-objectstorage.com/app-store-prod/me.lyft.android/apk/v2026.14.31.1776447875/me.lyft.android.xapk",
+          "sha256": ""
+        },
+        "priority": 63
+      },
+      {
+        "applicationId": "com.sygic.aura",
+        "applicationName": "Sygic GPS Navigation & Maps",
+        "applicationType": "Maps & Navigation",
+        "description": "Sygic GPS Navigation & Maps is innovative GPS navigation app with monthly-updated offline maps and with precise live traffic & speed camera alerts, both updated in real time.",
+        "versionName": "26.2.0-108257",
+        "versionCode": 272602000,
+        "privacyRating": 3.5,
+        "rating": 2,
+        "appSize": 112,
+        "icon": {
+          "url": "https://fsn1.your-objectstorage.com/app-store-prod/com.sygic.aura/icon/icon.png",
+          "sha256": ""
+        },
+        "fileApp": {
+          "url": "https://fsn1.your-objectstorage.com/app-store-prod/com.sygic.aura/apk/v26.2.0-108257/com.sygic.aura.xapk",
           "sha256": ""
         },
         "priority": 63
@@ -188,46 +228,6 @@
           "sha256": ""
         },
         "priority": 65
-      },
-      {
-        "applicationId": "com.google.android.apps.maps",
-        "applicationName": "Google Maps",
-        "applicationType": "Maps & Navigation",
-        "description": "Explore and navigate the world with confidence using Google Maps. Find the best routes with live traffic data and real-time GPS navigation for driving, walking, cycling, and public transport.",
-        "versionName": "26.16.14.898594237",
-        "versionCode": 1068538244,
-        "privacyRating": 3.0,
-        "rating": 3,
-        "appSize": 51,
-        "icon": {
-          "url": "https://fsn1.your-objectstorage.com/app-store-prod/com.google.android.apps.maps/icon/com.google.android.apps.maps_icon.png",
-          "sha256": ""
-        },
-        "fileApp": {
-          "url": "https://fsn1.your-objectstorage.com/app-store-prod/com.google.android.apps.maps/apk/v26.16.14.898594237/com.google.android.apps.maps.xapk",
-          "sha256": ""
-        },
-        "priority": 30
-      },
-      {
-        "applicationId": "com.sygic.aura",
-        "applicationName": "Sygic GPS Navigation & Maps",
-        "applicationType": "Maps & Navigation",
-        "description": "Sygic GPS Navigation & Maps is innovative GPS navigation app with monthly-updated offline maps and with precise live traffic & speed camera alerts, both updated in real time.",
-        "versionName": "26.2.0-108257",
-        "versionCode": 272602000,
-        "privacyRating": 3.5,
-        "rating": 2,
-        "appSize": 112,
-        "icon": {
-          "url": "https://fsn1.your-objectstorage.com/app-store-prod/com.sygic.aura/icon/icon.png",
-          "sha256": ""
-        },
-        "fileApp": {
-          "url": "https://fsn1.your-objectstorage.com/app-store-prod/com.sygic.aura/apk/v26.2.0-108257/com.sygic.aura.xapk",
-          "sha256": ""
-        },
-        "priority": 63
       },
       {
         "applicationId": "com.here.app.maps",
@@ -262,7 +262,7 @@
         "description": "Stay organized with a unified inbox, intelligent filtering and multiple calendars at a glance.",
         "versionName": "5.2615.0",
         "versionCode": 72615127,
-        "privacyRating": 3.0,
+        "privacyRating": 3,
         "rating": 2,
         "appSize": 141,
         "icon": {
@@ -271,46 +271,6 @@
         },
         "fileApp": {
           "url": "https://fsn1.your-objectstorage.com/app-store-prod/com.microsoft.office.outlook/apk/v5.2615.0/com.microsoft.office.outlook.xapk",
-          "sha256": ""
-        },
-        "priority": 86
-      },
-      {
-        "applicationId": "com.google.android.calendar",
-        "applicationName": "Google Calendar",
-        "applicationType": "Productivity",
-        "description": "Get the official Google Calendar app, for your Android phone, tablet, or Wear OS device to stay organized and plan your day. Make the most of your day with easy event creation, multiple calendars, customizable views, widgets, tasks, and more",
-        "versionName": "2026.15.0-898648899-release",
-        "versionCode": 2018096039,
-        "privacyRating": 3.0,
-        "rating": 5,
-        "appSize": 14,
-        "icon": {
-          "url": "https://fsn1.your-objectstorage.com/app-store-prod/com.google.android.calendar/icon/com.google.android.calendar_icon.png",
-          "sha256": ""
-        },
-        "fileApp": {
-          "url": "https://fsn1.your-objectstorage.com/app-store-prod/com.google.android.calendar/apk/v2026.15.0-898648899-release/com.google.android.calendar.xapk",
-          "sha256": ""
-        },
-        "priority": 58
-      },
-      {
-        "applicationId": "com.dropbox.android",
-        "applicationName": "Dropbox: Secure Cloud Storage",
-        "applicationType": "Productivity",
-        "description": "Dropbox allows you to backup your most essential files to the cloud, where you may access them at any time and from any location! Over 700 million registered users and 600,000 teams rely on it.",
-        "versionName": "470.2.2",
-        "versionCode": 47020200,
-        "privacyRating": 3.0,
-        "rating": 2,
-        "appSize": 91,
-        "icon": {
-          "url": "https://fsn1.your-objectstorage.com/app-store-prod/com.dropbox.android/icon/icon.png",
-          "sha256": ""
-        },
-        "fileApp": {
-          "url": "https://fsn1.your-objectstorage.com/app-store-prod/com.dropbox.android/apk/v470.2.2/com.dropbox.android.xapk",
           "sha256": ""
         },
         "priority": 86
@@ -336,13 +296,33 @@
         "priority": 65
       },
       {
+        "applicationId": "com.google.android.calendar",
+        "applicationName": "Google Calendar",
+        "applicationType": "Productivity",
+        "description": "Get the official Google Calendar app, for your Android phone, tablet, or Wear OS device to stay organized and plan your day. Make the most of your day with easy event creation, multiple calendars, customizable views, widgets, tasks, and more",
+        "versionName": "2026.15.0-898648899-release",
+        "versionCode": 2018096039,
+        "privacyRating": 3,
+        "rating": 5,
+        "appSize": 14,
+        "icon": {
+          "url": "https://fsn1.your-objectstorage.com/app-store-prod/com.google.android.calendar/icon/com.google.android.calendar_icon.png",
+          "sha256": ""
+        },
+        "fileApp": {
+          "url": "https://fsn1.your-objectstorage.com/app-store-prod/com.google.android.calendar/apk/v2026.15.0-898648899-release/com.google.android.calendar.xapk",
+          "sha256": ""
+        },
+        "priority": 58
+      },
+      {
         "applicationId": "com.adobe.reader",
         "applicationName": "Adobe Acrobat Reader: Edit PDF",
         "applicationType": "Productivity",
         "description": "Major new updateMajor new updates: Collaborate and share your files in PDF Spaces, turn your document summaries into podcast-style audio, and create standout content in Acrobat Reader with design tools powered by Adobe Express.",
         "versionName": "26.4.0.44605",
         "versionCode": 1931644605,
-        "privacyRating": 3.0,
+        "privacyRating": 3,
         "rating": 2,
         "appSize": 71,
         "icon": {
@@ -356,13 +336,33 @@
         "priority": 73
       },
       {
+        "applicationId": "com.dropbox.android",
+        "applicationName": "Dropbox: Secure Cloud Storage",
+        "applicationType": "Productivity",
+        "description": "Dropbox allows you to backup your most essential files to the cloud, where you may access them at any time and from any location! Over 700 million registered users and 600,000 teams rely on it.",
+        "versionName": "470.2.2",
+        "versionCode": 47020200,
+        "privacyRating": 3,
+        "rating": 2,
+        "appSize": 91,
+        "icon": {
+          "url": "https://fsn1.your-objectstorage.com/app-store-prod/com.dropbox.android/icon/icon.png",
+          "sha256": ""
+        },
+        "fileApp": {
+          "url": "https://fsn1.your-objectstorage.com/app-store-prod/com.dropbox.android/apk/v470.2.2/com.dropbox.android.xapk",
+          "sha256": ""
+        },
+        "priority": 86
+      },
+      {
         "applicationId": "notion.id",
         "applicationName": "Notion: Notes, Tasks, AI",
         "applicationType": "Productivity",
         "description": "Notion is an AI-powered all-in-one workspace that helps individuals and teams write notes, manage tasks, organize projects, and collaborate in one place.",
         "versionName": "0.6.3803",
         "versionCode": 9803,
-        "privacyRating": 3.0,
+        "privacyRating": 3,
         "rating": 2,
         "appSize": 86,
         "icon": {
@@ -402,53 +402,13 @@
         "priority": 71
       },
       {
-        "applicationId": "com.duckduckgo.mobile.android",
-        "applicationName": "DuckDuckGo, Duck.ai, & VPN",
-        "applicationType": "Tools",
-        "description": "At DuckDuckGo, we believe the best way to protect your personal information from hackers, scammers, and privacy-invasive companies is to stop it from being collected at all.",
-        "versionName": "5.276.0",
-        "versionCode": 52760000,
-        "privacyRating": 3.0,
-        "rating": 2,
-        "appSize": 89,
-        "icon": {
-          "url": "https://fsn1.your-objectstorage.com/app-store-prod/com.duckduckgo.mobile.android/icon/icon.png",
-          "sha256": ""
-        },
-        "fileApp": {
-          "url": "https://fsn1.your-objectstorage.com/app-store-prod/com.duckduckgo.mobile.android/apk/v5.276.0/com.duckduckgo.mobile.android.xapk",
-          "sha256": ""
-        },
-        "priority": 66
-      },
-      {
-        "applicationId": "com.simplywerx.compass2d",
-        "applicationName": "Compass Steel",
-        "applicationType": "Tools",
-        "description": "Compass Steel – Navigate with Clarity and Style Compass Steel is your essential digital compass, designed for precision, reliability, and easy readability.",
-        "versionName": "3.9.4",
-        "versionCode": 238,
-        "privacyRating": 3.5,
-        "rating": 2,
-        "appSize": 21,
-        "icon": {
-          "url": "https://fsn1.your-objectstorage.com/app-store-prod/com.simplywerx.compass2d/icon/icon.png",
-          "sha256": ""
-        },
-        "fileApp": {
-          "url": "https://fsn1.your-objectstorage.com/app-store-prod/com.simplywerx.compass2d/apk/v3.9.4/com.simplywerx.compass2d.xapk",
-          "sha256": ""
-        },
-        "priority": 55
-      },
-      {
         "applicationId": "com.darkempire78.opencalculator",
         "applicationName": "OpenCalc",
         "applicationType": "Tools",
         "description": "Simple and beautiful calculator for Android",
         "versionName": "3.2.0",
         "versionCode": 53,
-        "privacyRating": 4.0,
+        "privacyRating": 4,
         "rating": 4,
         "appSize": 2,
         "icon": {
@@ -460,6 +420,26 @@
           "sha256": ""
         },
         "priority": 42
+      },
+      {
+        "applicationId": "com.duckduckgo.mobile.android",
+        "applicationName": "DuckDuckGo, Duck.ai, & VPN",
+        "applicationType": "Tools",
+        "description": "At DuckDuckGo, we believe the best way to protect your personal information from hackers, scammers, and privacy-invasive companies is to stop it from being collected at all.",
+        "versionName": "5.276.0",
+        "versionCode": 52760000,
+        "privacyRating": 3,
+        "rating": 2,
+        "appSize": 89,
+        "icon": {
+          "url": "https://fsn1.your-objectstorage.com/app-store-prod/com.duckduckgo.mobile.android/icon/icon.png",
+          "sha256": ""
+        },
+        "fileApp": {
+          "url": "https://fsn1.your-objectstorage.com/app-store-prod/com.duckduckgo.mobile.android/apk/v5.276.0/com.duckduckgo.mobile.android.xapk",
+          "sha256": ""
+        },
+        "priority": 66
       },
       {
         "applicationId": "com.google.android.apps.authenticator2",
@@ -480,6 +460,26 @@
           "sha256": ""
         },
         "priority": 65
+      },
+      {
+        "applicationId": "com.simplywerx.compass2d",
+        "applicationName": "Compass Steel",
+        "applicationType": "Tools",
+        "description": "Compass Steel – Navigate with Clarity and Style Compass Steel is your essential digital compass, designed for precision, reliability, and easy readability.",
+        "versionName": "3.9.4",
+        "versionCode": 238,
+        "privacyRating": 3.5,
+        "rating": 2,
+        "appSize": 21,
+        "icon": {
+          "url": "https://fsn1.your-objectstorage.com/app-store-prod/com.simplywerx.compass2d/icon/icon.png",
+          "sha256": ""
+        },
+        "fileApp": {
+          "url": "https://fsn1.your-objectstorage.com/app-store-prod/com.simplywerx.compass2d/apk/v3.9.4/com.simplywerx.compass2d.xapk",
+          "sha256": ""
+        },
+        "priority": 55
       },
       {
         "applicationId": "com.google.android.inputmethod.latin",
@@ -511,7 +511,7 @@
         "applicationId": "com.netflix.mediaclient",
         "applicationName": "Netflix",
         "applicationType": "Entertainment",
-        "description": "Looking for the most talked about TV shows and movies from the around the world? They\u2019re all on Netflix.",
+        "description": "Looking for the most talked about TV shows and movies from the around the world? They’re all on Netflix.",
         "versionName": "9.55.0 build 5 64070",
         "versionCode": 64070,
         "privacyRating": 3.5,
@@ -528,53 +528,13 @@
         "priority": 84
       },
       {
-        "applicationId": "com.hulu.plus",
-        "applicationName": "Hulu: Stream TV shows & movies",
-        "applicationType": "Entertainment",
-        "description": "Stream TV shows, films, and discover the award-winning classics, blockbuster movies and exclusive Originals that set Hulu apart.",
-        "versionName": "6.26.0+16176516-google",
-        "versionCode": 60010216,
-        "privacyRating": 3.0,
-        "rating": 2,
-        "appSize": 19,
-        "icon": {
-          "url": "https://fsn1.your-objectstorage.com/app-store-prod/com.hulu.plus/icon/icon.png",
-          "sha256": ""
-        },
-        "fileApp": {
-          "url": "https://fsn1.your-objectstorage.com/app-store-prod/com.hulu.plus/apk/v6.26.0+16176516-google/com.hulu.plus.apk",
-          "sha256": ""
-        },
-        "priority": 68
-      },
-      {
-        "applicationId": "com.peacocktv.peacockandroid",
-        "applicationName": "Peacock TV: Stream TV & Movies",
-        "applicationType": "Entertainment",
-        "description": "Download Peacock, NBCUniversal\u2019s streaming service.",
-        "versionName": "7.4.21",
-        "versionCode": 124070421,
-        "privacyRating": 3.0,
-        "rating": 2,
-        "appSize": 78,
-        "icon": {
-          "url": "https://fsn1.your-objectstorage.com/app-store-prod/com.peacocktv.peacockandroid/icon/icon.png",
-          "sha256": ""
-        },
-        "fileApp": {
-          "url": "https://fsn1.your-objectstorage.com/app-store-prod/com.peacocktv.peacockandroid/apk/v7.4.21/com.peacocktv.peacockandroid.xapk",
-          "sha256": ""
-        },
-        "priority": 66
-      },
-      {
         "applicationId": "com.google.android.youtube",
         "applicationName": "YouTube",
         "applicationType": "Entertainment",
-        "description": "Get the official YouTube app on Android phones and tablets. See what the world is watching -- from the hottest music videos to what\u2019s popular in gaming, fashion, beauty, news, learning and more.",
+        "description": "Get the official YouTube app on Android phones and tablets. See what the world is watching -- from the hottest music videos to what’s popular in gaming, fashion, beauty, news, learning and more.",
         "versionName": "21.16.245",
         "versionCode": 1561068346,
-        "privacyRating": 3.0,
+        "privacyRating": 3,
         "rating": 4,
         "appSize": 59,
         "icon": {
@@ -588,13 +548,33 @@
         "priority": 62
       },
       {
+        "applicationId": "com.hulu.plus",
+        "applicationName": "Hulu: Stream TV shows & movies",
+        "applicationType": "Entertainment",
+        "description": "Stream TV shows, films, and discover the award-winning classics, blockbuster movies and exclusive Originals that set Hulu apart.",
+        "versionName": "6.26.0+16176516-google",
+        "versionCode": 60010216,
+        "privacyRating": 3,
+        "rating": 2,
+        "appSize": 19,
+        "icon": {
+          "url": "https://fsn1.your-objectstorage.com/app-store-prod/com.hulu.plus/icon/icon.png",
+          "sha256": ""
+        },
+        "fileApp": {
+          "url": "https://fsn1.your-objectstorage.com/app-store-prod/com.hulu.plus/apk/v6.26.0+16176516-google/com.hulu.plus.apk",
+          "sha256": ""
+        },
+        "priority": 68
+      },
+      {
         "applicationId": "com.wbd.stream",
         "applicationName": "HBO Max: Stream TV & Movies",
         "applicationType": "Entertainment",
         "description": "The most talked about shows and movies featuring the worlds of HBO, the DC Universe, Adult Swim, A24, and beyond.",
         "versionName": "7.0.0.82",
         "versionCode": 1800004763,
-        "privacyRating": 3.0,
+        "privacyRating": 3,
         "rating": 2,
         "appSize": 94,
         "icon": {
@@ -606,6 +586,26 @@
           "sha256": ""
         },
         "priority": 71
+      },
+      {
+        "applicationId": "com.peacocktv.peacockandroid",
+        "applicationName": "Peacock TV: Stream TV & Movies",
+        "applicationType": "Entertainment",
+        "description": "Download Peacock, NBCUniversal’s streaming service.",
+        "versionName": "7.4.21",
+        "versionCode": 124070421,
+        "privacyRating": 3,
+        "rating": 2,
+        "appSize": 78,
+        "icon": {
+          "url": "https://fsn1.your-objectstorage.com/app-store-prod/com.peacocktv.peacockandroid/icon/icon.png",
+          "sha256": ""
+        },
+        "fileApp": {
+          "url": "https://fsn1.your-objectstorage.com/app-store-prod/com.peacocktv.peacockandroid/apk/v7.4.21/com.peacocktv.peacockandroid.xapk",
+          "sha256": ""
+        },
+        "priority": 66
       },
       {
         "applicationId": "com.amazon.avod.thirdpartyclient",
@@ -640,7 +640,7 @@
         "description": "With the Spotify music and podcast app, you can play millions of songs, albums and original podcasts for free.",
         "versionName": "9.1.42.2058",
         "versionCode": 140785734,
-        "privacyRating": 3.0,
+        "privacyRating": 3,
         "rating": 2,
         "appSize": 75,
         "icon": {
@@ -654,53 +654,13 @@
         "priority": 86
       },
       {
-        "applicationId": "com.pandora.android",
-        "applicationName": "Pandora - Music & Podcasts",
-        "applicationType": "Music & Audio",
-        "description": "Pandora gives you a personalized listening experience that continually evolves with your tastes.",
-        "versionName": "2602.1.1",
-        "versionCode": 26021101,
-        "privacyRating": 3.0,
-        "rating": 2,
-        "appSize": 67,
-        "icon": {
-          "url": "https://fsn1.your-objectstorage.com/app-store-prod/com.pandora.android/icon/icon.png",
-          "sha256": ""
-        },
-        "fileApp": {
-          "url": "https://fsn1.your-objectstorage.com/app-store-prod/com.pandora.android/apk/v2602.1.1/com.pandora.android.apk",
-          "sha256": ""
-        },
-        "priority": 65
-      },
-      {
-        "applicationId": "com.google.android.apps.youtube.music",
-        "applicationName": "Youtube Music",
-        "applicationType": "Music & Audio",
-        "description": "Connecting you to the world of music:",
-        "versionName": "9.16.51",
-        "versionCode": 91651240,
-        "privacyRating": 3.0,
-        "rating": 5,
-        "appSize": 36,
-        "icon": {
-          "url": "https://fsn1.your-objectstorage.com/app-store-prod/com.google.android.apps.youtube.music/icon/com.google.android.apps.youtube.music_icon.png",
-          "sha256": ""
-        },
-        "fileApp": {
-          "url": "https://fsn1.your-objectstorage.com/app-store-prod/com.google.android.apps.youtube.music/apk/v9.16.51/com.google.android.apps.youtube.music.xapk",
-          "sha256": ""
-        },
-        "priority": 56
-      },
-      {
         "applicationId": "com.apple.android.music",
         "applicationName": "Apple Music",
         "applicationType": "Music & Audio",
-        "description": "Apple Music is all about the music, with the highest audio quality; exclusive, in-depth content and unparalleled access to the artists you love\u2013all ad-free.",
+        "description": "Apple Music is all about the music, with the highest audio quality; exclusive, in-depth content and unparalleled access to the artists you love–all ad-free.",
         "versionName": "5.2.1",
         "versionCode": 1545,
-        "privacyRating": 3.0,
+        "privacyRating": 3,
         "rating": 2,
         "appSize": 51,
         "icon": {
@@ -714,10 +674,30 @@
         "priority": 71
       },
       {
+        "applicationId": "com.pandora.android",
+        "applicationName": "Pandora - Music & Podcasts",
+        "applicationType": "Music & Audio",
+        "description": "Pandora gives you a personalized listening experience that continually evolves with your tastes.",
+        "versionName": "2602.1.1",
+        "versionCode": 26021101,
+        "privacyRating": 3,
+        "rating": 2,
+        "appSize": 67,
+        "icon": {
+          "url": "https://fsn1.your-objectstorage.com/app-store-prod/com.pandora.android/icon/icon.png",
+          "sha256": ""
+        },
+        "fileApp": {
+          "url": "https://fsn1.your-objectstorage.com/app-store-prod/com.pandora.android/apk/v2602.1.1/com.pandora.android.apk",
+          "sha256": ""
+        },
+        "priority": 65
+      },
+      {
         "applicationId": "com.soundcloud.android",
         "applicationName": "SoundCloud: The Music You Love",
         "applicationType": "Music & Audio",
-        "description": "What\u2019s next in music is first on SoundCloud.",
+        "description": "What’s next in music is first on SoundCloud.",
         "versionName": "2026.04.16-release",
         "versionCode": 351050,
         "privacyRating": 3.5,
@@ -732,6 +712,26 @@
           "sha256": ""
         },
         "priority": 71
+      },
+      {
+        "applicationId": "com.google.android.apps.youtube.music",
+        "applicationName": "Youtube Music",
+        "applicationType": "Music & Audio",
+        "description": "Connecting you to the world of music:",
+        "versionName": "9.16.51",
+        "versionCode": 91651240,
+        "privacyRating": 3,
+        "rating": 5,
+        "appSize": 36,
+        "icon": {
+          "url": "https://fsn1.your-objectstorage.com/app-store-prod/com.google.android.apps.youtube.music/icon/com.google.android.apps.youtube.music_icon.png",
+          "sha256": ""
+        },
+        "fileApp": {
+          "url": "https://fsn1.your-objectstorage.com/app-store-prod/com.google.android.apps.youtube.music/apk/v9.16.51/com.google.android.apps.youtube.music.xapk",
+          "sha256": ""
+        },
+        "priority": 56
       },
       {
         "applicationId": "com.amazon.mp3",
@@ -766,7 +766,7 @@
         "description": "Welcome to X, your trusted digital town square, where conversations unfold in real time, and the world connects through breaking news, live events, podcasts, and everything in between.",
         "versionName": "1.0.0",
         "versionCode": 1,
-        "privacyRating": 5.0,
+        "privacyRating": 5,
         "rating": 5,
         "appSize": 177,
         "icon": {
@@ -780,10 +780,30 @@
         "priority": 83
       },
       {
+        "applicationId": "com.instagram.android",
+        "applicationName": "Instagram",
+        "applicationType": "Social",
+        "description": "Instagram - Little moments lead to big friendships.",
+        "versionName": "416.0.0.47.66",
+        "versionCode": 382206155,
+        "privacyRating": 3,
+        "rating": 2,
+        "appSize": 106,
+        "icon": {
+          "url": "https://fsn1.your-objectstorage.com/app-store-prod/com.instagram.android/icon/icon.png",
+          "sha256": ""
+        },
+        "fileApp": {
+          "url": "https://fsn1.your-objectstorage.com/app-store-prod/com.instagram.android/apk/v416.0.0.47.66/com.instagram.android.xapk",
+          "sha256": ""
+        },
+        "priority": 87
+      },
+      {
         "applicationId": "com.snapchat.android",
         "applicationName": "Snapchat",
         "applicationType": "Social",
-        "description": "Snapchat is a fast and fun way to share the moment with your friends and family \ud83d\udc7b SNAP \u2022 Snapchat opens right to the Camera \u2014 just tap to take a photo, or press and hold for video.",
+        "description": "Snapchat is a fast and fun way to share the moment with your friends and family 👻 SNAP • Snapchat opens right to the Camera — just tap to take a photo, or press and hold for video.",
         "versionName": "13.89.0.47",
         "versionCode": 283422,
         "privacyRating": 3.5,
@@ -798,46 +818,6 @@
           "sha256": ""
         },
         "priority": 86
-      },
-      {
-        "applicationId": "com.reddit.frontpage",
-        "applicationName": "Reddit",
-        "applicationType": "Social",
-        "description": "Welcome to Reddit, the heart of the internet.",
-        "versionName": "2026.16.0",
-        "versionCode": 2616140,
-        "privacyRating": 3.0,
-        "rating": 2,
-        "appSize": 104,
-        "icon": {
-          "url": "https://fsn1.your-objectstorage.com/app-store-prod/com.reddit.frontpage/icon/icon.png",
-          "sha256": ""
-        },
-        "fileApp": {
-          "url": "https://fsn1.your-objectstorage.com/app-store-prod/com.reddit.frontpage/apk/v2026.16.0/com.reddit.frontpage.xapk",
-          "sha256": ""
-        },
-        "priority": 78
-      },
-      {
-        "applicationId": "com.instagram.android",
-        "applicationName": "Instagram",
-        "applicationType": "Social",
-        "description": "Instagram - Little moments lead to big friendships.",
-        "versionName": "416.0.0.47.66",
-        "versionCode": 382206155,
-        "privacyRating": 3.0,
-        "rating": 2,
-        "appSize": 106,
-        "icon": {
-          "url": "https://fsn1.your-objectstorage.com/app-store-prod/com.instagram.android/icon/icon.png",
-          "sha256": ""
-        },
-        "fileApp": {
-          "url": "https://fsn1.your-objectstorage.com/app-store-prod/com.instagram.android/apk/v416.0.0.47.66/com.instagram.android.xapk",
-          "sha256": ""
-        },
-        "priority": 87
       },
       {
         "applicationId": "com.facebook.katana",
@@ -860,13 +840,33 @@
         "priority": 89
       },
       {
+        "applicationId": "com.reddit.frontpage",
+        "applicationName": "Reddit",
+        "applicationType": "Social",
+        "description": "Welcome to Reddit, the heart of the internet.",
+        "versionName": "2026.16.0",
+        "versionCode": 2616140,
+        "privacyRating": 3,
+        "rating": 2,
+        "appSize": 104,
+        "icon": {
+          "url": "https://fsn1.your-objectstorage.com/app-store-prod/com.reddit.frontpage/icon/icon.png",
+          "sha256": ""
+        },
+        "fileApp": {
+          "url": "https://fsn1.your-objectstorage.com/app-store-prod/com.reddit.frontpage/apk/v2026.16.0/com.reddit.frontpage.xapk",
+          "sha256": ""
+        },
+        "priority": 78
+      },
+      {
         "applicationId": "tv.twitch.android.app",
         "applicationName": "Twitch: Live Streaming",
         "applicationType": "Social",
         "description": "Welcome to the Purple App, where thousands of communities come together for our favorite streamers, for the games we love, for the lulz, for each other, for whatever.",
         "versionName": "28.8.1_BETA",
         "versionCode": 12808010,
-        "privacyRating": 3.0,
+        "privacyRating": 3,
         "rating": 2,
         "appSize": 81,
         "icon": {
@@ -906,53 +906,13 @@
         "priority": 80
       },
       {
-        "applicationId": "com.costco.app.android",
-        "applicationName": "Costco Wholesale",
-        "applicationType": "Shopping",
-        "description": "The Costco Mobile App is the easiest way to save time and money on the go.",
-        "versionName": "26.4.1.4",
-        "versionCode": 59764,
-        "privacyRating": 3.0,
-        "rating": 2,
-        "appSize": 163,
-        "icon": {
-          "url": "https://fsn1.your-objectstorage.com/app-store-prod/com.costco.app.android/icon/icon.png",
-          "sha256": ""
-        },
-        "fileApp": {
-          "url": "https://fsn1.your-objectstorage.com/app-store-prod/com.costco.app.android/apk/v26.4.1.4/com.costco.app.android.apk",
-          "sha256": ""
-        },
-        "priority": 60
-      },
-      {
-        "applicationId": "com.thehomedepot",
-        "applicationName": "The Home Depot",
-        "applicationType": "Shopping",
-        "description": "It's a good time to be a doer.",
-        "versionName": "7.60.2",
-        "versionCode": 455,
-        "privacyRating": 3.0,
-        "rating": 2,
-        "appSize": 127,
-        "icon": {
-          "url": "https://fsn1.your-objectstorage.com/app-store-prod/com.thehomedepot/icon/icon.png",
-          "sha256": ""
-        },
-        "fileApp": {
-          "url": "https://fsn1.your-objectstorage.com/app-store-prod/com.thehomedepot/apk/v7.60.2/com.thehomedepot.xapk",
-          "sha256": ""
-        },
-        "priority": 60
-      },
-      {
         "applicationId": "com.instacart.client",
         "applicationName": "Instacart: Get Food Delivery",
         "applicationType": "Shopping",
         "description": "Get food and grocery orders delivered directly to your door in as fast as 30 minutes with our app that helps with your shopping.",
         "versionName": "9.13.3",
         "versionCode": 91303000,
-        "privacyRating": 3.0,
+        "privacyRating": 3,
         "rating": 2,
         "appSize": 106,
         "icon": {
@@ -964,6 +924,26 @@
           "sha256": ""
         },
         "priority": 57
+      },
+      {
+        "applicationId": "com.costco.app.android",
+        "applicationName": "Costco Wholesale",
+        "applicationType": "Shopping",
+        "description": "The Costco Mobile App is the easiest way to save time and money on the go.",
+        "versionName": "26.4.1.4",
+        "versionCode": 59764,
+        "privacyRating": 3,
+        "rating": 2,
+        "appSize": 163,
+        "icon": {
+          "url": "https://fsn1.your-objectstorage.com/app-store-prod/com.costco.app.android/icon/icon.png",
+          "sha256": ""
+        },
+        "fileApp": {
+          "url": "https://fsn1.your-objectstorage.com/app-store-prod/com.costco.app.android/apk/v26.4.1.4/com.costco.app.android.apk",
+          "sha256": ""
+        },
+        "priority": 60
       },
       {
         "applicationId": "com.walmart.android",
@@ -984,6 +964,26 @@
           "sha256": ""
         },
         "priority": 71
+      },
+      {
+        "applicationId": "com.thehomedepot",
+        "applicationName": "The Home Depot",
+        "applicationType": "Shopping",
+        "description": "It's a good time to be a doer.",
+        "versionName": "7.60.2",
+        "versionCode": 455,
+        "privacyRating": 3,
+        "rating": 2,
+        "appSize": 127,
+        "icon": {
+          "url": "https://fsn1.your-objectstorage.com/app-store-prod/com.thehomedepot/icon/icon.png",
+          "sha256": ""
+        },
+        "fileApp": {
+          "url": "https://fsn1.your-objectstorage.com/app-store-prod/com.thehomedepot/apk/v7.60.2/com.thehomedepot.xapk",
+          "sha256": ""
+        },
+        "priority": 60
       },
       {
         "applicationId": "com.target.ui",
@@ -1032,46 +1032,6 @@
         "priority": 52
       },
       {
-        "applicationId": "wsj.reader_sp",
-        "applicationName": "The Wall Street Journal. News",
-        "applicationType": "News & Magazines",
-        "description": "**By downloading the app you agree to Dow Jones Terms of Use, Privacy Notice, and Cookie Notice** Stay ahead of the competition with the app that’s as ambitious as you are.",
-        "versionName": "6.38.0.28729",
-        "versionCode": 638000931,
-        "privacyRating": 3.5,
-        "rating": 2,
-        "appSize": 63,
-        "icon": {
-          "url": "https://fsn1.your-objectstorage.com/app-store-prod/wsj.reader_sp/icon/icon.png",
-          "sha256": ""
-        },
-        "fileApp": {
-          "url": "https://fsn1.your-objectstorage.com/app-store-prod/wsj.reader_sp/apk/v6.38.0.28729/wsj.reader_sp.apk",
-          "sha256": ""
-        },
-        "priority": 52
-      },
-      {
-        "applicationId": "bbc.mobile.news.ww",
-        "applicationName": "BBC: World News & Stories",
-        "applicationType": "News & Magazines",
-        "description": "THE BBC APP: News, stories, audio, videos, documentaries and live coverage from our trusted global network of journalists.",
-        "versionName": "2026.1.0",
-        "versionCode": 10007062,
-        "privacyRating": 3.5,
-        "rating": 2,
-        "appSize": 92,
-        "icon": {
-          "url": "https://fsn1.your-objectstorage.com/app-store-prod/bbc.mobile.news.ww/icon/icon.png",
-          "sha256": ""
-        },
-        "fileApp": {
-          "url": "https://fsn1.your-objectstorage.com/app-store-prod/bbc.mobile.news.ww/apk/v2026.1.0/bbc.mobile.news.ww.xapk",
-          "sha256": ""
-        },
-        "priority": 52
-      },
-      {
         "applicationId": "com.substack.app",
         "applicationName": "Substack",
         "applicationType": "News & Magazines",
@@ -1092,6 +1052,26 @@
         "priority": 55
       },
       {
+        "applicationId": "wsj.reader_sp",
+        "applicationName": "The Wall Street Journal. News",
+        "applicationType": "News & Magazines",
+        "description": "**By downloading the app you agree to Dow Jones Terms of Use, Privacy Notice, and Cookie Notice** Stay ahead of the competition with the app that’s as ambitious as you are.",
+        "versionName": "6.38.0.28729",
+        "versionCode": 638000931,
+        "privacyRating": 3.5,
+        "rating": 2,
+        "appSize": 63,
+        "icon": {
+          "url": "https://fsn1.your-objectstorage.com/app-store-prod/wsj.reader_sp/icon/icon.png",
+          "sha256": ""
+        },
+        "fileApp": {
+          "url": "https://fsn1.your-objectstorage.com/app-store-prod/wsj.reader_sp/apk/v6.38.0.28729/wsj.reader_sp.apk",
+          "sha256": ""
+        },
+        "priority": 52
+      },
+      {
         "applicationId": "com.particlenews.newsbreak",
         "applicationName": "NewsBreak: Local News & Alerts",
         "applicationType": "News & Magazines",
@@ -1110,6 +1090,26 @@
           "sha256": ""
         },
         "priority": 66
+      },
+      {
+        "applicationId": "bbc.mobile.news.ww",
+        "applicationName": "BBC: World News & Stories",
+        "applicationType": "News & Magazines",
+        "description": "THE BBC APP: News, stories, audio, videos, documentaries and live coverage from our trusted global network of journalists.",
+        "versionName": "2026.1.0",
+        "versionCode": 10007062,
+        "privacyRating": 3.5,
+        "rating": 2,
+        "appSize": 92,
+        "icon": {
+          "url": "https://fsn1.your-objectstorage.com/app-store-prod/bbc.mobile.news.ww/icon/icon.png",
+          "sha256": ""
+        },
+        "fileApp": {
+          "url": "https://fsn1.your-objectstorage.com/app-store-prod/bbc.mobile.news.ww/apk/v2026.1.0/bbc.mobile.news.ww.xapk",
+          "sha256": ""
+        },
+        "priority": 52
       },
       {
         "applicationId": "com.theepochtimes.news",
@@ -1158,46 +1158,6 @@
         "priority": 68
       },
       {
-        "applicationId": "com.creditkarma.mobile",
-        "applicationName": "Intuit Credit Karma",
-        "applicationType": "Finance",
-        "description": "CONNECT YOUR ACCOUNTS FOR FINANCIAL INSIGHTS - Track your monthly spending - Monitor transactions - Look out for ATM fees, late payments and more.",
-        "versionName": "26.17",
-        "versionCode": 17763692,
-        "privacyRating": 3.5,
-        "rating": 2,
-        "appSize": 90,
-        "icon": {
-          "url": "https://fsn1.your-objectstorage.com/app-store-prod/com.creditkarma.mobile/icon/icon.png",
-          "sha256": ""
-        },
-        "fileApp": {
-          "url": "https://fsn1.your-objectstorage.com/app-store-prod/com.creditkarma.mobile/apk/v26.17/com.creditkarma.mobile.xapk",
-          "sha256": ""
-        },
-        "priority": 66
-      },
-      {
-        "applicationId": "com.monarchmoney.mobile",
-        "applicationName": "Monarch: Budget & Track Money",
-        "applicationType": "Finance",
-        "description": "Consider Monarch your home base for money clarity.",
-        "versionName": "2.0.93",
-        "versionCode": 13499,
-        "privacyRating": 3.5,
-        "rating": 2,
-        "appSize": 89,
-        "icon": {
-          "url": "https://fsn1.your-objectstorage.com/app-store-prod/com.monarchmoney.mobile/icon/icon.png",
-          "sha256": ""
-        },
-        "fileApp": {
-          "url": "https://fsn1.your-objectstorage.com/app-store-prod/com.monarchmoney.mobile/apk/v2.0.93/com.monarchmoney.mobile.xapk",
-          "sha256": ""
-        },
-        "priority": 48
-      },
-      {
         "applicationId": "com.robinhood.android",
         "applicationName": "Robinhood: Trading & Investing",
         "applicationType": "Finance",
@@ -1218,13 +1178,33 @@
         "priority": 57
       },
       {
+        "applicationId": "com.creditkarma.mobile",
+        "applicationName": "Intuit Credit Karma",
+        "applicationType": "Finance",
+        "description": "CONNECT YOUR ACCOUNTS FOR FINANCIAL INSIGHTS - Track your monthly spending - Monitor transactions - Look out for ATM fees, late payments and more.",
+        "versionName": "26.17",
+        "versionCode": 17763692,
+        "privacyRating": 3.5,
+        "rating": 2,
+        "appSize": 90,
+        "icon": {
+          "url": "https://fsn1.your-objectstorage.com/app-store-prod/com.creditkarma.mobile/icon/icon.png",
+          "sha256": ""
+        },
+        "fileApp": {
+          "url": "https://fsn1.your-objectstorage.com/app-store-prod/com.creditkarma.mobile/apk/v26.17/com.creditkarma.mobile.xapk",
+          "sha256": ""
+        },
+        "priority": 66
+      },
+      {
         "applicationId": "com.paypal.android.p2pmobile",
         "applicationName": "PayPal - Pay, Send, Save",
         "applicationType": "Finance",
         "description": "PayPal is a smart and secure way to shop in-store and online, earn cash back on brands you love, send money to friends and much more.",
         "versionName": "8.105.1",
         "versionCode": 1160085803,
-        "privacyRating": 3.0,
+        "privacyRating": 3,
         "rating": 2,
         "appSize": 149,
         "icon": {
@@ -1236,6 +1216,26 @@
           "sha256": ""
         },
         "priority": 75
+      },
+      {
+        "applicationId": "com.monarchmoney.mobile",
+        "applicationName": "Monarch: Budget & Track Money",
+        "applicationType": "Finance",
+        "description": "Consider Monarch your home base for money clarity.",
+        "versionName": "2.0.93",
+        "versionCode": 13499,
+        "privacyRating": 3.5,
+        "rating": 2,
+        "appSize": 89,
+        "icon": {
+          "url": "https://fsn1.your-objectstorage.com/app-store-prod/com.monarchmoney.mobile/icon/icon.png",
+          "sha256": ""
+        },
+        "fileApp": {
+          "url": "https://fsn1.your-objectstorage.com/app-store-prod/com.monarchmoney.mobile/apk/v2.0.93/com.monarchmoney.mobile.xapk",
+          "sha256": ""
+        },
+        "priority": 48
       },
       {
         "applicationId": "com.acorns.android",
