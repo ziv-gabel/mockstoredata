@@ -1258,5 +1258,131 @@
         "priority": 60
       }
     ]
+  },
+  {
+    "title": "Learn, create, and discover with AI",
+    "categoryName": "Assistants",
+    "apps": [
+      {
+        "applicationId": "com.anthropic.claude",
+        "applicationName": "Claude by Anthropic",
+        "applicationType": "Productivity",
+        "description": "Meet Claude, your AI problem solver and thinking partner.",
+        "versionName": "1.260423.20",
+        "versionCode": 26042320,
+        "privacyRating": 3,
+        "rating": 2,
+        "appSize": 26,
+        "icon": {
+          "url": "https://fsn1.your-objectstorage.com/app-store-prod/com.anthropic.claude/icon/icon.png",
+          "sha256": ""
+        },
+        "fileApp": {
+          "url": "https://fsn1.your-objectstorage.com/app-store-prod/com.anthropic.claude/apk/v1.260423.20/com.anthropic.claude.xapk",
+          "sha256": ""
+        },
+        "priority": 60
+      },
+      {
+        "applicationId": "com.unplugged.pwa.chatgpt",
+        "applicationName": "ChatGPT- Open AI",
+        "applicationType": "Productivity",
+        "description": "Introducing ChatGPT for Android: OpenAI’s latest advancements at your fingertips.",
+        "versionName": "1.0.0",
+        "versionCode": 1,
+        "privacyRating": 3.5,
+        "rating": 4,
+        "appSize": 10,
+        "icon": {
+          "url": "https://fsn1.your-objectstorage.com/app-store-prod/com.unplugged.pwa.chatgpt/icon/com.unplugged.pwa.chatgpt_icon.png",
+          "sha256": ""
+        },
+        "fileApp": {
+          "url": "https://fsn1.your-objectstorage.com/app-store-prod/com.unplugged.pwa.chatgpt/apk/v1.0.0/com.unplugged.pwa.chatgpt_release_sign.apk",
+          "sha256": ""
+        },
+        "priority": 89
+      },
+      {
+        "applicationId": "ai.x.grok",
+        "applicationName": "Grok - AI Chat & Video",
+        "applicationType": "Productivity",
+        "description": "Grok is an AI-powered assistant, developed by xAI, designed to be maximally truthful, useful, and curious.",
+        "versionName": "1.1.62-release.00",
+        "versionCode": 11162200,
+        "privacyRating": 3,
+        "rating": 2,
+        "appSize": 39,
+        "icon": {
+          "url": "https://fsn1.your-objectstorage.com/app-store-prod/ai.x.grok/icon/icon.png",
+          "sha256": ""
+        },
+        "fileApp": {
+          "url": "https://fsn1.your-objectstorage.com/app-store-prod/ai.x.grok/apk/v1.1.62-release.00/ai.x.grok.xapk",
+          "sha256": ""
+        },
+        "priority": 66
+      },
+      {
+        "applicationId": "com.deepseek.chat",
+        "applicationName": "DeepSeek - AI Assistant",
+        "applicationType": "Productivity",
+        "description": "Experience seamless interaction with DeepSeek's official AI assistant for free! Powered by DeepSeek’s latest flagship model, it delivers faster responses and more powerful features to help you solve problems and live more efficiently.",
+        "versionName": "2.0.4",
+        "versionCode": 212,
+        "privacyRating": 3,
+        "rating": 2,
+        "appSize": 13,
+        "icon": {
+          "url": "https://fsn1.your-objectstorage.com/app-store-prod/com.deepseek.chat/icon/icon.png",
+          "sha256": ""
+        },
+        "fileApp": {
+          "url": "https://fsn1.your-objectstorage.com/app-store-prod/com.deepseek.chat/apk/v2.0.4/com.deepseek.chat.xapk",
+          "sha256": ""
+        },
+        "priority": 63
+      },
+      {
+        "applicationId": "com.microsoft.copilot",
+        "applicationName": "Microsoft Copilot",
+        "applicationType": "Productivity",
+        "description": "Copilot just landed AI's leading model.",
+        "versionName": "30.0.440427001",
+        "versionCode": 440427001,
+        "privacyRating": 3.5,
+        "rating": 2,
+        "appSize": 63,
+        "icon": {
+          "url": "https://fsn1.your-objectstorage.com/app-store-prod/com.microsoft.copilot/icon/icon.png",
+          "sha256": ""
+        },
+        "fileApp": {
+          "url": "https://fsn1.your-objectstorage.com/app-store-prod/com.microsoft.copilot/apk/v30.0.440427001/com.microsoft.copilot.xapk",
+          "sha256": ""
+        },
+        "priority": 66
+      },
+      {
+        "applicationId": "ai.perplexity.app.android",
+        "applicationName": "Perplexity - Ask Anything",
+        "applicationType": "Productivity",
+        "description": "Perplexity—Where Knowledge Begins.",
+        "versionName": "2.84.1",
+        "versionCode": 260597,
+        "privacyRating": 3,
+        "rating": 2,
+        "appSize": 89,
+        "icon": {
+          "url": "https://fsn1.your-objectstorage.com/app-store-prod/ai.perplexity.app.android/icon/icon.png",
+          "sha256": ""
+        },
+        "fileApp": {
+          "url": "https://fsn1.your-objectstorage.com/app-store-prod/ai.perplexity.app.android/apk/v2.84.1/ai.perplexity.app.android.xapk",
+          "sha256": ""
+        },
+        "priority": 71
+      }
+    ]
   }
 ]
