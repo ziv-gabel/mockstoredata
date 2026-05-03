@@ -1,287 +1,648 @@
 [
   {
+    "applicationId": "com.unplugged.pwa.x",
+    "applicationName": "X",
+    "applicationType": "Social",
+    "description": "Welcome to X, your trusted digital town square, where conversations unfold in real time, and the world connects through breaking news, live events, podcasts, and everything in between. Whether you're passionate about sports, tech, music, or politics, X is your front-row seat to what’s happening across the globe.",
+    "versionName": "1.0.0",
+    "versionCode": 1,
+    "privacyRating": 5,
+    "icon": {
+      "url": "https://fsn1.your-objectstorage.com/app-store-prod/com.unplugged.pwa.x/icon/com.unplugged.pwa.x_icon.png",
+      "sha256": ""
+    },
+    "fileApp": {
+      "url": "https://fsn1.your-objectstorage.com/app-store-prod/com.unplugged.pwa.x/apk/v1.0.0/com.unplugged.pwa.x_release_sign.apk",
+      "sha256": ""
+    },
+    "rating": 5,
+    "appSize": 177
+  },
+  {
     "applicationId": "org.thoughtcrime.securesms",
     "applicationName": "Signal Private Messenger",
     "applicationType": "Communication",
-    "description": "Signal is a messaging app with privacy at its core. It is free and easy to use, with strong end-to-end encryption that keeps your communication completely private.",
-    "versionName": "7.41.3",
-    "versionCode": 154200,
-    "privacyRating": 3.5,
-     "icon": {
-    	"url":"https://fsn1.your-objectstorage.com/app-store-prod/org.thoughtcrime.securesms/icon/icon.png",
-    	"sha256":""
+    "description": "Signal is a messaging app with privacy at its core.",
+    "versionName": "8.8.2",
+    "versionCode": 168201,
+    "privacyRating": 3,
+    "icon": {
+      "url": "https://fsn1.your-objectstorage.com/app-store-prod/org.thoughtcrime.securesms/icon/icon.png",
+      "sha256": ""
     },
     "fileApp": {
-        "url": "",
-        "sha256": ""
-        },
+      "url": "https://fsn1.your-objectstorage.com/app-store-prod/org.thoughtcrime.securesms/apk/v8.8.2/org.thoughtcrime.securesms.xapk",
+      "sha256": ""
+    },
     "rating": 2,
-    "appSize": 85
+    "appSize": 98
+  },
+  {
+    "applicationId": "ch.protonmail.android",
+    "applicationName": "Proton Mail: Encrypted Email",
+    "applicationType": "Communication",
+    "description": "Proton Mail's all-new encrypted email app protects your communications and has everything you need to easily manage your inbox.",
+    "versionName": "7.9.5",
+    "versionCode": 16929,
+    "privacyRating": 3,
+    "icon": {
+      "url": "https://fsn1.your-objectstorage.com/app-store-prod/ch.protonmail.android/icon/icon.png",
+      "sha256": ""
+    },
+    "fileApp": {
+      "url": "https://fsn1.your-objectstorage.com/app-store-prod/ch.protonmail.android/apk/v7.9.5/ch.protonmail.android.apk",
+      "sha256": ""
+    },
+    "rating": 2,
+    "appSize": 133
+  },
+  {
+    "applicationId": "com.google.android.apps.messaging",
+    "applicationName": "Google Messages",
+    "applicationType": "Communication",
+    "description": "Google Messages is the official Google app for messaging.",
+    "versionName": "messages.android_20260417_00_RC05.phone_dynamic",
+    "versionCode": 307080063,
+    "privacyRating": 3,
+    "icon": {
+      "url": "https://fsn1.your-objectstorage.com/app-store-prod/com.google.android.apps.messaging/icon/icon.png",
+      "sha256": ""
+    },
+    "fileApp": {
+      "url": "https://fsn1.your-objectstorage.com/app-store-prod/com.google.android.apps.messaging/apk/vmessages.android_20260417_00_RC05.phone_dynamic/com.google.android.apps.messaging.xapk",
+      "sha256": ""
+    },
+    "rating": 2,
+    "appSize": 74
+  },
+  {
+    "applicationId": "com.substack.app",
+    "applicationName": "Substack",
+    "applicationType": "News & Magazines",
+    "description": "Substack is a new media app that connects you with the creators, ideas, and communities you care about most.",
+    "versionName": "2.96.1",
+    "versionCode": 73547,
+    "privacyRating": 3.5,
+    "icon": {
+      "url": "https://fsn1.your-objectstorage.com/app-store-prod/com.substack.app/icon/icon.png",
+      "sha256": ""
+    },
+    "fileApp": {
+      "url": "https://fsn1.your-objectstorage.com/app-store-prod/com.substack.app/apk/v2.96.1/com.substack.app.xapk",
+      "sha256": ""
+    },
+    "rating": 2,
+    "appSize": 49
+  },
+  {
+    "applicationId": "com.anthropic.claude",
+    "applicationName": "Claude by Anthropic",
+    "applicationType": "Productivity",
+    "description": "Meet Claude, your AI problem solver and thinking partner.",
+    "versionName": "1.260423.20",
+    "versionCode": 26042320,
+    "privacyRating": 3,
+    "icon": {
+      "url": "https://fsn1.your-objectstorage.com/app-store-prod/com.anthropic.claude/icon/icon.png",
+      "sha256": ""
+    },
+    "fileApp": {
+      "url": "https://fsn1.your-objectstorage.com/app-store-prod/com.anthropic.claude/apk/v1.260423.20/com.anthropic.claude.xapk",
+      "sha256": ""
+    },
+    "rating": 2,
+    "appSize": 26
+  },
+  {
+    "applicationId": "com.waze",
+    "applicationName": "Waze Navigation & Live Traffic",
+    "applicationType": "Maps & Navigation",
+    "description": "Know what's ahead on the road with the help from other drivers.",
+    "versionName": "5.18.0.1",
+    "versionCode": 1030688,
+    "privacyRating": 3.5,
+    "icon": {
+      "url": "https://fsn1.your-objectstorage.com/app-store-prod/com.waze/icon/icon.png",
+      "sha256": ""
+    },
+    "fileApp": {
+      "url": "https://fsn1.your-objectstorage.com/app-store-prod/com.waze/apk/v5.18.0.1/com.waze.xapk",
+      "sha256": ""
+    },
+    "rating": 2,
+    "appSize": 102
+  },
+  {
+    "applicationId": "com.standardnotes",
+    "applicationName": "Standard Notes",
+    "applicationType": "Productivity",
+    "description": "Standard Notes is a secure and private notes app.",
+    "versionName": "3.201.21",
+    "versionCode": 3005208,
+    "privacyRating": 4.8,
+    "icon": {
+      "url": "https://fsn1.your-objectstorage.com/app-store-prod/com.standardnotes/icon/icon.png",
+      "sha256": ""
+    },
+    "fileApp": {
+      "url": "https://fsn1.your-objectstorage.com/app-store-prod/com.standardnotes/apk/v3.201.21/com.standardnotes.xapk",
+      "sha256": ""
+    },
+    "rating": 2,
+    "appSize": 41
+  },
+  {
+    "applicationId": "me.proton.android.calendar",
+    "applicationName": "Proton Calendar: Secure Events",
+    "applicationType": "Productivity",
+    "description": "Proton Calendar is an easy-to-use planner and a time-management tool that keeps your schedule private Additional Highlights ✓ Schedule planner syncs automatically across browsers and devices ✓ Create recurring events on a daily, weekly, monthly, yearly, or custom basis ✓ Use as an appointment scheduler in local or foreign time zones ✓ Manage up to 20 calendars (paid feature) ✓ View your agenda from the home screen with the Proton Calendar widget ✓ Add multiple reminders for any event ✓ Use as a daily planner or monthly planner by switching between different views ✓ Choose to view your event schedule in dark mode or light mode PRIVATE CALENDAR ✓ No ads, no trackers, and no data sharing with any third parties ✓ We can’t spy on your activities or misuse your data ✓ End-to-end encryption — fully encrypted data exchange between Proton Calendar users ✓ Zero-access encryption — event names, descriptions, and participants are encrypted on our servers ✓ Based in Switzerland 🇨🇭 — All your data is protected by strict Swiss privacy laws USERS FIRST Building an internet that puts people ahead of profits ✓ Funded by users, not advertisers — privacy is our business model ✓ Built by scientists and engineers who met at CERN and MIT and founded Proton Mail ✓ Used by high-profile journalists and organizations globally ✓ GDPR and HIPAA compliant ✓ Based in Switzerland and protected by some of the world’s strongest privacy laws What others say about Proton Calendar “Proton Mail has now made it stupid-easy to encrypt your schedule.",
+    "versionName": "2.31.1",
+    "versionCode": 347,
+    "privacyRating": 3.5,
+    "icon": {
+      "url": "https://fsn1.your-objectstorage.com/app-store-prod/me.proton.android.calendar/icon/icon.png",
+      "sha256": ""
+    },
+    "fileApp": {
+      "url": "https://fsn1.your-objectstorage.com/app-store-prod/me.proton.android.calendar/apk/v2.31.1/me.proton.android.calendar.apk",
+      "sha256": ""
+    },
+    "rating": 2,
+    "appSize": 123
+  },
+  {
+    "applicationId": "ai.x.grok",
+    "applicationName": "Grok - AI Chat & Video",
+    "applicationType": "Productivity",
+    "description": "Grok is an AI-powered assistant, developed by xAI, designed to be maximally truthful, useful, and curious.",
+    "versionName": "1.1.62-release.00",
+    "versionCode": 11162200,
+    "privacyRating": 3,
+    "icon": {
+      "url": "https://fsn1.your-objectstorage.com/app-store-prod/ai.x.grok/icon/icon.png",
+      "sha256": ""
+    },
+    "fileApp": {
+      "url": "https://fsn1.your-objectstorage.com/app-store-prod/ai.x.grok/apk/v1.1.62-release.00/ai.x.grok.xapk",
+      "sha256": ""
+    },
+    "rating": 2,
+    "appSize": 39
+  },
+  {
+    "applicationId": "me.lyft.android",
+    "applicationName": "Lyft",
+    "applicationType": "Maps & Navigation",
+    "description": "Get where you’re going with Lyft.",
+    "versionName": "2026.15.3.1776842471",
+    "versionCode": 1776842471,
+    "privacyRating": 3.5,
+    "icon": {
+      "url": "https://fsn1.your-objectstorage.com/app-store-prod/me.lyft.android/icon/icon.png",
+      "sha256": ""
+    },
+    "fileApp": {
+      "url": "https://fsn1.your-objectstorage.com/app-store-prod/me.lyft.android/apk/v2026.15.3.1776842471/me.lyft.android.xapk",
+      "sha256": ""
+    },
+    "rating": 2,
+    "appSize": 80
+  },
+  {
+    "applicationId": "me.proton.android.drive",
+    "applicationName": "Proton Drive: Cloud Storage",
+    "applicationType": "Productivity",
+    "description": "Proton Drive provides private and secure storage for your files and photos.",
+    "versionName": "2.36.1",
+    "versionCode": 41921,
+    "privacyRating": 3.5,
+    "icon": {
+      "url": "https://fsn1.your-objectstorage.com/app-store-prod/me.proton.android.drive/icon/icon.png",
+      "sha256": ""
+    },
+    "fileApp": {
+      "url": "https://fsn1.your-objectstorage.com/app-store-prod/me.proton.android.drive/apk/v2.36.1/me.proton.android.drive.apk",
+      "sha256": ""
+    },
+    "rating": 2,
+    "appSize": 206
+  },
+  {
+    "applicationId": "com.darkempire78.opencalculator",
+    "applicationName": "OpenCalc",
+    "applicationType": "Tools",
+    "description": "Simple and beautiful calculator for Android",
+    "versionName": "3.2.0",
+    "versionCode": 53,
+    "privacyRating": 4,
+    "icon": {
+      "url": "https://app-store-prod.fsn1.your-objectstorage.com/com.darkempire78.opencalculator/icon/icon_dbIkMwJcZPVKJE9anaEnXM4UfhracHYNVoP3aqMP54Q=.png",
+      "sha256": ""
+    },
+    "fileApp": {
+      "url": "https://app-store-prod.fsn1.your-objectstorage.com/com.darkempire78.opencalculator/apk/v3.2.0/xibttljs.apk",
+      "sha256": ""
+    },
+    "rating": 4,
+    "appSize": 2
   },
   {
     "applicationId": "com.spotify.music",
     "applicationName": "Spotify: Music and Podcasts",
     "applicationType": "Music & Audio",
-    "description": "With the Spotify music and podcast app, you can play millions of songs, albums and original podcasts for free. We have even added audiobooks, so you can enjoy thousands of stories wherever you are!",
-    "versionName": "9.0.42.529",
-    "versionCode": 127667831,
-    "privacyRating": 3.5,
-     "icon": {
-    	"url":"https://fsn1.your-objectstorage.com/app-store-prod/com.spotify.music/icon/icon.png",
-    	"sha256":""
+    "description": "With the Spotify music and podcast app, you can play millions of songs, albums and original podcasts for free.",
+    "versionName": "9.1.42.2058",
+    "versionCode": 140785734,
+    "privacyRating": 3,
+    "icon": {
+      "url": "https://fsn1.your-objectstorage.com/app-store-prod/com.spotify.music/icon/icon.png",
+      "sha256": ""
     },
     "fileApp": {
-        "url": "",
-        "sha256": ""
-        },
+      "url": "https://fsn1.your-objectstorage.com/app-store-prod/com.spotify.music/apk/v9.1.42.2058/com.spotify.music.xapk",
+      "sha256": ""
+    },
     "rating": 2,
-    "appSize": 62
+    "appSize": 75
+  },
+  {
+    "applicationId": "com.weather.Weather",
+    "applicationName": "The Weather Channel - Radar",
+    "applicationType": "Weather",
+    "description": "The Weather Channel is the World's Most Accurate Forecaster*.",
+    "versionName": "16.3.1",
+    "versionCode": 1080010916,
+    "privacyRating": 3.2,
+    "icon": {
+      "url": "https://fsn1.your-objectstorage.com/app-store-prod/com.weather.Weather/icon/icon.png",
+      "sha256": ""
+    },
+    "fileApp": {
+      "url": "https://fsn1.your-objectstorage.com/app-store-prod/com.weather.Weather/apk/v16.3.1/com.weather.Weather.xapk",
+      "sha256": ""
+    },
+    "rating": 2,
+    "appSize": 92
+  },
+  {
+    "applicationId": "com.vidangel.thechosen",
+    "applicationName": "Angel: Watch Movies & TV Shows",
+    "applicationType": "Entertainment",
+    "description": "Looking for captivating new movies and shows that amplify light? Our TV shows and movies capture storytelling that is true, honest, and authentic.",
+    "versionName": "26.4.15",
+    "versionCode": 1776273275,
+    "privacyRating": 2,
+    "icon": {
+      "url": "https://fsn1.your-objectstorage.com/app-store-prod/com.vidangel.thechosen/icon/icon.png",
+      "sha256": ""
+    },
+    "fileApp": {
+      "url": "https://fsn1.your-objectstorage.com/app-store-prod/com.vidangel.thechosen/apk/v26.4.15/com.vidangel.thechosen.xapk",
+      "sha256": ""
+    },
+    "rating": 2,
+    "appSize": 73
+  },
+  {
+    "applicationId": "com.theepochtimes.news",
+    "applicationName": "The Epoch Times: Breaking News",
+    "applicationType": "News & Magazines",
+    "description": "The Epoch Times App serves you with trusted news wherever you are.",
+    "versionName": "3.1.17",
+    "versionCode": 3001175,
+    "privacyRating": 3.5,
+    "icon": {
+      "url": "https://fsn1.your-objectstorage.com/app-store-prod/com.theepochtimes.news/icon/icon.png",
+      "sha256": ""
+    },
+    "fileApp": {
+      "url": "https://fsn1.your-objectstorage.com/app-store-prod/com.theepochtimes.news/apk/v3.1.17/com.theepochtimes.news.xapk",
+      "sha256": ""
+    },
+    "rating": 2,
+    "appSize": 43
+  },
+  {
+    "applicationId": "com.dailywire.thedailywire",
+    "applicationName": "DailyWire+",
+    "applicationType": "News & Magazines",
+    "description": "What began as a news and conservative podcast company in 2015 has rapidly become the number one voice of counter-culture in America.",
+    "versionName": "3.4.2",
+    "versionCode": 453,
+    "privacyRating": 3.5,
+    "icon": {
+      "url": "https://fsn1.your-objectstorage.com/app-store-prod/com.dailywire.thedailywire/icon/icon.png",
+      "sha256": ""
+    },
+    "fileApp": {
+      "url": "https://fsn1.your-objectstorage.com/app-store-prod/com.dailywire.thedailywire/apk/v3.4.2/com.dailywire.thedailywire.apk",
+      "sha256": ""
+    },
+    "rating": 2,
+    "appSize": 60
+  },
+  {
+    "applicationId": "com.truthsocial.android.app",
+    "applicationName": "Truth Social",
+    "applicationType": "Social",
+    "description": "The #1 free-speech social media platform is now available as a native Android app! In the year 2021, the media pendulum has swung dangerously far to the left.",
+    "versionName": "1.24.10",
+    "versionCode": 1230,
+    "privacyRating": 2,
+    "icon": {
+      "url": "https://fsn1.your-objectstorage.com/app-store-prod/com.truthsocial.android.app/icon/icon.png",
+      "sha256": ""
+    },
+    "fileApp": {
+      "url": "https://fsn1.your-objectstorage.com/app-store-prod/com.truthsocial.android.app/apk/v1.24.10/com.truthsocial.android.app.xapk",
+      "sha256": ""
+    },
+    "rating": 2,
+    "appSize": 33
+  },
+  {
+    "applicationId": "com.locals.localsapp",
+    "applicationName": "Locals.com",
+    "applicationType": "Social",
+    "description": "Directly support the creators you love.",
+    "versionName": "2.1.31",
+    "versionCode": 481,
+    "privacyRating": 1.6,
+    "icon": {
+      "url": "https://fsn1.your-objectstorage.com/app-store-prod/com.locals.localsapp/icon/icon.png",
+      "sha256": ""
+    },
+    "fileApp": {
+      "url": "https://fsn1.your-objectstorage.com/app-store-prod/com.locals.localsapp/apk/v2.1.31/com.locals.localsapp.xapk",
+      "sha256": ""
+    },
+    "rating": 2,
+    "appSize": 14
+  },
+  {
+    "applicationId": "com.rumble.battles",
+    "applicationName": "Rumble: Stream & Watch Videos",
+    "applicationType": "Video Players & Editors",
+    "description": "Welcome to Rumble: The Future of Video & Live Streaming 🚀 Tired of censorship and restrictive algorithms, or looking for a true YouTube alternative? Rumble is a freedom-first video-sharing app built for viewers who believe in free speech and an open Internet.",
+    "versionName": "3.13.2",
+    "versionCode": 734,
+    "privacyRating": 3.5,
+    "icon": {
+      "url": "https://fsn1.your-objectstorage.com/app-store-prod/com.rumble.battles/icon/icon.png",
+      "sha256": ""
+    },
+    "fileApp": {
+      "url": "https://fsn1.your-objectstorage.com/app-store-prod/com.rumble.battles/apk/v3.13.2/com.rumble.battles.xapk",
+      "sha256": ""
+    },
+    "rating": 2,
+    "appSize": 33
   },
   {
     "applicationId": "com.superfeedtech.tpusa",
     "applicationName": "TPUSA",
-    "applicationType": "Social",
+    "applicationType": "Lifestyle",
     "description": "TPUSA is a 501(c)3 non-profit organization whose mission is to identify, educate, train, and organize students to promote freedom.",
-    "versionName": "1.1.17",
-    "versionCode": 92,
-    "privacyRating": 4.5,
-    "rating": 2,
-    "appSize": 46.0,
+    "versionName": "1.1.15",
+    "versionCode": 124,
+    "privacyRating": 3,
     "icon": {
-      "url": "https://fsn1.your-objectstorage.com/app-store-prod/com.superfeedtech.tpusa/icon/com.superfeedtech.tpusa_icon.png",
+      "url": "https://fsn1.your-objectstorage.com/app-store-prod/com.superfeedtech.tpusa/icon/icon.png",
       "sha256": ""
     },
     "fileApp": {
-    "url": "",
-    "sha256": ""
-    }
+      "url": "https://fsn1.your-objectstorage.com/app-store-prod/com.superfeedtech.tpusa/apk/v1.1.15/com.superfeedtech.tpusa.xapk",
+      "sha256": ""
+    },
+    "rating": 2,
+    "appSize": 22
+  },
+  {
+    "applicationId": "com.duolingo",
+    "applicationName": "Duolingo: Language Lessons",
+    "applicationType": "Education",
+    "description": "Learn a new language, chess & more with the world’s most downloaded education app! Duolingo is the fun, free app for learning 40+ languages through quick, bite-sized lessons.",
+    "versionName": "6.77.5",
+    "versionCode": 2351,
+    "privacyRating": 3.5,
+    "icon": {
+      "url": "https://fsn1.your-objectstorage.com/app-store-prod/com.duolingo/icon/icon.png",
+      "sha256": ""
+    },
+    "fileApp": {
+      "url": "https://fsn1.your-objectstorage.com/app-store-prod/com.duolingo/apk/v6.77.5/com.duolingo.xapk",
+      "sha256": ""
+    },
+    "rating": 2,
+    "appSize": 158
+  },
+  {
+    "applicationId": "md.obsidian",
+    "applicationName": "Obsidian",
+    "applicationType": "Productivity",
+    "description": "Obsidian is a powerful knowledge base that works on top of a local folder of plain text Markdown files.",
+    "versionName": "1.12.7",
+    "versionCode": 303,
+    "privacyRating": 3.5,
+    "icon": {
+      "url": "https://fsn1.your-objectstorage.com/app-store-prod/md.obsidian/icon/icon.png",
+      "sha256": ""
+    },
+    "fileApp": {
+      "url": "https://fsn1.your-objectstorage.com/app-store-prod/md.obsidian/apk/v1.12.7/md.obsidian.xapk",
+      "sha256": ""
+    },
+    "rating": 2,
+    "appSize": 17
+  },
+  {
+    "applicationId": "com.etsy.android",
+    "applicationName": "Etsy: Shop Home, Style & More",
+    "applicationType": "Shopping",
+    "description": "Shop Etsy—your global marketplace for original items made, handpicked, and designed by real people for all budgets.",
+    "versionName": "7.75.1",
+    "versionCode": 77501051,
+    "privacyRating": 3,
+    "icon": {
+      "url": "https://fsn1.your-objectstorage.com/app-store-prod/com.etsy.android/icon/icon.png",
+      "sha256": ""
+    },
+    "fileApp": {
+      "url": "https://fsn1.your-objectstorage.com/app-store-prod/com.etsy.android/apk/v7.75.1/com.etsy.android.xapk",
+      "sha256": ""
+    },
+    "rating": 2,
+    "appSize": 62
+  },
+  {
+    "applicationId": "com.shopify.arrive",
+    "applicationName": "Shop: All your favorite brands",
+    "applicationType": "Shopping",
+    "description": "LET’S GO SHOPPING - Earn Shop Cash and spend it in the app.",
+    "versionName": "2.250.1",
+    "versionCode": 3436236,
+    "privacyRating": 3.5,
+    "icon": {
+      "url": "https://fsn1.your-objectstorage.com/app-store-prod/com.shopify.arrive/icon/icon.png",
+      "sha256": ""
+    },
+    "fileApp": {
+      "url": "https://fsn1.your-objectstorage.com/app-store-prod/com.shopify.arrive/apk/v2.250.1/com.shopify.arrive.xapk",
+      "sha256": ""
+    },
+    "rating": 2,
+    "appSize": 98
+  },
+  {
+    "applicationId": "com.quizlet.quizletandroid",
+    "applicationName": "Quizlet: More than Flashcards",
+    "applicationType": "Education",
+    "description": "Quizlet gives you study tools that teach you — not just tell you the answer — so you can walk into every test with confidence.",
+    "versionName": "10.34",
+    "versionCode": 2601759,
+    "privacyRating": 3.5,
+    "icon": {
+      "url": "https://fsn1.your-objectstorage.com/app-store-prod/com.quizlet.quizletandroid/icon/icon.png",
+      "sha256": ""
+    },
+    "fileApp": {
+      "url": "https://fsn1.your-objectstorage.com/app-store-prod/com.quizlet.quizletandroid/apk/v10.34/com.quizlet.quizletandroid.xapk",
+      "sha256": ""
+    },
+    "rating": 2,
+    "appSize": 37
+  },
+  {
+    "applicationId": "org.khanacademy.android",
+    "applicationName": "Khan Academy",
+    "applicationType": "Education",
+    "description": "You can learn anything.",
+    "versionName": "8.4.1",
+    "versionCode": 104534,
+    "privacyRating": 3.5,
+    "icon": {
+      "url": "https://fsn1.your-objectstorage.com/app-store-prod/org.khanacademy.android/icon/icon.png",
+      "sha256": ""
+    },
+    "fileApp": {
+      "url": "https://fsn1.your-objectstorage.com/app-store-prod/org.khanacademy.android/apk/v8.4.1/org.khanacademy.android.xapk",
+      "sha256": ""
+    },
+    "rating": 2,
+    "appSize": 12
+  },
+  {
+    "applicationId": "com.adobe.reader",
+    "applicationName": "Adobe Acrobat Reader: Edit PDF",
+    "applicationType": "Productivity",
+    "description": "Major new updateMajor new updates: Collaborate and share your files in PDF Spaces, turn your document summaries into podcast-style audio, and create standout content in Acrobat Reader with design tools powered by Adobe Express.",
+    "versionName": "26.4.0.44605",
+    "versionCode": 1931644605,
+    "privacyRating": 3,
+    "icon": {
+      "url": "https://fsn1.your-objectstorage.com/app-store-prod/com.adobe.reader/icon/icon.png",
+      "sha256": ""
+    },
+    "fileApp": {
+      "url": "https://fsn1.your-objectstorage.com/app-store-prod/com.adobe.reader/apk/v26.4.0.44605/com.adobe.reader.xapk",
+      "sha256": ""
+    },
+    "rating": 2,
+    "appSize": 71
+  },
+  {
+    "applicationId": "com.duckduckgo.mobile.android",
+    "applicationName": "DuckDuckGo, Duck.ai, & VPN",
+    "applicationType": "Productivity",
+    "description": "At DuckDuckGo, we believe the best way to protect your personal information from hackers, scammers, and privacy-invasive companies is to stop it from being collected at all.",
+    "versionName": "5.277.0",
+    "versionCode": 52770000,
+    "privacyRating": 3,
+    "icon": {
+      "url": "https://fsn1.your-objectstorage.com/app-store-prod/com.duckduckgo.mobile.android/icon/icon.png",
+      "sha256": ""
+    },
+    "fileApp": {
+      "url": "https://fsn1.your-objectstorage.com/app-store-prod/com.duckduckgo.mobile.android/apk/v5.277.0/com.duckduckgo.mobile.android.xapk",
+      "sha256": ""
+    },
+    "rating": 2,
+    "appSize": 90
   },
   {
     "applicationId": "org.telegram.messenger",
     "applicationName": "Telegram",
     "applicationType": "Communication",
     "description": "Pure instant messaging — simple, fast, secure, and synced across all your devices.",
-    "versionName": "11.11.1",
-    "versionCode": 59302,
-    "privacyRating": 3.5,
-     "icon": {
-    	"url":"https://fsn1.your-objectstorage.com/app-store-prod/org.telegram.messenger/icon/icon.png",
-    	"sha256":""
-    },
-    "fileApp": {
-        "url": "",
-        "sha256": ""
-        },
-    "rating": 2,
-    "appSize": 24
-  },
-  {
-    "applicationId": "ai.x.grok",
-    "applicationName": "Grok - AI Assistant",
-    "applicationType": "Productivity",
-    "description": "Grok is an AI-powered assistant, developed by xAI, designed to be maximally truthful, useful, and curious. Get answers to any question, generate striking images, and upload pictures to gain a deeper understanding of your world. With Grok, the universe is in your hands!",
-    "versionName": "0.5.0",
-    "versionCode": 80,
-    "privacyRating": 4.0,
-     "icon": {
-    	"url":"https://fsn1.your-objectstorage.com/app-store-prod/ai.x.grok/icon/icon.png",
-    	"sha256":""
-    },
-    "fileApp": {
-        "url": "",
-        "sha256": ""
-        },
-    "rating": 2,
-    "appSize": 17.0
-  },
-  {
-    "applicationId": "com.reddit.frontpage",
-    "applicationName": "Reddit",
-    "applicationType": "Social",
-    "description": "Welcome to Reddit, the heart of the internet.",
-    "versionName": "2025.18.1",
-    "versionCode": 2518060,
-    "privacyRating": 3.5,
-     "icon": {
-    	"url":"https://fsn1.your-objectstorage.com/app-store-prod/com.reddit.frontpage/icon/icon.png",
-    	"sha256":""
-    },
-    "fileApp": {
-        "url": "",
-        "sha256": ""
-        },
-    "rating": 2,
-    "appSize": 105.0
-  },
-  {
-    "applicationId": "com.waze",
-    "applicationName": "Waze",
-    "applicationType": "Maps & Navigation",
-    "description": "Know what’s ahead on the road with the help from other drivers. Waze is a live map that harnesses the local knowledge of tens of millions of drivers around the world.",
-    "versionName": "5.6.5.2",
-    "versionCode": 1030577,
-    "privacyRating": 2.0,
-     "icon": {
-    	"url":"https://fsn1.your-objectstorage.com/app-store-prod/com.waze/icon/icon.png",
-    	"sha256":""
-    },
-    "fileApp": {
-        "url": "",
-        "sha256": ""
-        },
-    "rating": 2,
-    "appSize": 86.0
- },
- {
-   "applicationId": "com.openbubbles.messaging",
-   "applicationName": "OpenBubbles",
-   "applicationType": "Communication",
-   "description": "Better communicate with friends and family on any device you want.",
-   "versionName": "1.15.0",
-   "versionCode": 20002190,
-   "privacyRating": 4.5,
-    "icon": {
-    "url":"https://fsn1.your-objectstorage.com/app-store-prod/com.openbubbles.messaging/icon/com.openbubbles.messaging_icon.png",
-    "sha256":""
-  },
-  "fileApp": {
-      "url": "",
-      "sha256": ""
-      },
-   "rating": 4.5,
-   "appSize": 125.0
- },
- {
-    "applicationId": "com.vidangel.thechosen",
-    "applicationName": "Angel: TV & Movies",
-    "applicationType": "Entertainment",
-    "description": "Angel isn’t just another streaming service. Our shows, movies, comedy specials, and documentaries are handpicked by our biggest supporters, you, our Angel Guild members. We’re taking the power back from Hollywood gatekeepers and giving it to you.",
-    "versionName": "25.8.22",
-    "versionCode": 1755546936,
-    "privacyRating": 2.5,
-     "icon": {
-    	"url":"https://fsn1.your-objectstorage.com/app-store-prod/com.vidangel.thechosen/icon/com.vidangel.thechosen_icon.png",
-    	"sha256":""
-    },
-    "fileApp": {
-        "url": "",
-        "sha256": ""
-        },
-    "rating": 2,
-    "appSize": 37.0
-  },
-  {
-    "applicationId": "ch.protonmail.android",
-    "applicationName": "Proton Mail: Encrypted Email",
-    "applicationType": "Communication",
-    "description": "Keep your conversations private. Proton Mail is encrypted email from Switzerland. Used by millions worldwide, our all-new email app protects your communications and has everything you need to easily manage your inbox.",
-    "versionName": "4.15.0",
-    "versionCode": 11782,
+    "versionName": "12.6.4",
+    "versionCode": 66662,
     "privacyRating": 3,
-     "icon": {
-    	"url":"https://fsn1.your-objectstorage.com/app-store-prod/ch.protonmail.android/icon/ch.protonmail.android_icon.png",
-    	"sha256":""
+    "icon": {
+      "url": "https://fsn1.your-objectstorage.com/app-store-prod/org.telegram.messenger/icon/icon.png",
+      "sha256": ""
     },
     "fileApp": {
-        "url": "",
-        "sha256": ""
-        },
+      "url": "https://fsn1.your-objectstorage.com/app-store-prod/org.telegram.messenger/apk/v12.6.4/org.telegram.messenger.xapk",
+      "sha256": ""
+    },
     "rating": 2,
-    "appSize": 37.0
+    "appSize": 47
   },
   {
-    "applicationId": "com.adobe.reader",
-    "applicationName": "Adobe Acrobat Reader: Edit PDF",
-    "applicationType": "Productivity",
-    "description": "Major new updateSave time with the updated Adobe Acrobat AI Assistant. From quick answers to deep dives, analyze and synthesize information across multiple documents with insights across docs.",	
-    "versionName": "25.4.1.38546",
-    "versionCode": 1930438546,
-    "privacyRating": 3.0,
-     "icon": {
-    	"url":"https://fsn1.your-objectstorage.com/app-store-prod/com.adobe.reader/icon/com.adobe.reader_icon.png",
-    	"sha256":""
-    },
-    "fileApp": {
-        "url": "",
-        "sha256": ""
-        },
-    "rating": 2,
-    "appSize": 56.0
-  },
-  {  
     "applicationId": "com.dropbox.android",
     "applicationName": "Dropbox: Secure Cloud Storage",
     "applicationType": "Productivity",
-    "description": "Dropbox allows you to backup your most essential files to the cloud, where you may access them at any time and from any location! Over 700 million registered users and 600,000 teams rely on it. Simple to use, trustworthy, private, and secure!",
-    "versionName": "422.2.2",
-    "versionCode": 42220200,
-    "privacyRating": 3.5,
-     "icon": {
-    	"url":"https://fsn1.your-objectstorage.com/app-store-prod/com.dropbox.android/icon/icon.png",
-    	"sha256":""
+    "description": "Dropbox allows you to backup your most essential files to the cloud, where you may access them at any time and from any location! Over 700 million registered users and 600,000 teams rely on it.",
+    "versionName": "470.2.4",
+    "versionCode": 47020400,
+    "privacyRating": 3,
+    "icon": {
+      "url": "https://fsn1.your-objectstorage.com/app-store-prod/com.dropbox.android/icon/icon.png",
+      "sha256": ""
     },
     "fileApp": {
-        "url": "",
-        "sha256": ""
-        },
+      "url": "https://fsn1.your-objectstorage.com/app-store-prod/com.dropbox.android/apk/v470.2.4/com.dropbox.android.xapk",
+      "sha256": ""
+    },
     "rating": 2,
-    "appSize": 77.0
+    "appSize": 91
   },
   {
-    "applicationId": "com.amazon.mShop.android.shopping",
-    "applicationName": "Amazon Shopping",
-    "applicationType": "Shopping",
-    "description": "Product Features",
-    "versionName": "30.9.0.100",
-    "versionCode": 1241294016,
+    "applicationId": "org.videolan.vlc",
+    "applicationName": "VLC for Android",
+    "applicationType": "Video Players & Editors",
+    "description": "VLC media player is a free and open source cross-platform multimedia player that plays most multimedia files as well as discs, devices, and network streaming protocols.",
+    "versionName": "3.7.0",
+    "versionCode": 13070009,
     "privacyRating": 3.5,
-     "icon": {
-    	"url":"https://fsn1.your-objectstorage.com/app-store-prod/com.amazon.mShop.android.shopping/icon/icon.png",
-    	"sha256":""
+    "icon": {
+      "url": "https://fsn1.your-objectstorage.com/app-store-prod/org.videolan.vlc/icon/icon.png",
+      "sha256": ""
     },
     "fileApp": {
-        "url": "",
-        "sha256": ""
-        },
-    "rating": 2,
-    "appSize": 42.0
-  },
-  {  
-    "applicationId": "com.theepochtimes.news",
-    "applicationName": "The Epoch Times: Breaking News",
-    "applicationType": "News & Magazines",
-    "description": "The Epoch Times App serves you with trusted news wherever you are. Get instant access to award-winning journalism, breaking, political, US, China, and world news, as well as news on arts and culture, and more.",
-    "versionName": "2.56.1",
-    "versionCode": 2056012,
-    "privacyRating": 3.5,
-     "icon": {
-    	"url":"https://fsn1.your-objectstorage.com/app-store-prod/com.theepochtimes.news/icon/icon.png",
-    	"sha256":""
+      "url": "https://fsn1.your-objectstorage.com/app-store-prod/org.videolan.vlc/apk/v3.7.0/org.videolan.vlc.xapk",
+      "sha256": ""
     },
-    "fileApp": {
-        "url": "",
-        "sha256": ""
-        },
     "rating": 2,
-    "appSize": 38.0
+    "appSize": 45
   },
-  {  
-    "applicationId": "com.whatsapp",
-    "applicationName": "WhatsApp Messenger",
+  {
+    "applicationId": "chat.simplex.app",
+    "applicationName": "SimpleX Chat",
     "applicationType": "Communication",
-    "description": "WhatsApp from Meta is a FREE messaging and video calling app. It’s used by over 2B people in more than 180 countries. It’s simple, reliable, and private, so you can easily keep in touch with your friends and family. WhatsApp works across mobile and desktop even on slow connections, with no subscription fees*.",
-    "versionName": "2.25.14.76",
-    "versionCode": 251476003,
-    "privacyRating": 3.5,
-     "icon": {
-    	"url":"https://fsn1.your-objectstorage.com/app-store-prod/com.whatsapp/icon/icon.png",
-    	"sha256":""
+    "description": "SimpleX - the first messaging platform that has no user identifiers of any kind - 100% private by design! Security assessment by Trail of Bits: https://simplex.",
+    "versionName": "6.5.1",
+    "versionCode": 347,
+    "privacyRating": 4,
+    "icon": {
+      "url": "https://fsn1.your-objectstorage.com/app-store-prod/chat.simplex.app/icon/icon.png",
+      "sha256": ""
     },
     "fileApp": {
-        "url": "",
-        "sha256": ""
-        },
+      "url": "https://fsn1.your-objectstorage.com/app-store-prod/chat.simplex.app/apk/v6.5.1/chat.simplex.app.xapk",
+      "sha256": ""
+    },
     "rating": 2,
-    "appSize": 80.0
+    "appSize": 88
   }
 ]
