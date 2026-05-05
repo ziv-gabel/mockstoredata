@@ -25,7 +25,7 @@
       },
       {
         "applicationId": "com.whatsapp",
-        "applicationName": "WhatsApp Messenger",
+        "applicationName": "WhatsApp",
         "applicationType": "Communication",
         "description": "WhatsApp from Meta is a FREE messaging and video calling app.",
         "versionName": "2.26.15.76",
@@ -45,7 +45,7 @@
       },
       {
         "applicationId": "org.thoughtcrime.securesms",
-        "applicationName": "Signal Private Messenger",
+        "applicationName": "Signal",
         "applicationType": "Communication",
         "description": "Signal is a messaging app with privacy at its core.",
         "versionName": "8.8.2",
@@ -105,7 +105,7 @@
       },
       {
         "applicationId": "com.facebook.orca",
-        "applicationName": "Messenger",
+        "applicationName": "Facebook Messenger",
         "applicationType": "Communication",
         "description": "Messenger is a free messaging app that helps you connect with anyone, anywhere.",
         "versionName": "558.0.0.46.77",
@@ -131,7 +131,7 @@
     "apps": [
       {
         "applicationId": "com.waze",
-        "applicationName": "Waze Navigation & Live Traffic",
+        "applicationName": "Waze",
         "applicationType": "Maps & Navigation",
         "description": "Know what's ahead on the road with the help from other drivers.",
         "versionName": "5.18.0.1",
@@ -191,7 +191,7 @@
       },
       {
         "applicationId": "com.sygic.aura",
-        "applicationName": "Sygic GPS Navigation & Maps",
+        "applicationName": "Sygic",
         "applicationType": "Maps & Navigation",
         "description": "Sygic GPS Navigation & Maps is innovative GPS navigation app with monthly-updated offline maps and with precise live traffic & speed camera alerts, both updated in real time.",
         "versionName": "26.2.0-108257",
@@ -211,7 +211,7 @@
       },
       {
         "applicationId": "com.tranzmate",
-        "applicationName": "Moovit: Your Transit Tracker",
+        "applicationName": "Moovit",
         "applicationType": "Maps & Navigation",
         "description": "Transform the way you navigate your city with Moovit, the all-in-one app for urban transit.",
         "versionName": "5.190.0.1766",
@@ -231,7 +231,7 @@
       },
       {
         "applicationId": "com.here.app.maps",
-        "applicationName": "HERE WeGo: Maps & Navigation",
+        "applicationName": "HERE WeGo",
         "applicationType": "Maps & Navigation",
         "description": "Welcome to the new HERE WeGo! HERE WeGo is a free navigation app that guides local and global travelers on journeys both familiar and foreign.",
         "versionName": "4.19.300",
@@ -257,7 +257,7 @@
     "apps": [
       {
         "applicationId": "com.microsoft.office.outlook",
-        "applicationName": "Microsoft Outlook",
+        "applicationName": "Outlook",
         "applicationType": "Productivity",
         "description": "Stay organized with a unified inbox, intelligent filtering and multiple calendars at a glance.",
         "versionName": "5.2615.0",
@@ -277,7 +277,7 @@
       },
       {
         "applicationId": "com.evernote",
-        "applicationName": "Evernote - Note Organizer",
+        "applicationName": "Evernote",
         "applicationType": "Productivity",
         "description": "Capture ideas when inspiration strikes.",
         "versionName": "11.13.2",
@@ -317,7 +317,7 @@
       },
       {
         "applicationId": "com.adobe.reader",
-        "applicationName": "Adobe Acrobat Reader: Edit PDF",
+        "applicationName": "Adobe Acrobat Reader",
         "applicationType": "Productivity",
         "description": "Major new updateMajor new updates: Collaborate and share your files in PDF Spaces, turn your document summaries into podcast-style audio, and create standout content in Acrobat Reader with design tools powered by Adobe Express.",
         "versionName": "26.4.0.44605",
@@ -337,7 +337,7 @@
       },
       {
         "applicationId": "com.dropbox.android",
-        "applicationName": "Dropbox: Secure Cloud Storage",
+        "applicationName": "Dropbox",
         "applicationType": "Productivity",
         "description": "Dropbox allows you to backup your most essential files to the cloud, where you may access them at any time and from any location! Over 700 million registered users and 600,000 teams rely on it.",
         "versionName": "470.2.2",
@@ -357,7 +357,7 @@
       },
       {
         "applicationId": "notion.id",
-        "applicationName": "Notion: Notes, Tasks, AI",
+        "applicationName": "Notion",
         "applicationType": "Productivity",
         "description": "Notion is an AI-powered all-in-one workspace that helps individuals and teams write notes, manage tasks, organize projects, and collaborate in one place.",
         "versionName": "0.6.3803",
@@ -383,7 +383,7 @@
     "apps": [
       {
         "applicationId": "com.weather.Weather",
-        "applicationName": "The Weather Channel - Radar",
+        "applicationName": "The Weather Channel",
         "applicationType": "Tools",
         "description": "The Weather Channel is the World's Most Accurate Forecaster*.",
         "versionName": "16.2.0",
@@ -423,7 +423,7 @@
       },
       {
         "applicationId": "com.duckduckgo.mobile.android",
-        "applicationName": "DuckDuckGo, Duck.ai, & VPN",
+        "applicationName": "DuckDuckGo",
         "applicationType": "Tools",
         "description": "At DuckDuckGo, we believe the best way to protect your personal information from hackers, scammers, and privacy-invasive companies is to stop it from being collected at all.",
         "versionName": "5.276.0",
@@ -549,7 +549,7 @@
       },
       {
         "applicationId": "com.hulu.plus",
-        "applicationName": "Hulu: Stream TV shows & movies",
+        "applicationName": "Hulu",
         "applicationType": "Entertainment",
         "description": "Stream TV shows, films, and discover the award-winning classics, blockbuster movies and exclusive Originals that set Hulu apart.",
         "versionName": "6.26.0+16176516-google",
@@ -569,7 +569,7 @@
       },
       {
         "applicationId": "com.wbd.stream",
-        "applicationName": "HBO Max: Stream TV & Movies",
+        "applicationName": "HBO",
         "applicationType": "Entertainment",
         "description": "The most talked about shows and movies featuring the worlds of HBO, the DC Universe, Adult Swim, A24, and beyond.",
         "versionName": "7.0.0.82",
@@ -589,7 +589,7 @@
       },
       {
         "applicationId": "com.peacocktv.peacockandroid",
-        "applicationName": "Peacock TV: Stream TV & Movies",
+        "applicationName": "Peacock",
         "applicationType": "Entertainment",
         "description": "Download Peacock, NBCUniversal’s streaming service.",
         "versionName": "7.4.21",
@@ -635,7 +635,7 @@
     "apps": [
       {
         "applicationId": "com.spotify.music",
-        "applicationName": "Spotify: Music and Podcasts",
+        "applicationName": "Spotify",
         "applicationType": "Music & Audio",
         "description": "With the Spotify music and podcast app, you can play millions of songs, albums and original podcasts for free.",
         "versionName": "9.1.42.2058",
@@ -675,7 +675,7 @@
       },
       {
         "applicationId": "com.pandora.android",
-        "applicationName": "Pandora - Music & Podcasts",
+        "applicationName": "Pandora",
         "applicationType": "Music & Audio",
         "description": "Pandora gives you a personalized listening experience that continually evolves with your tastes.",
         "versionName": "2602.1.1",
@@ -695,7 +695,7 @@
       },
       {
         "applicationId": "com.soundcloud.android",
-        "applicationName": "SoundCloud: The Music You Love",
+        "applicationName": "SoundCloud",
         "applicationType": "Music & Audio",
         "description": "What’s next in music is first on SoundCloud.",
         "versionName": "2026.04.16-release",
@@ -715,7 +715,7 @@
       },
       {
         "applicationId": "com.google.android.apps.youtube.music",
-        "applicationName": "Youtube Music",
+        "applicationName": "YouTube Music",
         "applicationType": "Music & Audio",
         "description": "Connecting you to the world of music:",
         "versionName": "9.16.51",
@@ -735,7 +735,7 @@
       },
       {
         "applicationId": "com.amazon.mp3",
-        "applicationName": "Amazon Music: Songs & Podcasts",
+        "applicationName": "Amazon Music",
         "applicationType": "Music & Audio",
         "description": "We're changing the way you discover and play the music you love.",
         "versionName": "26.11.2",
@@ -861,7 +861,7 @@
       },
       {
         "applicationId": "tv.twitch.android.app",
-        "applicationName": "Twitch: Live Streaming",
+        "applicationName": "Twitch",
         "applicationType": "Social",
         "description": "Welcome to the Purple App, where thousands of communities come together for our favorite streamers, for the games we love, for the lulz, for each other, for whatever.",
         "versionName": "28.8.1_BETA",
@@ -887,7 +887,7 @@
     "apps": [
       {
         "applicationId": "com.amazon.mShop.android.shopping",
-        "applicationName": "Amazon Shopping",
+        "applicationName": "Amazon",
         "applicationType": "Shopping",
         "description": "Product Features Amazon Shopping offers app-only benefits to help make shopping on Amazon faster and easier than shopping on your desktop.",
         "versionName": "32.8.2.100",
@@ -907,7 +907,7 @@
       },
       {
         "applicationId": "com.instacart.client",
-        "applicationName": "Instacart: Get Food Delivery",
+        "applicationName": "Instacart",
         "applicationType": "Shopping",
         "description": "Get food and grocery orders delivered directly to your door in as fast as 30 minutes with our app that helps with your shopping.",
         "versionName": "9.13.3",
@@ -927,7 +927,7 @@
       },
       {
         "applicationId": "com.costco.app.android",
-        "applicationName": "Costco Wholesale",
+        "applicationName": "Costco",
         "applicationType": "Shopping",
         "description": "The Costco Mobile App is the easiest way to save time and money on the go.",
         "versionName": "26.4.1.4",
@@ -947,7 +947,7 @@
       },
       {
         "applicationId": "com.walmart.android",
-        "applicationName": "Walmart: Shopping & Savings",
+        "applicationName": "Walmart",
         "applicationType": "Shopping",
         "description": "Save money.",
         "versionName": "26.14.1",
@@ -967,7 +967,7 @@
       },
       {
         "applicationId": "com.thehomedepot",
-        "applicationName": "The Home Depot",
+        "applicationName": "Home Depot",
         "applicationType": "Shopping",
         "description": "It's a good time to be a doer.",
         "versionName": "7.60.2",
@@ -987,7 +987,7 @@
       },
       {
         "applicationId": "com.target.ui",
-        "applicationName": "Target: Shop. Style. Save.",
+        "applicationName": "Target",
         "applicationType": "Shopping",
         "description": "Spring is the season for fresh starts, brighter days and everyday moments that matter.",
         "versionName": "2026.15.0",
@@ -1013,7 +1013,7 @@
     "apps": [
       {
         "applicationId": "com.foxnews.android",
-        "applicationName": "Fox News - Daily Breaking News",
+        "applicationName": "Fox News",
         "applicationType": "News & Magazines",
         "description": "Stay informed with 24/7 access to the latest headlines and expert analysis on the reports of today with the FOX News App, your leading source for breaking national and international stories.",
         "versionName": "5.24.0",
@@ -1053,7 +1053,7 @@
       },
       {
         "applicationId": "wsj.reader_sp",
-        "applicationName": "The Wall Street Journal. News",
+        "applicationName": "The Wall Street Journal",
         "applicationType": "News & Magazines",
         "description": "**By downloading the app you agree to Dow Jones Terms of Use, Privacy Notice, and Cookie Notice** Stay ahead of the competition with the app that’s as ambitious as you are.",
         "versionName": "6.38.0.28729",
@@ -1073,7 +1073,7 @@
       },
       {
         "applicationId": "com.particlenews.newsbreak",
-        "applicationName": "NewsBreak: Local News & Alerts",
+        "applicationName": "NewsBreak",
         "applicationType": "News & Magazines",
         "description": "Get daily news alerts & updates on current events sent straight to your phone, because a small news reader makes a big difference to communities!",
         "versionName": "26.16.1",
@@ -1093,7 +1093,7 @@
       },
       {
         "applicationId": "bbc.mobile.news.ww",
-        "applicationName": "BBC: World News & Stories",
+        "applicationName": "BBC",
         "applicationType": "News & Magazines",
         "description": "THE BBC APP: News, stories, audio, videos, documentaries and live coverage from our trusted global network of journalists.",
         "versionName": "2026.1.0",
@@ -1113,7 +1113,7 @@
       },
       {
         "applicationId": "com.theepochtimes.news",
-        "applicationName": "The Epoch Times: Breaking News",
+        "applicationName": "The Epoch Times",
         "applicationType": "News & Magazines",
         "description": "The Epoch Times App serves you with trusted news wherever you are.",
         "versionName": "3.1.17",
@@ -1159,7 +1159,7 @@
       },
       {
         "applicationId": "com.robinhood.android",
-        "applicationName": "Robinhood: Trading & Investing",
+        "applicationName": "Robinhood",
         "applicationType": "Finance",
         "description": "Robinhood helps you run your money your way.",
         "versionName": "2026.16.3",
@@ -1199,7 +1199,7 @@
       },
       {
         "applicationId": "com.paypal.android.p2pmobile",
-        "applicationName": "PayPal - Pay, Send, Save",
+        "applicationName": "PayPal",
         "applicationType": "Finance",
         "description": "PayPal is a smart and secure way to shop in-store and online, earn cash back on brands you love, send money to friends and much more.",
         "versionName": "8.105.1",
@@ -1219,7 +1219,7 @@
       },
       {
         "applicationId": "com.monarchmoney.mobile",
-        "applicationName": "Monarch: Budget & Track Money",
+        "applicationName": "Monarch",
         "applicationType": "Finance",
         "description": "Consider Monarch your home base for money clarity.",
         "versionName": "2.0.93",
@@ -1239,7 +1239,7 @@
       },
       {
         "applicationId": "com.acorns.android",
-        "applicationName": "Acorns: Save & Invest Money",
+        "applicationName": "Acorns",
         "applicationType": "Finance",
         "description": "Acorns helps you save, invest, and grow for your future.",
         "versionName": "4.190.0",
@@ -1265,7 +1265,7 @@
     "apps": [
       {
         "applicationId": "com.anthropic.claude",
-        "applicationName": "Claude by Anthropic",
+        "applicationName": "Claude",
         "applicationType": "Productivity",
         "description": "Meet Claude, your AI problem solver and thinking partner.",
         "versionName": "1.260423.20",
@@ -1285,7 +1285,7 @@
       },
       {
         "applicationId": "com.unplugged.pwa.chatgpt",
-        "applicationName": "ChatGPT- Open AI",
+        "applicationName": "ChatGPT",
         "applicationType": "Productivity",
         "description": "Introducing ChatGPT for Android: OpenAI’s latest advancements at your fingertips.",
         "versionName": "1.0.0",
@@ -1305,7 +1305,7 @@
       },
       {
         "applicationId": "ai.x.grok",
-        "applicationName": "Grok - AI Chat & Video",
+        "applicationName": "Grok",
         "applicationType": "Productivity",
         "description": "Grok is an AI-powered assistant, developed by xAI, designed to be maximally truthful, useful, and curious.",
         "versionName": "1.1.62-release.00",
@@ -1325,7 +1325,7 @@
       },
       {
         "applicationId": "com.deepseek.chat",
-        "applicationName": "DeepSeek - AI Assistant",
+        "applicationName": "DeepSeek",
         "applicationType": "Productivity",
         "description": "Experience seamless interaction with DeepSeek's official AI assistant for free! Powered by DeepSeek’s latest flagship model, it delivers faster responses and more powerful features to help you solve problems and live more efficiently.",
         "versionName": "2.0.4",
@@ -1365,7 +1365,7 @@
       },
       {
         "applicationId": "ai.perplexity.app.android",
-        "applicationName": "Perplexity - Ask Anything",
+        "applicationName": "Perplexity",
         "applicationType": "Productivity",
         "description": "Perplexity—Where Knowledge Begins.",
         "versionName": "2.84.1",
