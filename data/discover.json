@@ -630,7 +630,7 @@
     "applicationId": "chat.simplex.app",
     "applicationName": "SimpleX Chat",
     "applicationType": "Communication",
-    "description": "SimpleX - the first messaging platform that has no user identifiers of any kind - 100% private by design! Security assessment by Trail of Bits: https://simplex.",
+    "description": "Private messaging without a phone number",
     "versionName": "6.5.1",
     "versionCode": 347,
     "privacyRating": 4,
