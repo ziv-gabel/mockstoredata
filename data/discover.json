@@ -98,7 +98,7 @@
     "applicationId": "com.anthropic.claude",
     "applicationName": "Claude",
     "applicationType": "Productivity",
-    "description": "AI assistant for writing, thinking, and problem solving",
+    "description": "AI assistant for writing, thinking, and problem-solving",
     "versionName": "1.260423.20",
     "versionCode": 26042320,
     "privacyRating": 3,
