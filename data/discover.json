@@ -1,7 +1,7 @@
 [
   {
     "applicationId": "com.unplugged.pwa.x",
-    "applicationName": "X (Formerly Twitter)",
+    "applicationName": "X",
     "applicationType": "Social",
     "description": "Real-time global conversation without gatekeepers",
     "versionName": "1.0.0",
